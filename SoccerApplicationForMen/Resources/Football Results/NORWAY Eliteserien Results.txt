@@ -1,0 +1,400 @@
+ NORWAY: Eliteserien
+Round 12
+28.05. 19:00	
+Sarpsborg 08
+Stabaek
+4 : 2	
+27.05. 20:00	
+Rosenborg
+Brann
+1 : 2	
+27.05. 18:00	
+Bodo/Glimt
+Ranheim
+4 : 0	
+27.05. 18:00	
+Haugesund
+Tromsø
+1 : 0	
+27.05. 18:00	
+Molde
+Start
+3 : 1	
+27.05. 18:00	
+Odd
+Kristiansund
+1 : 2	
+27.05. 18:00	
+Strömsgodset
+Sandefjord
+2 : 0	
+26.05. 17:00	
+Vålerenga
+Lillestrom
+1 : 0	
+Round 11
+21.05. 20:00	
+Lillestrom
+Brann
+1 : 1	
+21.05. 18:00	
+Haugesund
+Rosenborg 
+1 : 2	
+21.05. 18:00	
+Kristiansund
+Strömsgodset
+4 : 0	
+21.05. 18:00	
+Ranheim
+Molde
+3 : 1	
+21.05. 18:00	
+Sandefjord
+Sarpsborg 08
+0 : 1	
+21.05. 18:00	
+Stabaek
+Odd
+2 : 1	
+21.05. 18:00	
+Start
+Bodo/Glimt
+1 : 0	
+21.05. 18:00	
+Tromsø
+Vålerenga
+3 : 0	
+Round 10
+16.05. 18:00	
+Bodo/Glimt
+Tromsø
+0 : 1	
+16.05. 18:00	
+Brann
+Haugesund
+1 : 1	
+16.05. 18:00	
+Kristiansund
+Ranheim
+1 : 3	
+16.05. 18:00	
+Molde
+Strömsgodset
+2 : 0	
+16.05. 18:00	
+Odd
+Sandefjord
+5 : 0	
+16.05. 18:00	
+Rosenborg
+Lillestrom
+3 : 0	
+16.05. 18:00	
+Sarpsborg 08
+Start
+4 : 0	
+16.05. 18:00	
+Vålerenga
+Stabaek
+1 : 0	
+Round 9
+13.05. 20:00	
+Stabaek
+Rosenborg
+0 : 1	
+13.05. 18:00	
+Haugesund
+Kristiansund
+3 : 2	
+13.05. 18:00	
+Molde
+Bodo/Glimt
+1 : 2	
+13.05. 18:00	
+Ranheim
+Odd
+3 : 1	
+13.05. 18:00	
+Strömsgodset
+Sarpsborg 08
+1 : 2	
+13.05. 18:00	
+Tromsø
+Lillestrom
+1 : 2	
+12.05. 18:00	
+Start
+Brann
+0 : 1	
+12.05. 15:30	
+Sandefjord
+Vålerenga
+0 : 1	
+Round 8
+07.05. 19:00	
+Sarpsborg 08
+Molde 
+2 : 2	
+06.05. 20:00	
+Brann
+Tromsø
+3 : 0	
+06.05. 18:00	
+Bodo/Glimt
+Strömsgodset
+2 : 2	
+06.05. 18:00	
+Kristiansund
+Stabaek
+1 : 0	
+06.05. 18:00	
+Lillestrom
+Sandefjord
+1 : 0	
+06.05. 18:00	
+Odd
+Start 
+3 : 0	
+06.05. 18:00	
+Vålerenga
+Haugesund
+2 : 2	
+05.05. 18:00	
+Rosenborg
+Ranheim
+1 : 1
+Round 7
+30.04. 19:00	
+Stabaek
+Lillestrom
+3 : 2	
+29.04. 20:00	
+Strömsgodset
+Rosenborg
+0 : 1	
+29.04. 18:00	
+Molde
+Odd
+0 : 1	
+29.04. 18:00	
+Sandefjord
+Brann
+0 : 1	
+29.04. 18:00	
+Sarpsborg 08
+Bodo/Glimt
+0 : 0	
+29.04. 18:00	
+Start
+Haugesund
+0 : 1	
+29.04. 18:00	
+Tromsø
+Kristiansund
+0 : 0	
+28.04. 18:00	
+Ranheim
+Vålerenga 
+2 : 2	
+Round 1
+25.04. 18:30	
+Ranheim
+Brann
+0 : 2	
+Round 2
+25.04. 18:30	
+Stabaek
+Start
+1 : 1	
+Round 6
+23.04. 19:00	
+Odd
+Sarpsborg 08
+3 : 1	
+22.04. 20:00	
+Vålerenga
+Molde
+0 : 0	
+22.04. 18:00	
+Haugesund
+Strömsgodset
+1 : 0	
+22.04. 18:00	
+Kristiansund
+Bodo/Glimt
+1 : 1	
+22.04. 18:00	
+Lillestrom
+Ranheim
+0 : 1	
+22.04. 18:00	
+Rosenborg
+Start
+2 : 0	
+22.04. 18:00	
+Tromsø
+Sandefjord
+4 : 1	
+21.04. 18:00	
+Brann
+Stabaek
+3 : 0	
+Round 5
+16.04. 19:00	
+Bodo/Glimt
+Rosenborg
+0 : 1	
+15.04. 20:00	
+Sarpsborg 08
+Brann
+1 : 2	
+15.04. 18:00	
+Molde
+Lillestrom
+2 : 1	
+15.04. 18:00	
+Ranheim
+Haugesund
+4 : 2	
+15.04. 18:00	
+Sandefjord
+Kristiansund
+3 : 3	
+15.04. 18:00	
+Stabaek
+Tromsø
+1 : 1	
+15.04. 18:00	
+Strömsgodset
+Odd
+3 : 0	
+14.04. 18:00	
+Start 
+Vålerenga
+1 : 6	
+Round 2
+11.04. 18:30	
+Sandefjord
+Ranheim
+1 : 2	
+11.04. 18:30	
+Tromsø
+Strömsgodset
+3 : 1	
+Round 4
+09.04. 19:00	
+Lillestrom
+Start
+1 : 0	
+08.04. 20:00	
+Rosenborg
+Molde
+4 : 0	
+08.04. 18:00	
+Brann
+Kristiansund
+1 : 0	
+08.04. 18:00	
+Haugesund
+Sarpsborg 08
+1 : 1	
+08.04. 18:00	
+Odd
+Bodo/Glimt
+1 : 0	
+08.04. 18:00	
+Sandefjord
+Stabaek
+1 : 1	
+08.04. 18:00	
+Tromsø
+Ranheim
+4 : 0	
+07.04. 18:00	
+Vålerenga
+Strömsgodset
+1 : 4	
+Round 3
+02.04. 20:00	
+Odd
+Rosenborg
+1 : 1	
+02.04. 18:00	
+Bodo/Glimt
+Haugesund
+0 : 3	
+02.04. 18:00	
+Kristiansund
+Lillestrom
+2 : 1	
+02.04. 18:00	
+Molde
+Tromsø
+2 : 1	
+02.04. 18:00	
+Ranheim
+Stabaek
+4 : 1	
+02.04. 18:00	
+Sarpsborg 08
+Vålerenga
+3 : 0	
+02.04. 18:00	
+Start
+Sandefjord
+1 : 4	
+02.04. 18:00	
+Strömsgodset
+Brann
+1 : 1	
+Round 2
+18.03. 21:00	
+Vålerenga
+Odd
+2 : 1	
+18.03. 19:00	
+Brann
+Bodo/Glimt
+2 : 0	
+18.03. 19:00	
+Haugesund
+Molde
+0 : 1	
+17.03. 19:00	
+Rosenborg
+Kristiansund
+2 : 2	
+17.03. 16:30	
+Lillestrom
+Sarpsborg 08
+2 : 2	
+Round 1
+12.03. 20:00	
+Kristiansund 
+Vålerenga
+0 : 1	
+11.03. 21:00	
+Sarpsborg 08
+Rosenborg
+1 : 0	
+11.03. 19:00	
+Bodo/Glimt
+Lillestrom
+3 : 1	
+11.03. 19:00	
+Molde
+Sandefjord
+5 : 0	
+11.03. 19:00	
+Odd
+Haugesund
+1 : 2	
+11.03. 19:00	
+Start
+Tromsø
+4 : 1	
+11.03. 19:00	
+Strömsgodset
+Stabaek
+2 : 2

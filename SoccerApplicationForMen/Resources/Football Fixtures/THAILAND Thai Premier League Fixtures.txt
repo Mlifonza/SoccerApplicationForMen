@@ -1,0 +1,666 @@
+ THAILAND: Thai Premier League
+Round 17
+26.05. 12:45	
+Chiangrai
+Nakhon Ratchasima
+ 
+26.05. 13:00	
+Buriram
+Air Force Central
+ 
+26.05. 13:00	
+Police Tero
+Thai Navy
+ 
+26.05. 13:00	
+Sukhothai
+Ratchaburi
+ 
+26.05. 14:00	
+Chonburi
+Port MTI FC
+ 
+26.05. 14:00	
+Pattaya
+Muangthong
+ 
+26.05. 14:00	
+Suphanburi
+Prachuap
+ 
+26.05. 14:00	
+Ubon
+Bangkok Glass
+ 
+26.05. 15:00	
+Bangkok Utd
+Chainat
+ 
+Round 18
+09.06. 12:45	
+Port MTI FC
+Muangthong
+ 
+09.06. 13:00	
+Chiangrai
+Sukhothai
+ 
+09.06. 14:00	
+Bangkok Glass
+Buriram
+ 
+09.06. 14:00	
+Prachuap
+Ubon
+ 
+09.06. 15:00	
+Nakhon Ratchasima
+Suphanburi
+ 
+10.06. 13:00	
+Bangkok Utd
+Police Tero
+ 
+10.06. 13:00	
+Chainat
+Pattaya
+ 
+10.06. 14:00	
+Air Force Central
+Ratchaburi
+ 
+10.06. 14:00	
+Thai Navy
+Chonburi
+ 
+Round 19
+16.06. 12:45	
+Ratchaburi
+Port MTI FC
+ 
+16.06. 13:00	
+Suphanburi
+Bangkok Utd
+ 
+16.06. 14:00	
+Police Tero
+Chiangrai
+ 
+16.06. 14:00	
+Sukhothai
+Chonburi
+ 
+16.06. 15:00	
+Buriram
+Chainat
+ 
+17.06. 13:00	
+Pattaya
+Prachuap
+ 
+17.06. 13:00	
+Ubon
+Nakhon Ratchasima
+ 
+17.06. 14:00	
+Bangkok Glass
+Thai Navy
+ 
+17.06. 14:00	
+Muangthong
+Air Force Central
+ 
+Round 20
+22.06. 15:00	
+Nakhon Ratchasima
+Police Tero
+ 
+23.06. 12:45	
+Chainat
+Sukhothai
+ 
+23.06. 13:00	
+Bangkok Utd
+Ratchaburi
+ 
+23.06. 14:00	
+Air Force Central
+Ubon
+ 
+23.06. 15:00	
+Chonburi
+Suphanburi
+ 
+24.06. 13:00	
+Port MTI FC
+Bangkok Glass
+ 
+24.06. 13:00	
+Prachuap
+Buriram
+ 
+24.06. 14:00	
+Chiangrai
+Muangthong
+ 
+24.06. 14:00	
+Thai Navy
+Pattaya
+ 
+Round 21
+30.06. 12:45	
+Ubon
+Port MTI FC
+ 
+30.06. 13:00	
+Muangthong
+Prachuap
+ 
+30.06. 14:00	
+Air Force Central
+Pattaya
+ 
+30.06. 14:00	
+Buriram
+Bangkok Utd
+ 
+30.06. 15:00	
+Sukhothai
+Nakhon Ratchasima
+ 
+01.07. 13:00	
+Police Tero
+Chainat
+ 
+01.07. 13:00	
+Suphanburi
+Thai Navy
+ 
+01.07. 14:00	
+Bangkok Glass
+Chonburi
+ 
+01.07. 14:00	
+Ratchaburi
+Chiangrai
+ 
+Round 22
+07.07. 12:45	
+Prachuap
+Bangkok Glass
+ 
+07.07. 13:00	
+Nakhon Ratchasima
+Ratchaburi
+ 
+07.07. 14:00	
+Bangkok Utd
+Pattaya
+ 
+07.07. 14:00	
+Ubon
+Muangthong
+ 
+07.07. 15:00	
+Thai Navy
+Buriram
+ 
+08.07. 13:00	
+Chainat
+Air Force Central
+ 
+08.07. 13:00	
+Chonburi
+Police Tero
+ 
+08.07. 14:00	
+Chiangrai
+Suphanburi
+ 
+08.07. 14:00	
+Port MTI FC
+Sukhothai
+ 
+Round 23
+14.07. 12:45	
+Chainat
+Chiangrai
+ 
+14.07. 13:00	
+Sukhothai
+Thai Navy
+ 
+14.07. 14:00	
+Buriram
+Ubon
+ 
+14.07. 14:00	
+Ratchaburi
+Chonburi
+ 
+14.07. 15:00	
+Bangkok Utd
+Prachuap
+ 
+15.07. 13:00	
+Muangthong
+Nakhon Ratchasima
+ 
+15.07. 13:00	
+Police Tero
+Suphanburi
+ 
+15.07. 14:00	
+Air Force Central
+Port MTI FC
+ 
+15.07. 14:00	
+Pattaya
+Bangkok Glass
+ 
+Round 24
+21.07. 12:45	
+Nakhon Ratchasima
+Chainat
+ 
+21.07. 13:00	
+Chiangrai
+Bangkok Utd
+ 
+21.07. 14:00	
+Bangkok Glass
+Muangthong
+ 
+21.07. 14:00	
+Port MTI FC
+Police Tero
+ 
+21.07. 15:00	
+Ubon
+Sukhothai
+ 
+22.07. 13:00	
+Prachuap
+Air Force Central
+ 
+22.07. 13:00	
+Thai Navy
+Ratchaburi
+ 
+22.07. 14:00	
+Chonburi
+Buriram
+ 
+22.07. 14:00	
+Suphanburi
+Pattaya
+ 
+Round 25
+28.07. 12:45	
+Thai Navy
+Muangthong
+ 
+28.07. 13:00	
+Chainat
+Chonburi
+ 
+28.07. 14:00	
+Buriram
+Suphanburi
+ 
+28.07. 14:00	
+Sukhothai
+Prachuap
+ 
+28.07. 15:00	
+Ratchaburi
+Ubon
+ 
+29.07. 13:00	
+Pattaya
+Chiangrai
+ 
+29.07. 13:00	
+Police Tero
+Bangkok Glass
+ 
+29.07. 14:00	
+Air Force Central
+Nakhon Ratchasima
+ 
+29.07. 14:00	
+Bangkok Utd
+Port MTI FC
+ 
+Round 26
+04.08. 12:45	
+Prachuap
+Ratchaburi
+ 
+04.08. 13:00	
+Chonburi
+Pattaya
+ 
+04.08. 14:00	
+Chiangrai
+Air Force Central
+ 
+04.08. 14:00	
+Thai Navy
+Chainat
+ 
+04.08. 15:00	
+Bangkok Glass
+Sukhothai
+ 
+05.08. 13:00	
+Nakhon Ratchasima
+Bangkok Utd
+ 
+05.08. 13:00	
+Port MTI FC
+Buriram
+ 
+05.08. 14:00	
+Suphanburi
+Muangthong
+ 
+05.08. 14:00	
+Ubon
+Police Tero
+ 
+Round 27
+05.09. 12:45	
+Air Force Central
+Thai Navy
+ 
+05.09. 12:45	
+Sukhothai
+Police Tero
+ 
+05.09. 13:00	
+Bangkok Utd
+Bangkok Glass
+ 
+05.09. 13:00	
+Chainat
+Ubon
+ 
+05.09. 14:00	
+Buriram
+Chiangrai
+ 
+05.09. 14:00	
+Pattaya
+Nakhon Ratchasima
+ 
+05.09. 14:00	
+Ratchaburi
+Suphanburi
+ 
+05.09. 15:00	
+Muangthong
+Chonburi
+ 
+05.09. 15:00	
+Prachuap
+Port MTI FC
+ 
+Round 28
+08.09. 12:45	
+Ubon
+Pattaya
+ 
+08.09. 13:00	
+Thai Navy
+Bangkok Utd
+ 
+08.09. 14:00	
+Nakhon Ratchasima
+Buriram
+ 
+08.09. 14:00	
+Police Tero
+Muangthong
+ 
+08.09. 15:00	
+Chonburi
+Air Force Central
+ 
+09.09. 13:00	
+Bangkok Glass
+Ratchaburi
+ 
+09.09. 13:00	
+Chiangrai
+Prachuap
+ 
+09.09. 14:00	
+Port MTI FC
+Chainat
+ 
+09.09. 14:00	
+Suphanburi
+Sukhothai
+ 
+Round 29
+12.09. 12:45	
+Chainat
+Bangkok Glass
+ 
+12.09. 12:45	
+Chiangrai
+Port MTI FC
+ 
+12.09. 13:00	
+Prachuap
+Chonburi
+ 
+12.09. 13:00	
+Ratchaburi
+Muangthong
+ 
+12.09. 14:00	
+Buriram
+Sukhothai
+ 
+12.09. 14:00	
+Nakhon Ratchasima
+Thai Navy
+ 
+12.09. 14:00	
+Pattaya
+Police Tero
+ 
+12.09. 15:00	
+Air Force Central
+Suphanburi
+ 
+12.09. 15:00	
+Bangkok Utd
+Ubon
+ 
+Round 30
+15.09. 12:45	
+Suphanburi
+Ubon
+ 
+15.09. 13:00	
+Port MTI FC
+Nakhon Ratchasima
+ 
+15.09. 14:00	
+Bangkok Glass
+Chiangrai
+ 
+15.09. 14:00	
+Police Tero
+Air Force Central
+ 
+15.09. 15:00	
+Sukhothai
+Pattaya
+ 
+16.09. 13:00	
+Chonburi
+Bangkok Utd
+ 
+16.09. 13:00	
+Ratchaburi
+Chainat
+ 
+16.09. 14:00	
+Muangthong
+Buriram
+ 
+16.09. 14:00	
+Thai Navy
+Prachuap
+ 
+Round 31
+22.09. 12:45	
+Pattaya
+Ratchaburi
+ 
+22.09. 13:00	
+Port MTI FC
+Suphanburi
+ 
+22.09. 14:00	
+Chainat
+Muangthong
+ 
+22.09. 14:00	
+Nakhon Ratchasima
+Prachuap
+ 
+22.09. 15:00	
+Buriram
+Police Tero
+ 
+23.09. 13:00	
+Air Force Central
+Bangkok Glass
+ 
+23.09. 13:00	
+Chiangrai
+Thai Navy
+ 
+23.09. 14:00	
+Bangkok Utd
+Sukhothai
+ 
+23.09. 14:00	
+Ubon
+Chonburi
+ 
+Round 32
+29.09. 12:45	
+Chonburi
+Nakhon Ratchasima
+ 
+29.09. 13:00	
+Buriram
+Pattaya
+ 
+29.09. 14:00	
+Bangkok Utd
+Air Force Central
+ 
+29.09. 14:00	
+Prachuap
+Chainat
+ 
+29.09. 15:00	
+Thai Navy
+Port MTI FC
+ 
+30.09. 13:00	
+Chiangrai
+Ubon
+ 
+30.09. 13:00	
+Sukhothai
+Muangthong
+ 
+30.09. 14:00	
+Police Tero
+Ratchaburi
+ 
+30.09. 14:00	
+Suphanburi
+Bangkok Glass
+ 
+Round 33
+03.10. 13:00	
+Air Force Central
+Buriram
+ 
+03.10. 13:00	
+Bangkok Glass
+Ubon
+ 
+03.10. 13:00	
+Chainat
+Bangkok Utd
+ 
+03.10. 13:00	
+Muangthong
+Pattaya
+ 
+03.10. 13:00	
+Nakhon Ratchasima
+Chiangrai
+ 
+03.10. 13:00	
+Port MTI FC
+Chonburi
+ 
+03.10. 13:00	
+Prachuap
+Suphanburi
+ 
+03.10. 13:00	
+Ratchaburi
+Sukhothai
+ 
+03.10. 13:00	
+Thai Navy
+Police Tero
+ 
+Round 34
+07.10. 13:00	
+Bangkok Glass
+Nakhon Ratchasima
+ 
+07.10. 13:00	
+Chonburi
+Chiangrai
+ 
+07.10. 13:00	
+Muangthong
+Bangkok Utd
+ 
+07.10. 13:00	
+Pattaya
+Port MTI FC
+ 
+07.10. 13:00	
+Police Tero
+Prachuap
+ 
+07.10. 13:00	
+Ratchaburi
+Buriram
+ 
+07.10. 13:00	
+Sukhothai
+Air Force Central
+ 
+07.10. 13:00	
+Suphanburi
+Chainat
+ 
+07.10. 13:00	
+Ubon
+Thai Navy

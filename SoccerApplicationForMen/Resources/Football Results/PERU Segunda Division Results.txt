@@ -1,0 +1,233 @@
+ PERU: Segunda Division
+Round 8
+27.05. 22:30	
+Santa Rosa
+Alianza Atl.
+2 : 1	
+27.05. 22:30	
+Sport Victoria
+Juan Aurich
+0 : 1	
+27.05. 22:00	
+Cesar Vallejo
+Huaral
+3 : 0	
+27.05. 22:00	
+Cienciano
+Alfredo Salinas
+1 : 0	
+27.05. 22:00	
+Grau
+Hualgayoc
+2 : 2	
+26.05. 22:30	
+Deportivo Coopsol
+Willy Serrato
+3 : 3	
+26.05. 18:00	
+Los Caimanes
+Sport Loreto
+2 : 0	
+Round 7
+20.05. 22:45	
+Willy Serrato
+Carlos Manucci
+0 : 1	
+20.05. 22:30	
+Hualgayoc
+Cienciano
+1 : 4	
+20.05. 22:30	
+Huaral
+Sport Victoria
+1 : 0	
+20.05. 22:00	
+Alfredo Salinas
+Santa Rosa
+1 : 3	
+20.05. 22:00	
+Sport Loreto
+Deportivo Coopsol
+2 : 2	
+20.05. 20:00	
+Alianza Atl.
+Los Caimanes
+1 : 2	
+20.05. 20:00	
+Juan Aurich
+Grau
+1 : 0
+Round 6
+13.05. 22:30	
+Cienciano
+Juan Aurich
+1 : 0	
+13.05. 22:30	
+Santa Rosa
+Hualgayoc
+0 : 2	
+13.05. 22:00	
+Grau
+Huaral
+2 : 2	
+12.05. 22:30	
+Carlos Manucci
+Sport Loreto
+1 : 0	
+12.05. 22:30	
+Deportivo Coopsol
+Alianza Atl.
+1 : 1	
+12.05. 22:30	
+Sport Victoria
+Cesar Vallejo
+0 : 1	
+12.05. 20:00	
+Los Caimanes
+Alfredo Salinas
+1 : 1	
+Round 5
+06.05. 22:30	
+Hualgayoc
+Los Caimanes
+2 : 1	
+06.05. 22:30	
+Huaral
+Cienciano
+1 : 0	
+06.05. 22:00	
+Alfredo Salinas
+Deportivo Coopsol
+3 : 0	
+06.05. 22:00	
+Cesar Vallejo
+Grau
+2 : 0	
+06.05. 22:00	
+Sport Loreto
+Willy Serrato
+2 : 1	
+06.05. 20:00	
+Juan Aurich
+Santa Rosa
+0 : 1	
+05.05. 20:00	
+Alianza Atl.
+Carlos Manucci
+1 : 1	
+Round 4
+29.04. 22:45	
+Willy Serrato
+Alianza Atl.
+3 : 0	
+29.04. 22:30	
+Carlos Manucci
+Alfredo Salinas
+2 : 1	
+29.04. 22:30	
+Cienciano
+Cesar Vallejo
+0 : 4	
+29.04. 22:30	
+Santa Rosa
+Huaral
+3 : 1	
+29.04. 22:00	
+Grau
+Sport Victoria
+5 : 1	
+29.04. 20:00	
+Los Caimanes
+Juan Aurich
+1 : 1	
+28.04. 22:30	
+Deportivo Coopsol
+Hualgayoc
+1 : 2	
+Round 3
+22.04. 22:30	
+Hualgayoc
+Carlos Manucci
+2 : 0	
+22.04. 22:30	
+Huaral
+Los Caimanes
+2 : 1	
+22.04. 22:30	
+Sport Victoria
+Cienciano
+2 : 1	
+22.04. 22:00	
+Alfredo Salinas
+Willy Serrato
+2 : 1	
+22.04. 22:00	
+Cesar Vallejo
+Santa Rosa
+2 : 0	
+22.04. 20:00	
+Juan Aurich
+Deportivo Coopsol
+2 : 0	
+21.04. 20:00	
+Alianza Atl.
+Sport Loreto
+2 : 1	
+Round 2
+15.04. 22:45	
+Willy Serrato
+Hualgayoc
+1 : 1	
+15.04. 22:30	
+Carlos Manucci
+Juan Aurich
+1 : 1	
+15.04. 22:30	
+Cienciano
+Grau
+1 : 1	
+15.04. 22:30	
+Santa Rosa
+Sport Victoria
+1 : 0	
+15.04. 22:00	
+Sport Loreto
+Alfredo Salinas
+5 : 0	
+15.04. 20:00	
+Los Caimanes
+Cesar Vallejo
+2 : 4	
+15.04. 03:00	
+Deportivo Coopsol
+Huaral
+1 : 2	
+Round 1
+08.04. 22:30	
+Hualgayoc
+Sport Loreto
+4 : 1	
+08.04. 22:30	
+Huaral
+Carlos Manucci
+1 : 1	
+08.04. 22:30	
+Sport Victoria
+Los Caimanes
+2 : 2	
+08.04. 22:00	
+Alfredo Salinas
+Alianza Atl.
+2 : 0	
+08.04. 20:00	
+Grau
+Santa Rosa
+2 : 1	
+08.04. 20:00	
+Juan Aurich
+Willy Serrato
+1 : 0	
+08.04. 18:00	
+Cesar Vallejo
+Deportivo Coopsol
+0 : 0

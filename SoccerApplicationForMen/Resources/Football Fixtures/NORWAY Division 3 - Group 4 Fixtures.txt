@@ -1,0 +1,590 @@
+ NORWAY: Division 3 - Group 4
+Round 6
+22.05. 19:00	
+Brann 2
+Lysekloster
+ 
+Round 7
+26.05. 15:00	
+Sotra
+Vardeneset
+ 
+26.05. 15:00	
+Stord
+Viking 2
+ 
+26.05. 16:00	
+Forde
+Varegg
+ 
+26.05. 18:00	
+Oystese
+Fana
+ 
+27.05. 15:00	
+Tertnes
+Lysekloster
+ 
+28.05. 19:00	
+Brodd
+Brann 2
+ 
+28.05. 19:00	
+Fyllingsdalen
+Sogndal 2
+ 
+Round 8
+02.06. 13:00	
+Viking 2
+Forde
+ 
+02.06. 14:00	
+Sogndal 2
+Stord
+ 
+02.06. 15:00	
+Brann 2
+Sotra
+ 
+02.06. 15:00	
+Lysekloster
+Brodd
+ 
+02.06. 16:00	
+Fana
+Fyllingsdalen
+ 
+02.06. 16:00	
+Vardeneset
+Oystese
+ 
+03.06. 18:00	
+Varegg
+Tertnes
+ 
+Round 9
+09.06. 15:00	
+Fyllingsdalen
+Vardeneset
+ 
+09.06. 15:00	
+Tertnes
+Brodd
+ 
+09.06. 16:00	
+Sotra
+Lysekloster
+ 
+09.06. 16:00	
+Stord
+Fana
+ 
+10.06. 15:00	
+Varegg
+Viking 2
+ 
+10.06. 16:00	
+Forde
+Sogndal 2
+ 
+11.06. 18:00	
+Oystese
+Brann 2
+ 
+Round 3
+13.06. 18:00	
+Lysekloster
+Sogndal 2
+ 
+Round 10
+16.06. 15:00	
+Brann 2
+Fyllingsdalen
+ 
+16.06. 15:00	
+Brodd
+Sotra
+ 
+16.06. 15:00	
+Vardeneset
+Stord
+ 
+16.06. 16:00	
+Fana
+Forde
+ 
+16.06. 16:00	
+Sogndal 2
+Varegg
+ 
+17.06. 15:00	
+Lysekloster
+Oystese
+ 
+17.06. 17:00	
+Viking 2
+Tertnes
+ 
+Round 11
+20.06. 19:00	
+Stord
+Brann 2
+ 
+21.06. 16:30	
+Viking 2
+Sogndal 2
+ 
+23.06. 13:00	
+Forde
+Vardeneset
+ 
+23.06. 16:00	
+Fyllingsdalen
+Lysekloster
+ 
+23.06. 16:00	
+Oystese
+Brodd
+ 
+23.06. 16:00	
+Tertnes
+Sotra
+ 
+23.06. 16:00	
+Varegg
+Fana
+ 
+Round 12
+21.07. 15:00	
+Fana
+Viking 2
+ 
+21.07. 16:00	
+Brodd
+Fyllingsdalen
+ 
+21.07. 16:00	
+Sotra
+Oystese
+ 
+21.07. 16:00	
+Vardeneset
+Varegg
+ 
+22.07. 18:00	
+Lysekloster
+Stord
+ 
+23.07. 19:00	
+Tertnes
+Sogndal 2
+ 
+24.07. 19:00	
+Brann 2
+Forde
+ 
+Round 13
+28.07. 16:00	
+Forde
+Lysekloster
+ 
+28.07. 16:00	
+Fyllingsdalen
+Sotra
+ 
+28.07. 16:00	
+Oystese
+Tertnes
+ 
+28.07. 16:00	
+Stord
+Brodd
+ 
+28.07. 16:00	
+Varegg
+Brann 2
+ 
+30.07. 19:00	
+Sogndal 2
+Fana
+ 
+30.07. 19:00	
+Viking 2
+Vardeneset
+ 
+Round 14
+04.08. 13:00	
+Forde
+Brodd
+ 
+04.08. 13:00	
+Sogndal 2
+Vardeneset
+ 
+04.08. 15:00	
+Varegg
+Lysekloster
+ 
+04.08. 16:00	
+Fana
+Tertnes
+ 
+04.08. 16:00	
+Fyllingsdalen
+Oystese
+ 
+04.08. 16:00	
+Stord
+Sotra
+ 
+06.08. 18:00	
+Viking 2
+Brann 2
+ 
+Round 15
+11.08. 15:00	
+Brodd
+Varegg
+ 
+11.08. 15:00	
+Lysekloster
+Viking 2
+ 
+11.08. 16:00	
+Oystese
+Stord
+ 
+11.08. 16:00	
+Sotra
+Forde
+ 
+11.08. 16:00	
+Tertnes
+Fyllingsdalen
+ 
+11.08. 16:00	
+Vardeneset
+Fana
+ 
+13.08. 17:00	
+Brann 2
+Sogndal 2
+ 
+Round 16
+18.08. 16:00	
+Forde
+Oystese
+ 
+18.08. 16:00	
+Sogndal 2
+Lysekloster
+ 
+18.08. 16:00	
+Stord
+Fyllingsdalen
+ 
+18.08. 16:00	
+Vardeneset
+Tertnes
+ 
+19.08. 16:00	
+Varegg
+Sotra
+ 
+20.08. 17:00	
+Fana
+Brann 2
+ 
+20.08. 19:00	
+Viking 2
+Brodd
+ 
+Round 17
+25.08. 14:00	
+Brodd
+Sogndal 2
+ 
+25.08. 15:00	
+Brann 2
+Vardeneset
+ 
+25.08. 15:00	
+Sotra
+Viking 2
+ 
+25.08. 16:00	
+Fyllingsdalen
+Forde
+ 
+25.08. 16:00	
+Lysekloster
+Fana
+ 
+25.08. 16:00	
+Oystese
+Varegg
+ 
+25.08. 16:00	
+Tertnes
+Stord
+ 
+Round 18
+01.09. 13:00	
+Forde
+Stord
+ 
+01.09. 14:00	
+Viking 2
+Oystese
+ 
+01.09. 15:00	
+Fana
+Brodd
+ 
+01.09. 16:00	
+Sogndal 2
+Sotra
+ 
+01.09. 16:00	
+Varegg
+Fyllingsdalen
+ 
+02.09. 15:00	
+Vardeneset
+Lysekloster
+ 
+03.09. 17:45	
+Brann 2
+Tertnes
+ 
+Round 19
+06.09. 17:00	
+Brodd
+Vardeneset
+ 
+08.09. 15:00	
+Fyllingsdalen
+Viking 2
+ 
+08.09. 16:00	
+Oystese
+Sogndal 2
+ 
+08.09. 16:00	
+Stord
+Varegg
+ 
+08.09. 16:00	
+Tertnes
+Forde
+ 
+08.09. 18:00	
+Sotra
+Fana
+ 
+09.09. 18:30	
+Lysekloster
+Brann 2
+ 
+Round 20
+15.09. 15:00	
+Brann 2
+Brodd
+ 
+15.09. 15:00	
+Vardeneset
+Sotra
+ 
+15.09. 16:00	
+Fana
+Oystese
+ 
+15.09. 16:00	
+Sogndal 2
+Fyllingsdalen
+ 
+15.09. 16:00	
+Varegg
+Forde
+ 
+15.09. 16:00	
+Viking 2
+Stord
+ 
+16.09. 15:00	
+Lysekloster
+Tertnes
+ 
+Round 21
+22.09. 13:00	
+Forde
+Viking 2
+ 
+22.09. 16:00	
+Brodd
+Lysekloster
+ 
+22.09. 16:00	
+Fyllingsdalen
+Fana
+ 
+22.09. 16:00	
+Oystese
+Vardeneset
+ 
+22.09. 16:00	
+Tertnes
+Varegg
+ 
+24.09. 18:00	
+Sotra
+Brann 2
+ 
+24.09. 19:00	
+Stord
+Sogndal 2
+ 
+Round 22
+29.09. 15:00	
+Brann 2
+Oystese
+ 
+29.09. 15:00	
+Viking 2
+Varegg
+ 
+29.09. 16:00	
+Brodd
+Tertnes
+ 
+29.09. 16:00	
+Lysekloster
+Sotra
+ 
+29.09. 16:00	
+Vardeneset
+Fyllingsdalen
+ 
+30.09. 17:00	
+Fana
+Stord
+ 
+01.10. 19:00	
+Sogndal 2
+Forde
+ 
+Round 23
+06.10. 15:00	
+Forde
+Fana
+ 
+06.10. 15:00	
+Oystese
+Lysekloster
+ 
+06.10. 15:00	
+Sotra
+Brodd
+ 
+06.10. 15:00	
+Stord
+Vardeneset
+ 
+06.10. 15:00	
+Tertnes
+Viking 2
+ 
+08.10. 19:00	
+Fyllingsdalen
+Brann 2
+ 
+08.10. 19:00	
+Varegg
+Sogndal 2
+ 
+Round 24
+13.10. 13:00	
+Sogndal 2
+Viking 2
+ 
+13.10. 13:00	
+Vardeneset
+Forde
+ 
+13.10. 15:30	
+Brann 2
+Stord
+ 
+13.10. 15:30	
+Brodd
+Oystese
+ 
+13.10. 16:00	
+Fana
+Varegg
+ 
+13.10. 16:00	
+Lysekloster
+Fyllingsdalen
+ 
+13.10. 16:00	
+Sotra
+Tertnes
+ 
+Round 25
+20.10. 13:00	
+Forde
+Brann 2
+ 
+20.10. 13:00	
+Fyllingsdalen
+Brodd
+ 
+20.10. 13:00	
+Oystese
+Sotra
+ 
+20.10. 13:00	
+Sogndal 2
+Tertnes
+ 
+20.10. 13:00	
+Stord
+Lysekloster
+ 
+20.10. 13:00	
+Varegg
+Vardeneset
+ 
+20.10. 13:00	
+Viking 2
+Fana
+ 
+Round 26
+27.10. 12:00	
+Brann 2
+Varegg
+ 
+27.10. 12:00	
+Brodd
+Stord
+ 
+27.10. 12:00	
+Fana
+Sogndal 2
+ 
+27.10. 12:00	
+Lysekloster
+Forde
+ 
+27.10. 12:00	
+Sotra
+Fyllingsdalen
+ 
+27.10. 12:00	
+Tertnes
+Oystese
+ 
+27.10. 12:00	
+Vardeneset
+Viking 2

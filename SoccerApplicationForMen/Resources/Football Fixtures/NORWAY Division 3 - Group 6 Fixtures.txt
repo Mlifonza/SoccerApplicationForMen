@@ -1,0 +1,595 @@
+ NORWAY: Division 3 - Group 6
+Round 6
+20.05. 15:00	
+Sortland
+Korsvoll
+ 
+20.05. 18:15	
+Melbo
+Skarp
+ 
+21.05. 17:00	
+Grei
+Finnsnes
+21.05. 17:00	
+Lyn
+Stalkam
+Round 7
+25.05. 19:15	
+Skarp
+Floya
+ 
+26.05. 13:00	
+Stalkam
+Harstad
+ 
+26.05. 14:00	
+Korsvoll
+Lyn
+ 
+26.05. 16:00	
+Finnsnes
+Sortland
+ 
+26.05. 16:00	
+Senja
+Grei
+ 
+26.05. 16:00	
+Skjervoy
+Melbo
+ 
+27.05. 16:00	
+Frigg
+Junkeren
+ 
+Round 8
+01.06. 19:15	
+Floya
+Skjervoy
+ 
+02.06. 11:45	
+Junkeren
+Skarp
+ 
+02.06. 16:00	
+Melbo
+Harstad
+ 
+02.06. 16:00	
+Sortland
+Senja
+ 
+03.06. 15:30	
+Lyn
+Finnsnes
+ 
+03.06. 17:00	
+Korsvoll
+Stalkam
+ 
+04.06. 19:45	
+Grei
+Frigg
+ 
+Round 9
+08.06. 16:45	
+Stalkam
+Melbo
+ 
+09.06. 16:00	
+Harstad
+Floya
+ 
+09.06. 16:00	
+Skjervoy
+Junkeren
+ 
+10.06. 14:00	
+Finnsnes
+Korsvoll
+ 
+10.06. 15:00	
+Senja
+Lyn
+ 
+10.06. 15:00	
+Skarp
+Grei
+ 
+10.06. 16:00	
+Frigg
+Sortland
+ 
+Round 10
+16.06. 13:00	
+Finnsnes
+Stalkam
+ 
+16.06. 14:00	
+Junkeren
+Harstad
+ 
+16.06. 17:00	
+Grei
+Skjervoy
+ 
+17.06. 15:00	
+Korsvoll
+Senja
+ 
+17.06. 15:00	
+Lyn
+Frigg
+ 
+17.06. 17:30	
+Floya
+Melbo
+ 
+17.06. 18:15	
+Sortland
+Skarp
+ 
+Round 11
+22.06. 16:45	
+Stalkam
+Floya
+ 
+22.06. 19:15	
+Senja
+Finnsnes
+ 
+23.06. 16:00	
+Frigg
+Korsvoll
+ 
+23.06. 16:00	
+Skjervoy
+Sortland
+ 
+24.06. 15:00	
+Skarp
+Lyn
+ 
+24.06. 15:30	
+Melbo
+Junkeren
+ 
+24.06. 16:00	
+Harstad
+Grei
+ 
+Round 12
+01.07. 16:00	
+Korsvoll
+Skarp
+ 
+21.07. 13:00	
+Senja
+Stalkam
+ 
+21.07. 16:00	
+Grei
+Melbo
+ 
+21.07. 16:00	
+Junkeren
+Floya
+ 
+22.07. 14:00	
+Finnsnes
+Frigg
+ 
+22.07. 15:00	
+Lyn
+Skjervoy
+ 
+22.07. 18:00	
+Sortland
+Harstad
+ 
+Round 13
+28.07. 16:00	
+Frigg
+Senja
+ 
+28.07. 16:00	
+Harstad
+Lyn
+ 
+28.07. 16:00	
+Skjervoy
+Korsvoll
+ 
+28.07. 16:00	
+Stalkam
+Junkeren
+ 
+29.07. 15:00	
+Floya
+Grei
+ 
+29.07. 18:00	
+Melbo
+Sortland
+ 
+29.07. 18:00	
+Skarp
+Finnsnes
+ 
+Round 14
+03.08. 19:15	
+Skarp
+Senja
+ 
+03.08. 19:30	
+Skjervoy
+Finnsnes
+ 
+04.08. 15:00	
+Harstad
+Korsvoll
+ 
+04.08. 15:00	
+Junkeren
+Grei
+ 
+04.08. 16:00	
+Floya
+Sortland
+ 
+05.08. 15:00	
+Stalkam
+Frigg
+ 
+05.08. 15:30	
+Melbo
+Lyn
+ 
+Round 15
+11.08. 12:00	
+Lyn
+Floya
+ 
+11.08. 15:00	
+Senja
+Skjervoy
+ 
+11.08. 15:30	
+Sortland
+Junkeren
+ 
+11.08. 16:00	
+Finnsnes
+Harstad
+ 
+11.08. 17:30	
+Grei
+Stalkam
+ 
+12.08. 16:00	
+Korsvoll
+Melbo
+ 
+12.08. 16:45	
+Frigg
+Skarp
+ 
+Round 16
+18.08. 13:00	
+Floya
+Korsvoll
+ 
+18.08. 14:00	
+Harstad
+Senja
+ 
+18.08. 17:00	
+Skarp
+Stalkam
+ 
+19.08. 15:00	
+Junkeren
+Lyn
+ 
+19.08. 16:00	
+Grei
+Sortland
+ 
+19.08. 16:00	
+Skjervoy
+Frigg
+ 
+19.08. 18:15	
+Melbo
+Finnsnes
+ 
+Round 17
+24.08. 18:15	
+Finnsnes
+Floya
+ 
+24.08. 18:15	
+Skarp
+Skjervoy
+ 
+25.08. 16:00	
+Senja
+Melbo
+ 
+25.08. 16:00	
+Stalkam
+Sortland
+ 
+25.08. 16:30	
+Korsvoll
+Junkeren
+ 
+26.08. 16:00	
+Frigg
+Harstad
+ 
+27.08. 17:45	
+Lyn
+Grei
+ 
+Round 18
+31.08. 18:00	
+Floya
+Senja
+ 
+01.09. 16:00	
+Grei
+Korsvoll
+ 
+02.09. 13:00	
+Skjervoy
+Stalkam
+ 
+02.09. 13:00	
+Sortland
+Lyn
+ 
+02.09. 14:15	
+Junkeren
+Finnsnes
+ 
+02.09. 15:00	
+Harstad
+Skarp
+ 
+02.09. 15:00	
+Melbo
+Frigg
+ 
+Round 19
+08.09. 16:00	
+Senja
+Junkeren
+ 
+08.09. 17:15	
+Stalkam
+Lyn
+ 
+09.09. 14:00	
+Skjervoy
+Harstad
+ 
+09.09. 15:00	
+Finnsnes
+Grei
+ 
+09.09. 15:45	
+Frigg
+Floya
+ 
+09.09. 16:00	
+Korsvoll
+Sortland
+ 
+09.09. 17:15	
+Skarp
+Melbo
+ 
+Round 20
+15.09. 13:00	
+Harstad
+Stalkam
+ 
+15.09. 13:00	
+Melbo
+Skjervoy
+ 
+15.09. 14:00	
+Junkeren
+Frigg
+ 
+15.09. 15:00	
+Floya
+Skarp
+ 
+15.09. 18:00	
+Sortland
+Finnsnes
+ 
+16.09. 15:00	
+Grei
+Senja
+ 
+16.09. 15:00	
+Lyn
+Korsvoll
+ 
+Round 21
+22.09. 15:00	
+Skjervoy
+Floya
+ 
+22.09. 16:00	
+Frigg
+Grei
+ 
+22.09. 16:00	
+Senja
+Sortland
+ 
+23.09. 14:00	
+Stalkam
+Korsvoll
+ 
+23.09. 15:00	
+Finnsnes
+Lyn
+ 
+23.09. 15:30	
+Skarp
+Junkeren
+ 
+23.09. 16:00	
+Harstad
+Melbo
+ 
+Round 22
+29.09. 13:00	
+Melbo
+Stalkam
+ 
+29.09. 15:30	
+Floya
+Harstad
+ 
+30.09. 14:00	
+Junkeren
+Skjervoy
+ 
+30.09. 15:00	
+Lyn
+Senja
+ 
+30.09. 15:00	
+Sortland
+Frigg
+ 
+30.09. 16:00	
+Korsvoll
+Finnsnes
+ 
+30.09. 16:15	
+Grei
+Skarp
+ 
+Round 23
+05.10. 15:30	
+Stalkam
+Finnsnes
+ 
+06.10. 14:00	
+Harstad
+Junkeren
+ 
+06.10. 14:00	
+Skarp
+Sortland
+ 
+06.10. 15:45	
+Frigg
+Lyn
+ 
+07.10. 13:00	
+Skjervoy
+Grei
+ 
+07.10. 15:00	
+Senja
+Korsvoll
+ 
+07.10. 18:00	
+Melbo
+Floya
+ 
+Round 24
+13.10. 13:00	
+Sortland
+Skjervoy
+ 
+13.10. 14:30	
+Finnsnes
+Senja
+ 
+13.10. 15:45	
+Korsvoll
+Frigg
+ 
+14.10. 15:00	
+Floya
+Stalkam
+ 
+14.10. 15:30	
+Junkeren
+Melbo
+ 
+14.10. 15:30	
+Lyn
+Skarp
+ 
+14.10. 15:45	
+Grei
+Harstad
+ 
+Round 25
+20.10. 13:00	
+Floya
+Junkeren
+ 
+20.10. 13:00	
+Frigg
+Finnsnes
+ 
+20.10. 13:00	
+Harstad
+Sortland
+ 
+20.10. 13:00	
+Melbo
+Grei
+ 
+20.10. 13:00	
+Skarp
+Korsvoll
+ 
+20.10. 13:00	
+Skjervoy
+Lyn
+ 
+20.10. 13:00	
+Stalkam
+Senja
+ 
+Round 26
+27.10. 13:00	
+Finnsnes
+Skarp
+ 
+27.10. 13:00	
+Grei
+Floya
+ 
+27.10. 13:00	
+Junkeren
+Stalkam
+ 
+27.10. 13:00	
+Korsvoll
+Skjervoy
+ 
+27.10. 13:00	
+Lyn
+Harstad
+ 
+27.10. 13:00	
+Senja
+Frigg
+ 
+27.10. 13:00	
+Sortland
+Melbo

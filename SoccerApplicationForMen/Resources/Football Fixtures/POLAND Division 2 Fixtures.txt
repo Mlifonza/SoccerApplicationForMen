@@ -1,0 +1,244 @@
+ POLAND: Division 2
+Round 29
+04.05. 19:00	
+ROW Rybnik
+Kluczbork
+05.05. 16:00	
+Gwardia Koszalin
+Belchatow
+ 
+05.05. 16:00	
+Warta
+Elblag
+ 
+05.05. 17:00	
+Garbarnia
+GKS Jastrzebie
+ 
+05.05. 17:00	
+Legionowo
+Gryf Wejherowo
+ 
+05.05. 17:00	
+Radomiak Radom
+Pruszkow
+ 
+05.05. 17:00	
+Rozwoj Katowice
+Blekitni Stargard
+ 
+05.05. 17:00	
+Siarka Tarnobrzeg
+S. Wola
+ 
+05.05. 17:00	
+Wisla Pulawy
+LKS Lodz
+ 
+Round 30
+09.05. 17:00	
+Blekitni Stargard
+Legionowo
+ 
+09.05. 17:00	
+Elblag
+Wisla Pulawy
+ 
+09.05. 17:00	
+Gryf Wejherowo
+ROW Rybnik
+ 
+09.05. 17:00	
+Gwardia Koszalin
+Kluczbork
+ 
+09.05. 17:00	
+S. Wola
+Rozwoj Katowice
+ 
+09.05. 17:30	
+GKS Jastrzebie
+Siarka Tarnobrzeg
+ 
+09.05. 17:30	
+LKS Lodz
+Radomiak Radom
+ 
+09.05. 19:00	
+Belchatow
+Warta
+ 
+09.05. 19:00	
+Pruszkow
+Garbarnia
+ 
+Round 31
+12.05. 16:00	
+Siarka Tarnobrzeg
+Pruszkow
+ 
+12.05. 17:00	
+Rozwoj Katowice
+GKS Jastrzebie
+ 
+12.05. 18:00	
+Wisla Pulawy
+Warta
+ 
+13.05. 13:00	
+Gwardia Koszalin
+Gryf Wejherowo
+ 
+13.05. 17:00	
+Garbarnia
+LKS Lodz
+ 
+13.05. 17:00	
+Kluczbork
+Belchatow
+ 
+13.05. 17:00	
+Legionowo
+S. Wola
+ 
+13.05. 17:00	
+Radomiak Radom
+Elblag
+ 
+13.05. 17:00	
+ROW Rybnik
+Blekitni Stargard
+ 
+Round 22
+16.05. 17:00	
+Blekitni Stargard
+LKS Lodz
+ 
+Round 21
+16.05. 17:00	
+Elblag
+Kluczbork
+ 
+Round 22
+16.05. 17:00	
+Rozwoj Katowice
+Siarka Tarnobrzeg
+ 
+16.05. 17:30	
+Legionowo
+Garbarnia
+ 
+16.05. 19:00	
+Belchatow
+GKS Jastrzebie
+ 
+Round 32
+19.05. 14:00	
+Belchatow
+Wisla Pulawy
+ 
+19.05. 17:00	
+Elblag
+Garbarnia
+ 
+19.05. 17:00	
+S. Wola
+ROW Rybnik
+ 
+19.05. 17:00	
+Warta
+Radomiak Radom
+ 
+19.05. 18:00	
+GKS Jastrzebie
+Legionowo
+ 
+19.05. 18:00	
+LKS Lodz
+Siarka Tarnobrzeg
+ 
+20.05. 12:00	
+Pruszkow
+Rozwoj Katowice
+ 
+20.05. 16:00	
+Gryf Wejherowo
+Kluczbork
+ 
+20.05. 17:00	
+Blekitni Stargard
+Gwardia Koszalin
+ 
+Round 33
+26.05. 16:00	
+Gryf Wejherowo
+Belchatow
+ 
+26.05. 17:00	
+Garbarnia
+Warta
+ 
+26.05. 17:00	
+Gwardia Koszalin
+S. Wola
+ 
+26.05. 17:00	
+Kluczbork
+Blekitni Stargard
+ 
+26.05. 17:00	
+ROW Rybnik
+GKS Jastrzebie
+ 
+26.05. 17:00	
+Rozwoj Katowice
+LKS Lodz
+ 
+26.05. 17:00	
+Siarka Tarnobrzeg
+Elblag
+ 
+26.05. 18:00	
+Legionowo
+Pruszkow
+ 
+26.05. 18:00	
+Radomiak Radom
+Wisla Pulawy
+ 
+Round 34
+01.06. 18:00	
+LKS Lodz
+Legionowo
+ 
+01.06. 19:00	
+Pruszkow
+ROW Rybnik
+ 
+02.06. 17:00	
+Blekitni Stargard
+Gryf Wejherowo
+ 
+02.06. 17:00	
+Elblag
+Rozwoj Katowice
+ 
+02.06. 17:00	
+S. Wola
+Kluczbork
+ 
+02.06. 17:00	
+Warta
+Siarka Tarnobrzeg
+ 
+02.06. 17:00	
+Wisla Pulawy
+Garbarnia
+ 
+02.06. 18:00	
+Belchatow
+Radomiak Radom
+ 
+02.06. 18:00	
+GKS Jastrzebie
+Gwardia Koszalin

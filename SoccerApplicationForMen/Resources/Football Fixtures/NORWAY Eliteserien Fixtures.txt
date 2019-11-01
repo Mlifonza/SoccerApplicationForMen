@@ -1,0 +1,751 @@
+ NORWAY: Eliteserien
+Round 8
+05.05. 18:00	
+Rosenborg
+Ranheim
+06.05. 18:00	
+Bodo/Glimt
+Strömsgodset
+06.05. 18:00	
+Kristiansund
+Stabaek
+06.05. 18:00	
+Lillestrom
+Sandefjord
+06.05. 18:00	
+Odd
+Start
+06.05. 18:00	
+Vålerenga
+Haugesund
+06.05. 20:00	
+Brann
+Tromsø
+07.05. 19:00	
+Sarpsborg 08
+Molde
+Round 9
+12.05. 15:30	
+Sandefjord
+Vålerenga
+ 
+12.05. 18:00	
+Start
+Brann
+ 
+13.05. 18:00	
+Haugesund
+Kristiansund
+ 
+13.05. 18:00	
+Molde
+Bodo/Glimt
+ 
+13.05. 18:00	
+Ranheim
+Odd
+ 
+13.05. 18:00	
+Strömsgodset
+Sarpsborg 08
+ 
+13.05. 18:00	
+Tromsø
+Lillestrom
+ 
+13.05. 20:00	
+Stabaek
+Rosenborg
+ 
+Round 10
+16.05. 18:00	
+Bodo/Glimt
+Tromsø
+ 
+16.05. 18:00	
+Brann
+Haugesund
+ 
+16.05. 18:00	
+Kristiansund
+Ranheim
+ 
+16.05. 18:00	
+Molde
+Strömsgodset
+ 
+16.05. 18:00	
+Odd
+Sandefjord
+ 
+16.05. 18:00	
+Rosenborg
+Lillestrom
+ 
+16.05. 18:00	
+Sarpsborg 08
+Start
+ 
+16.05. 18:00	
+Vålerenga
+Stabaek
+ 
+Round 11
+21.05. 18:00	
+Haugesund
+Rosenborg
+ 
+21.05. 18:00	
+Kristiansund
+Strömsgodset
+ 
+21.05. 18:00	
+Ranheim
+Molde
+ 
+21.05. 18:00	
+Sandefjord
+Sarpsborg 08
+ 
+21.05. 18:00	
+Stabaek
+Odd
+ 
+21.05. 18:00	
+Start
+Bodo/Glimt
+ 
+21.05. 18:00	
+Tromsø
+Vålerenga
+ 
+21.05. 20:00	
+Lillestrom
+Brann
+ 
+Round 12
+26.05. 18:00	
+Vålerenga
+Lillestrom
+ 
+27.05. 18:00	
+Bodo/Glimt
+Ranheim
+ 
+27.05. 18:00	
+Haugesund
+Tromsø
+ 
+27.05. 18:00	
+Molde
+Start
+ 
+27.05. 18:00	
+Odd
+Kristiansund
+ 
+27.05. 18:00	
+Strömsgodset
+Sandefjord
+ 
+27.05. 20:00	
+Rosenborg
+Brann
+ 
+28.05. 19:00	
+Sarpsborg 08
+Stabaek
+ 
+Round 13
+09.06. 18:00	
+Kristiansund
+Molde
+ 
+10.06. 18:00	
+Lillestrom
+Odd
+ 
+10.06. 18:00	
+Ranheim
+Sarpsborg 08
+ 
+10.06. 18:00	
+Sandefjord
+Haugesund
+ 
+10.06. 18:00	
+Stabaek
+Bodo/Glimt
+ 
+10.06. 18:00	
+Start
+Strömsgodset
+ 
+10.06. 20:00	
+Brann
+Vålerenga
+ 
+11.06. 19:00	
+Tromsø
+Rosenborg
+ 
+Round 14
+23.06. 18:00	
+Molde
+Stabaek
+ 
+24.06. 18:00	
+Bodo/Glimt
+Sandefjord
+ 
+24.06. 18:00	
+Haugesund
+Lillestrom
+ 
+24.06. 18:00	
+Sarpsborg 08
+Tromsø
+ 
+24.06. 18:00	
+Start
+Kristiansund
+ 
+24.06. 18:00	
+Strömsgodset
+Ranheim
+ 
+24.06. 20:00	
+Rosenborg
+Vålerenga
+ 
+25.06. 19:00	
+Odd
+Brann
+ 
+Round 15
+30.06. 18:00	
+Vålerenga
+Bodo/Glimt
+ 
+01.07. 18:00	
+Brann
+Molde
+ 
+01.07. 18:00	
+Kristiansund
+Sarpsborg 08
+ 
+01.07. 18:00	
+Ranheim
+Start
+ 
+01.07. 18:00	
+Sandefjord
+Rosenborg
+ 
+01.07. 18:00	
+Tromsø
+Odd
+ 
+01.07. 20:00	
+Stabaek
+Haugesund
+ 
+02.07. 18:00	
+Lillestrom
+Strömsgodset
+ 
+Round 16
+07.07. 18:00	
+Rosenborg
+Tromsø
+ 
+08.07. 18:00	
+Bodo/Glimt
+Brann
+ 
+08.07. 18:00	
+Haugesund
+Sandefjord
+ 
+08.07. 18:00	
+Odd
+Lillestrom
+ 
+08.07. 18:00	
+Sarpsborg 08
+Ranheim
+ 
+08.07. 18:00	
+Start
+Stabaek
+ 
+08.07. 20:00	
+Molde
+Vålerenga
+ 
+09.07. 19:00	
+Strömsgodset
+Kristiansund
+ 
+Round 17
+04.08. 18:00	
+Brann
+Start
+ 
+04.08. 18:00	
+Kristiansund
+Odd
+ 
+04.08. 18:00	
+Lillestrom
+Molde
+ 
+04.08. 18:00	
+Ranheim
+Rosenborg
+ 
+04.08. 18:00	
+Stabaek
+Sarpsborg 08
+ 
+04.08. 18:00	
+Strömsgodset
+Bodo/Glimt
+ 
+04.08. 18:00	
+Tromsø
+Haugesund
+ 
+04.08. 18:00	
+Vålerenga
+Sandefjord
+ 
+Round 18
+10.08. 19:00	
+Sandefjord
+Tromsø
+ 
+11.08. 18:00	
+Bodo/Glimt
+Kristiansund
+ 
+11.08. 18:00	
+Haugesund
+Vålerenga
+ 
+11.08. 18:00	
+Molde
+Brann
+ 
+11.08. 18:00	
+Odd
+Strömsgodset
+ 
+11.08. 18:00	
+Rosenborg
+Stabaek
+ 
+11.08. 18:00	
+Sarpsborg 08
+Lillestrom
+ 
+11.08. 18:00	
+Start
+Ranheim
+ 
+Round 19
+18.08. 18:00	
+Bodo/Glimt
+Odd
+ 
+18.08. 18:00	
+Brann
+Sarpsborg 08
+ 
+18.08. 18:00	
+Kristiansund
+Rosenborg
+ 
+18.08. 18:00	
+Lillestrom
+Haugesund
+ 
+18.08. 18:00	
+Ranheim
+Sandefjord
+ 
+18.08. 18:00	
+Stabaek
+Molde
+ 
+18.08. 18:00	
+Strömsgodset
+Start
+ 
+18.08. 18:00	
+Vålerenga
+Tromsø
+ 
+Round 20
+25.08. 18:00	
+Haugesund
+Stabaek
+ 
+25.08. 18:00	
+Molde
+Ranheim
+ 
+25.08. 18:00	
+Rosenborg
+Strömsgodset
+ 
+25.08. 18:00	
+Sandefjord
+Lillestrom
+ 
+25.08. 18:00	
+Sarpsborg 08
+Kristiansund
+ 
+25.08. 18:00	
+Start
+Odd
+ 
+25.08. 18:00	
+Tromsø
+Bodo/Glimt
+ 
+25.08. 18:00	
+Vålerenga
+Brann
+ 
+Round 21
+01.09. 18:00	
+Bodo/Glimt
+Sarpsborg 08
+ 
+01.09. 18:00	
+Brann
+Ranheim
+ 
+01.09. 18:00	
+Kristiansund
+Start
+ 
+01.09. 18:00	
+Lillestrom
+Vålerenga
+ 
+01.09. 18:00	
+Odd
+Molde
+ 
+01.09. 18:00	
+Rosenborg
+Haugesund
+ 
+01.09. 18:00	
+Stabaek
+Sandefjord
+ 
+01.09. 18:00	
+Strömsgodset
+Tromsø
+ 
+Round 22
+15.09. 18:00	
+Haugesund
+Brann
+ 
+15.09. 18:00	
+Molde
+Kristiansund
+ 
+15.09. 18:00	
+Ranheim
+Strömsgodset
+ 
+15.09. 18:00	
+Sandefjord
+Bodo/Glimt
+ 
+15.09. 18:00	
+Sarpsborg 08
+Odd
+ 
+15.09. 18:00	
+Start
+Lillestrom
+ 
+15.09. 18:00	
+Tromsø
+Stabaek
+ 
+15.09. 18:00	
+Vålerenga
+Rosenborg
+ 
+Round 23
+22.09. 18:00	
+Bodo/Glimt
+Start
+ 
+22.09. 18:00	
+Brann
+Sandefjord
+ 
+22.09. 18:00	
+Kristiansund
+Haugesund
+ 
+22.09. 18:00	
+Lillestrom
+Tromsø
+ 
+22.09. 18:00	
+Odd
+Vålerenga
+ 
+22.09. 18:00	
+Rosenborg
+Sarpsborg 08
+ 
+22.09. 18:00	
+Stabaek
+Ranheim
+ 
+22.09. 18:00	
+Strömsgodset
+Molde
+ 
+Round 24
+29.09. 18:00	
+Haugesund
+Bodo/Glimt
+ 
+29.09. 18:00	
+Lillestrom
+Stabaek
+ 
+29.09. 18:00	
+Molde
+Rosenborg
+ 
+29.09. 18:00	
+Ranheim
+Kristiansund
+ 
+29.09. 18:00	
+Sandefjord
+Odd
+ 
+29.09. 18:00	
+Sarpsborg 08
+Strömsgodset
+ 
+29.09. 18:00	
+Tromsø
+Brann
+ 
+29.09. 18:00	
+Vålerenga
+Start
+ 
+Round 25
+06.10. 18:00	
+Bodo/Glimt
+Molde
+ 
+06.10. 18:00	
+Brann
+Lillestrom
+ 
+06.10. 18:00	
+Kristiansund
+Tromsø
+ 
+06.10. 18:00	
+Odd
+Ranheim
+ 
+06.10. 18:00	
+Rosenborg
+Sandefjord
+ 
+06.10. 18:00	
+Stabaek
+Vålerenga
+ 
+06.10. 18:00	
+Start
+Sarpsborg 08
+ 
+06.10. 18:00	
+Strömsgodset
+Haugesund
+ 
+Round 26
+20.10. 18:00	
+Haugesund
+Odd
+ 
+20.10. 18:00	
+Lillestrom
+Rosenborg
+ 
+20.10. 18:00	
+Molde
+Sarpsborg 08
+ 
+20.10. 18:00	
+Ranheim
+Bodo/Glimt
+ 
+20.10. 18:00	
+Sandefjord
+Strömsgodset
+ 
+20.10. 18:00	
+Stabaek
+Brann
+ 
+20.10. 18:00	
+Tromsø
+Start
+ 
+20.10. 18:00	
+Vålerenga
+Kristiansund
+ 
+Round 27
+27.10. 18:00	
+Bodo/Glimt
+Stabaek
+ 
+27.10. 18:00	
+Brann
+Rosenborg
+ 
+27.10. 18:00	
+Kristiansund
+Sandefjord
+ 
+27.10. 18:00	
+Odd
+Tromsø
+ 
+27.10. 18:00	
+Ranheim
+Lillestrom
+ 
+27.10. 18:00	
+Sarpsborg 08
+Haugesund
+ 
+27.10. 18:00	
+Start
+Molde
+ 
+27.10. 18:00	
+Strömsgodset
+Vålerenga
+ 
+Round 28
+03.11. 19:00	
+Brann
+Strömsgodset
+ 
+03.11. 19:00	
+Haugesund
+Ranheim
+ 
+03.11. 19:00	
+Lillestrom
+Bodo/Glimt
+ 
+03.11. 19:00	
+Rosenborg
+Odd
+ 
+03.11. 19:00	
+Sandefjord
+Start
+ 
+03.11. 19:00	
+Stabaek
+Kristiansund
+ 
+03.11. 19:00	
+Tromsø
+Molde
+ 
+03.11. 19:00	
+Vålerenga
+Sarpsborg 08
+ 
+Round 29
+11.11. 19:00	
+Bodo/Glimt
+Vålerenga
+ 
+11.11. 19:00	
+Kristiansund
+Brann
+ 
+11.11. 19:00	
+Molde
+Haugesund
+ 
+11.11. 19:00	
+Odd
+Stabaek
+ 
+11.11. 19:00	
+Ranheim
+Tromsø
+ 
+11.11. 19:00	
+Sarpsborg 08
+Sandefjord
+ 
+11.11. 19:00	
+Start
+Rosenborg
+ 
+11.11. 19:00	
+Strömsgodset
+Lillestrom
+ 
+Round 30
+25.11. 19:00	
+Brann
+Odd
+ 
+25.11. 19:00	
+Haugesund
+Start
+ 
+25.11. 19:00	
+Lillestrom
+Kristiansund
+ 
+25.11. 19:00	
+Rosenborg
+Bodo/Glimt
+ 
+25.11. 19:00	
+Sandefjord
+Molde
+ 
+25.11. 19:00	
+Stabaek
+Strömsgodset
+ 
+25.11. 19:00	
+Tromsø
+Sarpsborg 08
+ 
+25.11. 19:00	
+Vålerenga
+Ranheim

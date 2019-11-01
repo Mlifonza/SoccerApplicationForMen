@@ -1,0 +1,288 @@
+ LITHUANIA: A Lyga
+Round 12
+06.05. 18:00	
+Suduva
+Trakai
+ 
+08.05. 17:00	
+Stumbras
+Kauno Zalgiris
+ 
+08.05. 19:00	
+Jonava
+Zalgiris
+ 
+09.05. 17:00	
+Palanga
+Atlantas
+ 
+Round 13
+12.05. 12:00	
+Atlantas
+Suduva
+ 
+12.05. 12:00	
+Trakai
+Zalgiris
+ 
+13.05. 12:00	
+Jonava
+Stumbras
+ 
+13.05. 12:00	
+Kauno Zalgiris
+Palanga
+ 
+Round 14
+16.05. 17:00	
+Palanga
+Stumbras
+ 
+16.05. 19:00	
+Jonava
+Trakai
+ 
+17.05. 17:00	
+Kauno Zalgiris
+Suduva
+ 
+19.05. 12:00	
+Zalgiris
+Atlantas
+ 
+Round 19
+20.05. 12:00	
+Trakai
+Jonava
+ 
+Round 15
+22.05. 17:00	
+Suduva
+Stumbras
+ 
+23.05. 17:00	
+Zalgiris
+Kauno Zalgiris
+ 
+23.05. 19:00	
+Trakai
+Atlantas
+ 
+24.05. 17:00	
+Palanga
+Jonava
+ 
+Round 16
+15.06. 15:00	
+Kauno Zalgiris
+Trakai
+ 
+15.06. 17:00	
+Jonava
+Atlantas
+ 
+16.06. 12:00	
+Zalgiris
+Stumbras
+ 
+16.06. 14:00	
+Palanga
+Suduva
+ 
+Round 17
+19.06. 17:00	
+Stumbras
+Trakai
+ 
+19.06. 19:00	
+Atlantas
+Kauno Zalgiris
+ 
+20.06. 17:00	
+Zalgiris
+Palanga
+ 
+20.06. 19:00	
+Suduva
+Jonava
+ 
+Round 18
+26.06. 17:00	
+Stumbras
+Atlantas
+ 
+27.06. 17:00	
+Jonava
+Kauno Zalgiris
+ 
+27.06. 19:00	
+Suduva
+Zalgiris
+ 
+Round 19
+04.07. 17:00	
+Kauno Zalgiris
+Suduva
+ 
+04.07. 19:00	
+Atlantas
+Zalgiris
+ 
+05.07. 17:00	
+Stumbras
+Palanga
+ 
+Round 20
+04.08. 12:00	
+Jonava
+Stumbras
+ 
+04.08. 12:00	
+Suduva
+Atlantas
+ 
+04.08. 17:00	
+Zalgiris
+Trakai
+ 
+07.08. 17:00	
+Palanga
+Kauno Zalgiris
+ 
+Round 21
+11.08. 12:00	
+Atlantas
+Palanga
+ 
+11.08. 12:00	
+Kauno Zalgiris
+Stumbras
+ 
+11.08. 12:00	
+Trakai
+Suduva
+ 
+11.08. 18:00	
+Zalgiris
+Jonava
+ 
+Round 22
+18.08. 12:00	
+Atlantas
+Trakai
+ 
+18.08. 12:00	
+Jonava
+Palanga
+ 
+18.08. 12:00	
+Stumbras
+Suduva
+ 
+18.08. 12:00	
+Zalgiris
+Kauno Zalgiris
+ 
+Round 23
+22.08. 17:00	
+Stumbras
+Zalgiris
+ 
+22.08. 19:00	
+Atlantas
+Jonava
+ 
+23.08. 17:00	
+Suduva
+Palanga
+ 
+23.08. 19:00	
+Trakai
+Kauno Zalgiris
+ 
+Round 24
+28.08. 17:00	
+Kauno Zalgiris
+Atlantas
+ 
+28.08. 19:00	
+Jonava
+Suduva
+ 
+29.08. 17:00	
+Palanga
+Zalgiris
+ 
+29.08. 19:00	
+Trakai
+Stumbras
+ 
+Round 25
+19.09. 16:00	
+Kauno Zalgiris
+Jonava
+ 
+19.09. 19:00	
+Atlantas
+Stumbras
+ 
+20.09. 17:00	
+Trakai
+Palanga
+ 
+Round 26
+22.09. 12:00	
+Stumbras
+Kauno Zalgiris
+ 
+Round 25
+22.09. 17:00	
+Zalgiris
+Suduva
+ 
+Round 26
+25.09. 15:30	
+Palanga
+Atlantas
+ 
+26.09. 17:00	
+Jonava
+Zalgiris
+ 
+26.09. 19:00	
+Suduva
+Trakai
+ 
+Round 27
+03.10. 15:00	
+Kauno Zalgiris
+Palanga
+ 
+04.10. 17:00	
+Atlantas
+Suduva
+ 
+04.10. 19:00	
+Trakai
+Zalgiris
+ 
+06.10. 12:00	
+Stumbras
+Jonava
+ 
+Round 28
+21.10. 12:00	
+Jonava
+Trakai
+ 
+21.10. 12:00	
+Palanga
+Stumbras
+ 
+21.10. 12:00	
+Suduva
+Kauno Zalgiris
+ 
+21.10. 12:00	
+Zalgiris
+Atlantas

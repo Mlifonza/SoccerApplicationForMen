@@ -1,0 +1,254 @@
+ PERU: Segunda Division
+Round 7
+20.05. 20:00	
+Alianza Atl.
+Los Caimanes
+20.05. 20:00	
+Juan Aurich
+Grau
+20.05. 22:00	
+Alfredo Salinas
+Santa Rosa
+20.05. 22:00	
+Sport Loreto
+Deportivo Coopsol
+20.05. 22:30	
+Hualgayoc
+Cienciano
+20.05. 22:30	
+Huaral
+Sport Victoria
+20.05. 22:45	
+Willy Serrato
+Carlos Manucci
+Round 8
+26.05. 22:00	
+Cesar Vallejo
+Huaral
+ 
+26.05. 22:00	
+Cienciano
+Alfredo Salinas
+ 
+26.05. 22:00	
+Deportivo Coopsol
+Willy Serrato
+ 
+26.05. 22:00	
+Grau
+Hualgayoc
+ 
+26.05. 22:00	
+Los Caimanes
+Sport Loreto
+ 
+26.05. 22:00	
+Santa Rosa
+Alianza Atl.
+ 
+26.05. 22:00	
+Sport Victoria
+Juan Aurich
+ 
+Round 9
+02.06. 22:00	
+Alfredo Salinas
+Grau
+ 
+02.06. 22:00	
+Alianza Atl.
+Cienciano
+ 
+02.06. 22:00	
+Carlos Manucci
+Deportivo Coopsol
+ 
+02.06. 22:00	
+Hualgayoc
+Sport Victoria
+ 
+02.06. 22:00	
+Juan Aurich
+Cesar Vallejo
+ 
+02.06. 22:00	
+Sport Loreto
+Santa Rosa
+ 
+02.06. 22:00	
+Willy Serrato
+Los Caimanes
+ 
+Round 10
+09.06. 22:00	
+Cesar Vallejo
+Hualgayoc
+ 
+09.06. 22:00	
+Cienciano
+Sport Loreto
+ 
+09.06. 22:00	
+Grau
+Alianza Atl.
+ 
+09.06. 22:00	
+Huaral
+Juan Aurich
+ 
+09.06. 22:00	
+Los Caimanes
+Carlos Manucci
+ 
+09.06. 22:00	
+Santa Rosa
+Willy Serrato
+ 
+09.06. 22:00	
+Sport Victoria
+Alfredo Salinas
+ 
+Round 11
+16.06. 22:00	
+Alfredo Salinas
+Cesar Vallejo
+ 
+16.06. 22:00	
+Alianza Atl.
+Sport Victoria
+ 
+16.06. 22:00	
+Carlos Manucci
+Santa Rosa
+ 
+16.06. 22:00	
+Deportivo Coopsol
+Los Caimanes
+ 
+16.06. 22:00	
+Hualgayoc
+Huaral
+ 
+16.06. 22:00	
+Sport Loreto
+Grau
+ 
+16.06. 22:00	
+Willy Serrato
+Cienciano
+ 
+Round 12
+23.06. 22:00	
+Cesar Vallejo
+Alianza Atl.
+ 
+23.06. 22:00	
+Cienciano
+Carlos Manucci
+ 
+23.06. 22:00	
+Grau
+Willy Serrato
+ 
+23.06. 22:00	
+Huaral
+Alfredo Salinas
+ 
+23.06. 22:00	
+Juan Aurich
+Hualgayoc
+ 
+23.06. 22:00	
+Santa Rosa
+Deportivo Coopsol
+ 
+23.06. 22:00	
+Sport Victoria
+Sport Loreto
+ 
+Round 13
+01.07. 22:00	
+Alfredo Salinas
+Juan Aurich
+ 
+01.07. 22:00	
+Alianza Atl.
+Huaral
+ 
+01.07. 22:00	
+Carlos Manucci
+Grau
+ 
+01.07. 22:00	
+Deportivo Coopsol
+Cienciano
+ 
+01.07. 22:00	
+Los Caimanes
+Santa Rosa
+ 
+01.07. 22:00	
+Sport Loreto
+Cesar Vallejo
+ 
+01.07. 22:00	
+Willy Serrato
+Sport Victoria
+ 
+Round 14
+07.07. 22:00	
+Cesar Vallejo
+Willy Serrato
+ 
+07.07. 22:00	
+Cienciano
+Los Caimanes
+ 
+07.07. 22:00	
+Grau
+Deportivo Coopsol
+ 
+07.07. 22:00	
+Hualgayoc
+Alfredo Salinas
+ 
+07.07. 22:00	
+Huaral
+Sport Loreto
+ 
+07.07. 22:00	
+Juan Aurich
+Alianza Atl.
+ 
+07.07. 22:00	
+Sport Victoria
+Carlos Manucci
+ 
+Round 15
+14.07. 22:00	
+Alianza Atl.
+Hualgayoc
+ 
+14.07. 22:00	
+Carlos Manucci
+Cesar Vallejo
+ 
+14.07. 22:00	
+Deportivo Coopsol
+Sport Victoria
+ 
+14.07. 22:00	
+Los Caimanes
+Grau
+ 
+14.07. 22:00	
+Santa Rosa
+Cienciano
+ 
+14.07. 22:00	
+Sport Loreto
+Juan Aurich
+ 
+14.07. 22:00	
+Willy Serrato
+Huaral

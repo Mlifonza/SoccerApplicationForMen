@@ -1,0 +1,1435 @@
+ BRAZIL: Serie A
+Round 4
+06.05. 00:00	
+Sao Paulo
+Atletico-MG
+06.05. 00:00	
+Vasco
+America MG
+06.05. 16:00	
+Corinthians
+Ceara
+ 
+06.05. 21:00	
+Atletico-PR
+Palmeiras
+ 
+06.05. 21:00	
+Cruzeiro
+Botafogo RJ
+ 
+06.05. 21:00	
+Flamengo
+Internacional
+06.05. 21:00	
+Vitoria
+Fluminense
+ 
+07.05. 00:00	
+Gremio
+Santos
+07.05. 00:00	
+Sport Recife
+Bahia
+ 
+08.05. 01:00	
+Chapecoense-SC
+Parana
+Round 5
+12.05. 21:00	
+Gremio
+Internacional
+ 
+13.05. 16:00	
+Cruzeiro
+Sport Recife
+ 
+13.05. 21:00	
+Atletico-PR
+Atletico-MG
+ 
+13.05. 21:00	
+Bahia
+Sao Paulo
+ 
+13.05. 21:00	
+Chapecoense-SC
+Flamengo
+ 
+13.05. 21:00	
+Corinthians
+Palmeiras
+ 
+13.05. 21:00	
+Vasco
+Vitoria
+ 
+14.05. 00:00	
+Santos
+Parana
+ 
+15.05. 01:00	
+Botafogo RJ
+Fluminense
+ 
+15.05. 01:00	
+Ceara
+America MG
+ 
+Round 6
+19.05. 21:00	
+Atletico-MG
+Cruzeiro
+ 
+20.05. 00:00	
+Flamengo
+Vasco
+ 
+20.05. 02:00	
+Palmeiras
+Bahia
+ 
+20.05. 16:00	
+Vitoria
+Ceara
+ 
+20.05. 21:00	
+America MG
+Botafogo RJ
+ 
+20.05. 21:00	
+Parana
+Gremio
+ 
+20.05. 21:00	
+Sao Paulo
+Santos
+ 
+20.05. 21:00	
+Sport Recife
+Corinthians
+ 
+21.05. 00:00	
+Fluminense
+Atletico-PR
+ 
+22.05. 01:00	
+Internacional
+Chapecoense-SC
+ 
+Round 7
+26.05. 21:00	
+Botafogo RJ
+Vitoria
+ 
+27.05. 00:00	
+Palmeiras
+Sport Recife
+ 
+27.05. 02:00	
+Atletico-MG
+Flamengo
+ 
+27.05. 16:00	
+Parana
+Atletico-PR
+ 
+27.05. 21:00	
+Bahia
+Vasco
+ 
+27.05. 21:00	
+Ceara
+Gremio
+ 
+27.05. 21:00	
+Internacional
+Corinthians
+ 
+27.05. 21:00	
+Santos
+Cruzeiro
+ 
+28.05. 00:00	
+America MG
+Sao Paulo
+ 
+28.05. 00:00	
+Fluminense
+Chapecoense-SC
+ 
+Round 8
+31.05. 00:30	
+Sao Paulo
+Botafogo RJ
+ 
+31.05. 00:30	
+Sport Recife
+Atletico-MG
+ 
+31.05. 00:30	
+Vasco
+Parana
+ 
+31.05. 02:00	
+Chapecoense-SC
+Ceara
+ 
+31.05. 02:00	
+Vitoria
+Internacional
+ 
+31.05. 02:45	
+Cruzeiro
+Palmeiras
+ 
+31.05. 02:45	
+Gremio
+Fluminense
+ 
+31.05. 21:00	
+Flamengo
+Bahia
+ 
+01.06. 00:00	
+Corinthians
+America MG
+ 
+01.06. 02:00	
+Atletico-PR
+Santos
+ 
+Round 9
+02.06. 21:00	
+Atletico-MG
+Chapecoense-SC
+ 
+02.06. 21:00	
+Internacional
+Sport Recife
+ 
+03.06. 00:00	
+Vasco
+Botafogo RJ
+ 
+03.06. 02:00	
+Palmeiras
+Sao Paulo
+ 
+03.06. 16:00	
+Bahia
+Gremio
+ 
+03.06. 21:00	
+America MG
+Atletico-PR
+ 
+03.06. 21:00	
+Flamengo
+Corinthians
+ 
+03.06. 21:00	
+Santos
+Vitoria
+ 
+04.06. 00:00	
+Ceara
+Cruzeiro
+ 
+05.06. 01:00	
+Parana
+Fluminense
+ 
+Round 10
+06.06. 02:30	
+Sao Paulo
+Internacional
+ 
+07.06. 00:30	
+Botafogo RJ
+Ceara
+ 
+07.06. 00:30	
+Vitoria
+Chapecoense-SC
+ 
+07.06. 02:00	
+Corinthians
+Santos
+ 
+07.06. 02:00	
+Sport Recife
+Atletico-PR
+ 
+07.06. 02:45	
+Cruzeiro
+Vasco
+ 
+07.06. 02:45	
+Gremio
+Palmeiras
+ 
+08.06. 01:00	
+Fluminense
+Flamengo
+ 
+08.06. 01:00	
+Parana
+Bahia
+ 
+08.06. 02:00	
+America MG
+Atletico-MG
+ 
+Round 11
+09.06. 21:00	
+Atletico-PR
+Sao Paulo
+ 
+10.06. 00:00	
+Vasco
+Sport Recife
+ 
+10.06. 02:00	
+Corinthians
+Vitoria
+ 
+10.06. 16:00	
+Chapecoense-SC
+Cruzeiro
+ 
+10.06. 21:00	
+Atletico-MG
+Fluminense
+ 
+10.06. 21:00	
+Bahia
+Botafogo RJ
+ 
+10.06. 21:00	
+Ceara
+Palmeiras
+ 
+10.06. 21:00	
+Gremio
+America MG
+ 
+11.06. 00:00	
+Flamengo
+Parana
+ 
+11.06. 00:00	
+Santos
+Internacional
+ 
+Round 12
+13.06. 02:30	
+Sao Paulo
+Vitoria
+ 
+13.06. 21:00	
+America MG
+Chapecoense-SC
+ 
+14.06. 00:00	
+Fluminense
+Santos
+ 
+14.06. 00:30	
+Parana
+Cruzeiro
+ 
+14.06. 00:30	
+Sport Recife
+Gremio
+ 
+14.06. 02:00	
+Botafogo RJ
+Atletico-PR
+ 
+14.06. 02:00	
+Palmeiras
+Flamengo
+ 
+14.06. 02:45	
+Atletico-MG
+Ceara
+ 
+14.06. 02:45	
+Bahia
+Corinthians
+ 
+14.06. 02:45	
+Internacional
+Vasco
+ 
+Round 3
+17.07. 01:00	
+Santos
+Vasco
+ 
+Round 13
+18.07. 22:00	
+Atletico-PR
+Internacional
+ 
+18.07. 22:00	
+Ceara
+Sport Recife
+ 
+18.07. 22:00	
+Chapecoense-SC
+Bahia
+ 
+18.07. 22:00	
+Corinthians
+Botafogo RJ
+ 
+18.07. 22:00	
+Cruzeiro
+America MG
+ 
+18.07. 22:00	
+Flamengo
+Sao Paulo
+ 
+18.07. 22:00	
+Gremio
+Atletico-MG
+ 
+18.07. 22:00	
+Santos
+Palmeiras
+ 
+18.07. 22:00	
+Vasco
+Fluminense
+ 
+18.07. 22:00	
+Vitoria
+Parana
+ 
+Round 14
+21.07. 22:00	
+Bahia
+Vitoria
+ 
+21.07. 22:00	
+Chapecoense-SC
+Santos
+ 
+21.07. 22:00	
+Cruzeiro
+Atletico-PR
+ 
+21.07. 22:00	
+Flamengo
+Botafogo RJ
+ 
+21.07. 22:00	
+Internacional
+Ceara
+ 
+21.07. 22:00	
+Palmeiras
+Atletico-MG
+ 
+21.07. 22:00	
+Parana
+America MG
+ 
+21.07. 22:00	
+Sao Paulo
+Corinthians
+ 
+21.07. 22:00	
+Sport Recife
+Fluminense
+ 
+21.07. 22:00	
+Vasco
+Gremio
+ 
+Round 15
+25.07. 22:00	
+America MG
+Internacional
+ 
+25.07. 22:00	
+Atletico-MG
+Parana
+ 
+25.07. 22:00	
+Atletico-PR
+Vasco
+ 
+25.07. 22:00	
+Botafogo RJ
+Chapecoense-SC
+ 
+25.07. 22:00	
+Ceara
+Bahia
+ 
+25.07. 22:00	
+Corinthians
+Cruzeiro
+ 
+25.07. 22:00	
+Fluminense
+Palmeiras
+ 
+25.07. 22:00	
+Gremio
+Sao Paulo
+ 
+25.07. 22:00	
+Santos
+Flamengo
+ 
+25.07. 22:00	
+Vitoria
+Sport Recife
+ 
+Round 16
+28.07. 22:00	
+Atletico-PR
+Vitoria
+ 
+28.07. 22:00	
+Bahia
+Atletico-MG
+ 
+28.07. 22:00	
+Ceara
+Fluminense
+ 
+28.07. 22:00	
+Chapecoense-SC
+Gremio
+ 
+28.07. 22:00	
+Cruzeiro
+Sao Paulo
+ 
+28.07. 22:00	
+Flamengo
+Sport Recife
+ 
+28.07. 22:00	
+Internacional
+Botafogo RJ
+ 
+28.07. 22:00	
+Palmeiras
+Parana
+ 
+28.07. 22:00	
+Santos
+America MG
+ 
+28.07. 22:00	
+Vasco
+Corinthians
+ 
+Round 17
+04.08. 22:00	
+America MG
+Palmeiras
+ 
+04.08. 22:00	
+Atletico-MG
+Internacional
+ 
+04.08. 22:00	
+Botafogo RJ
+Santos
+ 
+04.08. 22:00	
+Corinthians
+Atletico-PR
+ 
+04.08. 22:00	
+Fluminense
+Bahia
+ 
+04.08. 22:00	
+Gremio
+Flamengo
+ 
+04.08. 22:00	
+Parana
+Ceara
+ 
+04.08. 22:00	
+Sao Paulo
+Vasco
+ 
+04.08. 22:00	
+Sport Recife
+Chapecoense-SC
+ 
+04.08. 22:00	
+Vitoria
+Cruzeiro
+ 
+Round 18
+11.08. 22:00	
+Atletico-MG
+Santos
+ 
+11.08. 22:00	
+Bahia
+America MG
+ 
+11.08. 22:00	
+Ceara
+Atletico-PR
+ 
+11.08. 22:00	
+Chapecoense-SC
+Corinthians
+ 
+11.08. 22:00	
+Flamengo
+Cruzeiro
+ 
+11.08. 22:00	
+Fluminense
+Internacional
+ 
+11.08. 22:00	
+Gremio
+Vitoria
+ 
+11.08. 22:00	
+Palmeiras
+Vasco
+ 
+11.08. 22:00	
+Parana
+Botafogo RJ
+ 
+11.08. 22:00	
+Sport Recife
+Sao Paulo
+ 
+Round 19
+18.08. 22:00	
+America MG
+Fluminense
+ 
+18.08. 22:00	
+Atletico-PR
+Flamengo
+ 
+18.08. 22:00	
+Botafogo RJ
+Atletico-MG
+ 
+18.08. 22:00	
+Corinthians
+Gremio
+ 
+18.08. 22:00	
+Cruzeiro
+Bahia
+ 
+18.08. 22:00	
+Internacional
+Parana
+ 
+18.08. 22:00	
+Santos
+Sport Recife
+ 
+18.08. 22:00	
+Sao Paulo
+Chapecoense-SC
+ 
+18.08. 22:00	
+Vasco
+Ceara
+ 
+18.08. 22:00	
+Vitoria
+Palmeiras
+ 
+Round 20
+22.08. 22:00	
+Atletico-MG
+Vasco
+ 
+22.08. 22:00	
+Bahia
+Internacional
+ 
+22.08. 22:00	
+Ceara
+Santos
+ 
+22.08. 22:00	
+Chapecoense-SC
+Atletico-PR
+ 
+22.08. 22:00	
+Flamengo
+Vitoria
+ 
+22.08. 22:00	
+Fluminense
+Corinthians
+ 
+22.08. 22:00	
+Gremio
+Cruzeiro
+ 
+22.08. 22:00	
+Palmeiras
+Botafogo RJ
+ 
+22.08. 22:00	
+Parana
+Sao Paulo
+ 
+22.08. 22:00	
+Sport Recife
+America MG
+ 
+Round 21
+25.08. 22:00	
+America MG
+Flamengo
+ 
+25.08. 22:00	
+Atletico-PR
+Gremio
+ 
+25.08. 22:00	
+Botafogo RJ
+Sport Recife
+ 
+25.08. 22:00	
+Corinthians
+Parana
+ 
+25.08. 22:00	
+Cruzeiro
+Fluminense
+ 
+25.08. 22:00	
+Internacional
+Palmeiras
+ 
+25.08. 22:00	
+Santos
+Bahia
+ 
+25.08. 22:00	
+Sao Paulo
+Ceara
+ 
+25.08. 22:00	
+Vasco
+Chapecoense-SC
+ 
+25.08. 22:00	
+Vitoria
+Atletico-MG
+ 
+Round 22
+01.09. 22:00	
+Atletico-PR
+Bahia
+ 
+01.09. 22:00	
+Chapecoense-SC
+Palmeiras
+ 
+01.09. 22:00	
+Corinthians
+Atletico-MG
+ 
+01.09. 22:00	
+Cruzeiro
+Internacional
+ 
+01.09. 22:00	
+Flamengo
+Ceara
+ 
+01.09. 22:00	
+Gremio
+Botafogo RJ
+ 
+01.09. 22:00	
+Sao Paulo
+Fluminense
+ 
+01.09. 22:00	
+Sport Recife
+Parana
+ 
+01.09. 22:00	
+Vasco
+Santos
+ 
+01.09. 22:00	
+Vitoria
+America MG
+ 
+Round 23
+05.09. 22:00	
+America MG
+Vasco
+ 
+05.09. 22:00	
+Atletico-MG
+Sao Paulo
+ 
+05.09. 22:00	
+Bahia
+Sport Recife
+ 
+05.09. 22:00	
+Botafogo RJ
+Cruzeiro
+ 
+05.09. 22:00	
+Ceara
+Corinthians
+ 
+05.09. 22:00	
+Fluminense
+Vitoria
+ 
+05.09. 22:00	
+Internacional
+Flamengo
+ 
+05.09. 22:00	
+Palmeiras
+Atletico-PR
+ 
+05.09. 22:00	
+Parana
+Chapecoense-SC
+ 
+05.09. 22:00	
+Santos
+Gremio
+ 
+Round 24
+08.09. 22:00	
+America MG
+Ceara
+ 
+08.09. 22:00	
+Atletico-MG
+Atletico-PR
+ 
+08.09. 22:00	
+Flamengo
+Chapecoense-SC
+ 
+08.09. 22:00	
+Fluminense
+Botafogo RJ
+ 
+08.09. 22:00	
+Internacional
+Gremio
+ 
+08.09. 22:00	
+Palmeiras
+Corinthians
+ 
+08.09. 22:00	
+Parana
+Santos
+ 
+08.09. 22:00	
+Sao Paulo
+Bahia
+ 
+08.09. 22:00	
+Sport Recife
+Cruzeiro
+ 
+08.09. 22:00	
+Vitoria
+Vasco
+ 
+Round 25
+15.09. 22:00	
+Atletico-PR
+Fluminense
+ 
+15.09. 22:00	
+Bahia
+Palmeiras
+ 
+15.09. 22:00	
+Botafogo RJ
+America MG
+ 
+15.09. 22:00	
+Ceara
+Vitoria
+ 
+15.09. 22:00	
+Chapecoense-SC
+Internacional
+ 
+15.09. 22:00	
+Corinthians
+Sport Recife
+ 
+15.09. 22:00	
+Cruzeiro
+Atletico-MG
+ 
+15.09. 22:00	
+Gremio
+Parana
+ 
+15.09. 22:00	
+Santos
+Sao Paulo
+ 
+15.09. 22:00	
+Vasco
+Flamengo
+ 
+Round 26
+22.09. 22:00	
+Atletico-PR
+Parana
+ 
+22.09. 22:00	
+Chapecoense-SC
+Fluminense
+ 
+22.09. 22:00	
+Corinthians
+Internacional
+ 
+22.09. 22:00	
+Cruzeiro
+Santos
+ 
+22.09. 22:00	
+Flamengo
+Atletico-MG
+ 
+22.09. 22:00	
+Gremio
+Ceara
+ 
+22.09. 22:00	
+Sao Paulo
+America MG
+ 
+22.09. 22:00	
+Sport Recife
+Palmeiras
+ 
+22.09. 22:00	
+Vasco
+Bahia
+ 
+22.09. 22:00	
+Vitoria
+Botafogo RJ
+ 
+Round 27
+29.09. 22:00	
+America MG
+Corinthians
+ 
+29.09. 22:00	
+Atletico-MG
+Sport Recife
+ 
+29.09. 22:00	
+Bahia
+Flamengo
+ 
+29.09. 22:00	
+Botafogo RJ
+Sao Paulo
+ 
+29.09. 22:00	
+Ceara
+Chapecoense-SC
+ 
+29.09. 22:00	
+Fluminense
+Gremio
+ 
+29.09. 22:00	
+Internacional
+Vitoria
+ 
+29.09. 22:00	
+Palmeiras
+Cruzeiro
+ 
+29.09. 22:00	
+Parana
+Vasco
+ 
+29.09. 22:00	
+Santos
+Atletico-PR
+ 
+Round 28
+04.10. 22:00	
+Atletico-PR
+America MG
+ 
+04.10. 22:00	
+Botafogo RJ
+Vasco
+ 
+04.10. 22:00	
+Chapecoense-SC
+Atletico-MG
+ 
+04.10. 22:00	
+Corinthians
+Flamengo
+ 
+04.10. 22:00	
+Cruzeiro
+Ceara
+ 
+04.10. 22:00	
+Fluminense
+Parana
+ 
+04.10. 22:00	
+Gremio
+Bahia
+ 
+04.10. 22:00	
+Sao Paulo
+Palmeiras
+ 
+04.10. 22:00	
+Sport Recife
+Internacional
+ 
+04.10. 22:00	
+Vitoria
+Santos
+ 
+Round 29
+13.10. 22:00	
+Atletico-MG
+America MG
+ 
+13.10. 22:00	
+Atletico-PR
+Sport Recife
+ 
+13.10. 22:00	
+Bahia
+Parana
+ 
+13.10. 22:00	
+Ceara
+Botafogo RJ
+ 
+13.10. 22:00	
+Chapecoense-SC
+Vitoria
+ 
+13.10. 22:00	
+Flamengo
+Fluminense
+ 
+13.10. 22:00	
+Internacional
+Sao Paulo
+ 
+13.10. 22:00	
+Palmeiras
+Gremio
+ 
+13.10. 22:00	
+Santos
+Corinthians
+ 
+13.10. 22:00	
+Vasco
+Cruzeiro
+ 
+Round 30
+20.10. 22:00	
+America MG
+Gremio
+ 
+20.10. 22:00	
+Botafogo RJ
+Bahia
+ 
+20.10. 22:00	
+Cruzeiro
+Chapecoense-SC
+ 
+20.10. 22:00	
+Fluminense
+Atletico-MG
+ 
+20.10. 22:00	
+Internacional
+Santos
+ 
+20.10. 22:00	
+Palmeiras
+Ceara
+ 
+20.10. 22:00	
+Parana
+Flamengo
+ 
+20.10. 22:00	
+Sao Paulo
+Atletico-PR
+ 
+20.10. 22:00	
+Sport Recife
+Vasco
+ 
+20.10. 22:00	
+Vitoria
+Corinthians
+ 
+Round 31
+25.10. 22:00	
+Atletico-PR
+Botafogo RJ
+ 
+25.10. 22:00	
+Ceara
+Atletico-MG
+ 
+25.10. 22:00	
+Chapecoense-SC
+America MG
+ 
+25.10. 22:00	
+Corinthians
+Bahia
+ 
+25.10. 22:00	
+Cruzeiro
+Parana
+ 
+25.10. 22:00	
+Flamengo
+Palmeiras
+ 
+25.10. 22:00	
+Gremio
+Sport Recife
+ 
+25.10. 22:00	
+Santos
+Fluminense
+ 
+25.10. 22:00	
+Vasco
+Internacional
+ 
+25.10. 22:00	
+Vitoria
+Sao Paulo
+ 
+Round 32
+03.11. 23:00	
+America MG
+Cruzeiro
+ 
+03.11. 23:00	
+Atletico-MG
+Gremio
+ 
+03.11. 23:00	
+Bahia
+Chapecoense-SC
+ 
+03.11. 23:00	
+Botafogo RJ
+Corinthians
+ 
+03.11. 23:00	
+Fluminense
+Vasco
+ 
+03.11. 23:00	
+Internacional
+Atletico-PR
+ 
+03.11. 23:00	
+Palmeiras
+Santos
+ 
+03.11. 23:00	
+Parana
+Vitoria
+ 
+03.11. 23:00	
+Sao Paulo
+Flamengo
+ 
+03.11. 23:00	
+Sport Recife
+Ceara
+ 
+Round 33
+10.11. 23:00	
+America MG
+Parana
+ 
+10.11. 23:00	
+Atletico-MG
+Palmeiras
+ 
+10.11. 23:00	
+Atletico-PR
+Cruzeiro
+ 
+10.11. 23:00	
+Botafogo RJ
+Flamengo
+ 
+10.11. 23:00	
+Ceara
+Internacional
+ 
+10.11. 23:00	
+Corinthians
+Sao Paulo
+ 
+10.11. 23:00	
+Fluminense
+Sport Recife
+ 
+10.11. 23:00	
+Gremio
+Vasco
+ 
+10.11. 23:00	
+Santos
+Chapecoense-SC
+ 
+10.11. 23:00	
+Vitoria
+Bahia
+ 
+Round 34
+14.11. 23:00	
+Bahia
+Ceara
+ 
+14.11. 23:00	
+Chapecoense-SC
+Botafogo RJ
+ 
+14.11. 23:00	
+Cruzeiro
+Corinthians
+ 
+14.11. 23:00	
+Flamengo
+Santos
+ 
+14.11. 23:00	
+Internacional
+America MG
+ 
+14.11. 23:00	
+Palmeiras
+Fluminense
+ 
+14.11. 23:00	
+Parana
+Atletico-MG
+ 
+14.11. 23:00	
+Sao Paulo
+Gremio
+ 
+14.11. 23:00	
+Sport Recife
+Vitoria
+ 
+14.11. 23:00	
+Vasco
+Atletico-PR
+ 
+Round 35
+17.11. 23:00	
+America MG
+Santos
+ 
+17.11. 23:00	
+Atletico-MG
+Bahia
+ 
+17.11. 23:00	
+Botafogo RJ
+Internacional
+ 
+17.11. 23:00	
+Corinthians
+Vasco
+ 
+17.11. 23:00	
+Fluminense
+Ceara
+ 
+17.11. 23:00	
+Gremio
+Chapecoense-SC
+ 
+17.11. 23:00	
+Parana
+Palmeiras
+ 
+17.11. 23:00	
+Sao Paulo
+Cruzeiro
+ 
+17.11. 23:00	
+Sport Recife
+Flamengo
+ 
+17.11. 23:00	
+Vitoria
+Atletico-PR
+ 
+Round 36
+21.11. 23:00	
+Atletico-PR
+Corinthians
+ 
+21.11. 23:00	
+Bahia
+Fluminense
+ 
+21.11. 23:00	
+Ceara
+Parana
+ 
+21.11. 23:00	
+Chapecoense-SC
+Sport Recife
+ 
+21.11. 23:00	
+Cruzeiro
+Vitoria
+ 
+21.11. 23:00	
+Flamengo
+Gremio
+ 
+21.11. 23:00	
+Internacional
+Atletico-MG
+ 
+21.11. 23:00	
+Palmeiras
+America MG
+ 
+21.11. 23:00	
+Santos
+Botafogo RJ
+ 
+21.11. 23:00	
+Vasco
+Sao Paulo
+ 
+Round 37
+24.11. 23:00	
+America MG
+Bahia
+ 
+24.11. 23:00	
+Atletico-PR
+Ceara
+ 
+24.11. 23:00	
+Botafogo RJ
+Parana
+ 
+24.11. 23:00	
+Corinthians
+Chapecoense-SC
+ 
+24.11. 23:00	
+Cruzeiro
+Flamengo
+ 
+24.11. 23:00	
+Internacional
+Fluminense
+ 
+24.11. 23:00	
+Santos
+Atletico-MG
+ 
+24.11. 23:00	
+Sao Paulo
+Sport Recife
+ 
+24.11. 23:00	
+Vasco
+Palmeiras
+ 
+24.11. 23:00	
+Vitoria
+Gremio
+ 
+Round 38
+02.12. 23:00	
+Atletico-MG
+Botafogo RJ
+ 
+02.12. 23:00	
+Bahia
+Cruzeiro
+ 
+02.12. 23:00	
+Ceara
+Vasco
+ 
+02.12. 23:00	
+Chapecoense-SC
+Sao Paulo
+ 
+02.12. 23:00	
+Flamengo
+Atletico-PR
+ 
+02.12. 23:00	
+Fluminense
+America MG
+ 
+02.12. 23:00	
+Gremio
+Corinthians
+ 
+02.12. 23:00	
+Palmeiras
+Vitoria
+ 
+02.12. 23:00	
+Parana
+Internacional
+ 
+02.12. 23:00	
+Sport Recife
+Santos

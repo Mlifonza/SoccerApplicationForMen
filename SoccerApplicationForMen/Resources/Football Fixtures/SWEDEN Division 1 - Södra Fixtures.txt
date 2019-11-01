@@ -1,0 +1,767 @@
+ SWEDEN: Division 1 - Södra
+Round 7
+20.05. 16:00	
+Husqvarna
+Karlskrona
+20.05. 17:00	
+Ljungskile
+Oddevold
+ 
+Round 8
+25.05. 19:00	
+Torns
+Eskilsminne
+ 
+26.05. 16:00	
+Oskarshamns
+Utsiktens
+ 
+26.05. 16:00	
+Tvaakers
+Angelholms
+ 
+27.05. 16:00	
+Atvidabergs
+Kristianstads
+ 
+27.05. 16:00	
+Karlskrona
+Ljungskile
+ 
+27.05. 16:00	
+Mjallby
+Grebbestads
+ 
+27.05. 17:00	
+Oddevold
+Lunds
+ 
+29.05. 19:00	
+Skövde
+Husqvarna
+ 
+Round 9
+31.05. 19:00	
+Kristianstads
+Torns
+ 
+02.06. 14:00	
+Eskilsminne
+Tvaakers
+ 
+02.06. 14:00	
+Lunds
+Karlskrona
+ 
+02.06. 15:00	
+Ljungskile
+Oskarshamns
+ 
+02.06. 16:00	
+Angelholms
+Utsiktens
+ 
+02.06. 16:00	
+Grebbestads
+Skövde
+ 
+02.06. 16:00	
+Mjallby
+Oddevold
+ 
+03.06. 16:00	
+Husqvarna
+Atvidabergs
+ 
+Round 10
+06.06. 14:00	
+Torns
+Oskarshamns
+ 
+06.06. 15:00	
+Atvidabergs
+Karlskrona
+ 
+06.06. 15:00	
+Tvaakers
+Kristianstads
+ 
+06.06. 16:00	
+Angelholms
+Mjallby
+ 
+06.06. 16:00	
+Husqvarna
+Lunds
+ 
+06.06. 16:00	
+Skövde
+Ljungskile
+ 
+06.06. 16:00	
+Utsiktens
+Eskilsminne
+ 
+06.06. 17:00	
+Oddevold
+Grebbestads
+ 
+Round 11
+09.06. 16:00	
+Grebbestads
+Atvidabergs
+ 
+09.06. 16:00	
+Ljungskile
+Angelholms
+ 
+09.06. 16:00	
+Torns
+Tvaakers
+ 
+10.06. 15:00	
+Eskilsminne
+Lunds
+ 
+10.06. 15:00	
+Utsiktens
+Oddevold
+ 
+10.06. 16:00	
+Karlskrona
+Mjallby
+ 
+10.06. 16:00	
+Kristianstads
+Husqvarna
+ 
+10.06. 16:00	
+Oskarshamns
+Skövde
+ 
+Round 12
+16.06. 14:00	
+Lunds
+Utsiktens
+ 
+16.06. 14:00	
+Tvaakers
+Husqvarna
+ 
+16.06. 16:00	
+Atvidabergs
+Torns
+ 
+16.06. 16:00	
+Mjallby
+Oskarshamns
+ 
+16.06. 16:00	
+Oddevold
+Angelholms
+ 
+16.06. 16:00	
+Skövde
+Eskilsminne
+ 
+17.06. 17:00	
+Kristianstads
+Karlskrona
+ 
+17.06. 17:00	
+Ljungskile
+Grebbestads
+ 
+Round 13
+20.06. 19:00	
+Karlskrona
+Torns
+ 
+20.06. 19:00	
+Lunds
+Mjallby
+ 
+21.06. 19:00	
+Utsiktens
+Ljungskile
+ 
+21.06. 19:30	
+Skövde
+Tvaakers
+ 
+24.06. 16:00	
+Angelholms
+Oskarshamns
+ 
+24.06. 16:00	
+Grebbestads
+Kristianstads
+ 
+24.06. 16:00	
+Husqvarna
+Eskilsminne
+ 
+24.06. 17:00	
+Oddevold
+Atvidabergs
+ 
+Round 14
+30.06. 14:00	
+Torns
+Skövde
+ 
+30.06. 14:00	
+Tvaakers
+Atvidabergs
+ 
+30.06. 16:00	
+Eskilsminne
+Angelholms
+ 
+30.06. 16:00	
+Grebbestads
+Husqvarna
+ 
+30.06. 16:00	
+Oskarshamns
+Oddevold
+ 
+01.07. 16:00	
+Karlskrona
+Utsiktens
+ 
+01.07. 17:00	
+Kristianstads
+Mjallby
+ 
+01.07. 17:00	
+Ljungskile
+Lunds
+ 
+Round 15
+06.07. 19:00	
+Eskilsminne
+Grebbestads
+ 
+07.07. 16:00	
+Lunds
+Angelholms
+ 
+07.07. 16:00	
+Mjallby
+Ljungskile
+ 
+07.07. 16:00	
+Utsiktens
+Kristianstads
+ 
+08.07. 15:00	
+Atvidabergs
+Skövde
+ 
+08.07. 16:00	
+Husqvarna
+Torns
+ 
+08.07. 16:00	
+Oskarshamns
+Karlskrona
+ 
+09.07. 19:00	
+Oddevold
+Tvaakers
+ 
+Round 16
+13.07. 19:00	
+Grebbestads
+Oddevold
+ 
+13.07. 19:00	
+Torns
+Lunds
+ 
+14.07. 14:00	
+Skövde
+Atvidabergs
+ 
+14.07. 16:00	
+Angelholms
+Eskilsminne
+ 
+14.07. 16:00	
+Karlskrona
+Husqvarna
+ 
+14.07. 16:00	
+Ljungskile
+Mjallby
+ 
+14.07. 16:00	
+Tvaakers
+Oskarshamns
+ 
+15.07. 15:00	
+Kristianstads
+Utsiktens
+ 
+Round 17
+18.07. 19:00	
+Oddevold
+Torns
+ 
+19.07. 19:00	
+Atvidabergs
+Grebbestads
+ 
+21.07. 16:00	
+Eskilsminne
+Skövde
+ 
+21.07. 16:00	
+Lunds
+Kristianstads
+ 
+21.07. 16:00	
+Mjallby
+Angelholms
+ 
+21.07. 16:00	
+Oskarshamns
+Ljungskile
+ 
+21.07. 16:00	
+Utsiktens
+Karlskrona
+ 
+22.07. 16:00	
+Husqvarna
+Tvaakers
+ 
+Round 18
+18.08. 14:00	
+Torns
+Utsiktens
+ 
+18.08. 16:00	
+Grebbestads
+Lunds
+ 
+18.08. 16:00	
+Oskarshamns
+Kristianstads
+ 
+18.08. 16:00	
+Skövde
+Mjallby
+ 
+19.08. 15:00	
+Atvidabergs
+Tvaakers
+ 
+19.08. 16:00	
+Karlskrona
+Angelholms
+ 
+19.08. 17:00	
+Oddevold
+Eskilsminne
+ 
+20.08. 19:00	
+Ljungskile
+Husqvarna
+ 
+Round 19
+25.08. 14:00	
+Lunds
+Oddevold
+ 
+25.08. 14:00	
+Tvaakers
+Karlskrona
+ 
+25.08. 16:00	
+Mjallby
+Atvidabergs
+ 
+26.08. 14:00	
+Eskilsminne
+Torns
+ 
+26.08. 15:00	
+Utsiktens
+Skövde
+ 
+26.08. 16:00	
+Angelholms
+Grebbestads
+ 
+26.08. 16:00	
+Husqvarna
+Oskarshamns
+ 
+26.08. 16:00	
+Kristianstads
+Ljungskile
+ 
+Round 20
+01.09. 13:00	
+Tvaakers
+Ljungskile
+ 
+01.09. 15:00	
+Atvidabergs
+Utsiktens
+ 
+01.09. 15:00	
+Grebbestads
+Eskilsminne
+ 
+01.09. 16:00	
+Oskarshamns
+Lunds
+ 
+01.09. 16:00	
+Skövde
+Kristianstads
+ 
+02.09. 16:00	
+Husqvarna
+Angelholms
+ 
+02.09. 16:00	
+Oddevold
+Karlskrona
+ 
+02.09. 16:00	
+Torns
+Mjallby
+ 
+Round 21
+08.09. 14:00	
+Eskilsminne
+Husqvarna
+ 
+08.09. 14:00	
+Lunds
+Skövde
+ 
+08.09. 15:00	
+Karlskrona
+Atvidabergs
+ 
+08.09. 15:00	
+Kristianstads
+Grebbestads
+ 
+08.09. 16:00	
+Utsiktens
+Oskarshamns
+ 
+09.09. 15:00	
+Mjallby
+Tvaakers
+ 
+09.09. 16:00	
+Angelholms
+Oddevold
+ 
+09.09. 16:00	
+Ljungskile
+Torns
+ 
+Round 22
+15.09. 14:00	
+Torns
+Angelholms
+ 
+15.09. 14:00	
+Tvaakers
+Eskilsminne
+ 
+15.09. 15:00	
+Atvidabergs
+Lunds
+ 
+15.09. 15:00	
+Grebbestads
+Ljungskile
+ 
+15.09. 16:00	
+Oskarshamns
+Mjallby
+ 
+15.09. 16:00	
+Skövde
+Karlskrona
+ 
+16.09. 16:00	
+Husqvarna
+Kristianstads
+ 
+17.09. 19:00	
+Oddevold
+Utsiktens
+ 
+Round 23
+22.09. 14:00	
+Eskilsminne
+Utsiktens
+ 
+22.09. 15:00	
+Kristianstads
+Oddevold
+ 
+22.09. 16:00	
+Oskarshamns
+Torns
+ 
+23.09. 14:00	
+Lunds
+Tvaakers
+ 
+23.09. 15:00	
+Mjallby
+Husqvarna
+ 
+23.09. 16:00	
+Angelholms
+Skövde
+ 
+23.09. 16:00	
+Karlskrona
+Grebbestads
+ 
+23.09. 16:00	
+Ljungskile
+Atvidabergs
+ 
+Round 24
+28.09. 19:00	
+Karlskrona
+Oskarshamns
+ 
+29.09. 14:00	
+Torns
+Kristianstads
+ 
+29.09. 14:00	
+Tvaakers
+Oddevold
+ 
+29.09. 15:00	
+Atvidabergs
+Eskilsminne
+ 
+29.09. 16:00	
+Skövde
+Grebbestads
+ 
+29.09. 16:00	
+Utsiktens
+Husqvarna
+ 
+30.09. 15:00	
+Mjallby
+Lunds
+ 
+30.09. 16:00	
+Angelholms
+Ljungskile
+ 
+Round 25
+05.10. 19:00	
+Oskarshamns
+Atvidabergs
+ 
+06.10. 14:00	
+Lunds
+Eskilsminne
+ 
+06.10. 15:00	
+Grebbestads
+Torns
+ 
+06.10. 15:00	
+Kristianstads
+Tvaakers
+ 
+06.10. 15:00	
+Ljungskile
+Karlskrona
+ 
+06.10. 16:00	
+Utsiktens
+Angelholms
+ 
+07.10. 16:00	
+Husqvarna
+Skövde
+ 
+07.10. 17:00	
+Oddevold
+Mjallby
+ 
+Round 26
+13.10. 14:00	
+Torns
+Husqvarna
+ 
+13.10. 14:00	
+Tvaakers
+Grebbestads
+ 
+13.10. 15:00	
+Atvidabergs
+Oddevold
+ 
+13.10. 15:00	
+Eskilsminne
+Ljungskile
+ 
+13.10. 16:00	
+Skövde
+Oskarshamns
+ 
+14.10. 15:00	
+Mjallby
+Utsiktens
+ 
+14.10. 16:00	
+Karlskrona
+Lunds
+ 
+15.10. 19:00	
+Angelholms
+Kristianstads
+ 
+Round 27
+20.10. 14:00	
+Lunds
+Husqvarna
+ 
+20.10. 15:00	
+Oddevold
+Ljungskile
+ 
+20.10. 16:00	
+Atvidabergs
+Angelholms
+ 
+20.10. 16:00	
+Oskarshamns
+Grebbestads
+ 
+20.10. 16:00	
+Skövde
+Torns
+ 
+20.10. 16:00	
+Utsiktens
+Tvaakers
+ 
+21.10. 15:00	
+Mjallby
+Karlskrona
+ 
+22.10. 19:00	
+Kristianstads
+Eskilsminne
+ 
+Round 28
+26.10. 19:00	
+Karlskrona
+Kristianstads
+ 
+27.10. 14:00	
+Torns
+Atvidabergs
+ 
+27.10. 14:00	
+Tvaakers
+Skövde
+ 
+27.10. 15:00	
+Eskilsminne
+Oskarshamns
+ 
+27.10. 15:00	
+Grebbestads
+Mjallby
+ 
+27.10. 15:00	
+Husqvarna
+Oddevold
+ 
+28.10. 17:00	
+Angelholms
+Lunds
+ 
+28.10. 17:00	
+Ljungskile
+Utsiktens
+ 
+Round 29
+03.11. 15:00	
+Atvidabergs
+Husqvarna
+ 
+03.11. 15:00	
+Lunds
+Ljungskile
+ 
+03.11. 15:00	
+Tvaakers
+Torns
+ 
+03.11. 16:00	
+Grebbestads
+Utsiktens
+ 
+03.11. 17:00	
+Skövde
+Oddevold
+ 
+04.11. 16:00	
+Mjallby
+Kristianstads
+ 
+04.11. 17:00	
+Karlskrona
+Eskilsminne
+ 
+04.11. 18:00	
+Oskarshamns
+Angelholms
+ 
+Round 30
+10.11. 15:00	
+Angelholms
+Tvaakers
+ 
+10.11. 15:00	
+Eskilsminne
+Mjallby
+ 
+10.11. 15:00	
+Husqvarna
+Grebbestads
+ 
+10.11. 15:00	
+Kristianstads
+Atvidabergs
+ 
+10.11. 15:00	
+Ljungskile
+Skövde
+ 
+10.11. 15:00	
+Oddevold
+Oskarshamns
+ 
+10.11. 15:00	
+Torns
+Karlskrona
+ 
+10.11. 15:00	
+Utsiktens
+Lunds

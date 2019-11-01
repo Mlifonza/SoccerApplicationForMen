@@ -1,0 +1,218 @@
+ SPAIN: LaLiga2
+Round 38
+04.05. 21:00	
+Alcorcon
+Leonesa
+05.05. 16:00	
+Cordoba
+Huesca
+05.05. 16:00	
+Numancia
+Valladolid
+05.05. 18:00	
+Barcelona B
+Reus Deportiu
+05.05. 18:00	
+Zaragoza
+Gijon
+05.05. 20:00	
+Tenerife
+Almeria
+06.05. 12:00	
+Gimnastic
+Osasuna
+ 
+06.05. 16:00	
+R. Oviedo
+Lorca FC
+ 
+06.05. 18:00	
+Albacete
+Cadiz
+ 
+06.05. 18:00	
+Lugo
+Sevilla B
+ 
+07.05. 21:00	
+Granada
+Vallecano
+Round 39
+11.05. 21:00	
+Lorca FC
+Numancia
+ 
+12.05. 16:00	
+Gijon
+Barcelona B
+ 
+12.05. 16:00	
+Valladolid
+Albacete
+ 
+12.05. 20:30	
+Osasuna
+R. Oviedo
+ 
+12.05. 20:30	
+Reus Deportiu
+Tenerife
+ 
+13.05. 12:00	
+Leonesa
+Lugo
+ 
+13.05. 16:00	
+Huesca
+Alcorcon
+ 
+13.05. 18:00	
+Sevilla B
+Gimnastic
+ 
+13.05. 18:00	
+Vallecano
+Cordoba
+ 
+13.05. 20:00	
+Almeria
+Granada
+ 
+14.05. 21:00	
+Cadiz
+Zaragoza
+ 
+Round 40
+20.05. 19:00	
+Alcorcon
+Vallecano
+ 
+20.05. 19:00	
+Barcelona B
+Cadiz
+ 
+20.05. 19:00	
+Cordoba
+Almeria
+ 
+20.05. 19:00	
+Gimnastic
+Leonesa
+ 
+20.05. 19:00	
+Granada
+Reus Deportiu
+ 
+20.05. 19:00	
+Lorca FC
+Valladolid
+ 
+20.05. 19:00	
+Lugo
+Huesca
+ 
+20.05. 19:00	
+Numancia
+Osasuna
+ 
+20.05. 19:00	
+R. Oviedo
+Sevilla B
+ 
+20.05. 19:00	
+Tenerife
+Gijon
+ 
+20.05. 19:00	
+Zaragoza
+Albacete
+ 
+Round 41
+27.05. 19:00	
+Albacete
+Barcelona B
+ 
+27.05. 19:00	
+Almeria
+Alcorcon
+ 
+27.05. 19:00	
+Cadiz
+Tenerife
+ 
+27.05. 19:00	
+Gijon
+Granada
+ 
+27.05. 19:00	
+Huesca
+Gimnastic
+ 
+27.05. 19:00	
+Leonesa
+R. Oviedo
+ 
+27.05. 19:00	
+Osasuna
+Lorca FC
+ 
+27.05. 19:00	
+Reus Deportiu
+Cordoba
+ 
+27.05. 19:00	
+Sevilla B
+Numancia
+ 
+27.05. 19:00	
+Vallecano
+Lugo
+ 
+27.05. 19:00	
+Zaragoza
+Valladolid
+ 
+Round 42
+03.06. 19:00	
+Alcorcon
+Reus Deportiu
+ 
+03.06. 19:00	
+Barcelona B
+Zaragoza
+ 
+03.06. 19:00	
+Cordoba
+Gijon
+ 
+03.06. 19:00	
+Gimnastic
+Vallecano
+ 
+03.06. 19:00	
+Granada
+Cadiz
+ 
+03.06. 19:00	
+Lorca FC
+Sevilla B
+ 
+03.06. 19:00	
+Lugo
+Almeria
+ 
+03.06. 19:00	
+Numancia
+Leonesa
+ 
+03.06. 19:00	
+R. Oviedo
+Huesca
+ 
+03.06. 19:00	
+Tenerife
+Albacete
+ 
+03.06. 19:00	
+Valladolid
+Osasuna

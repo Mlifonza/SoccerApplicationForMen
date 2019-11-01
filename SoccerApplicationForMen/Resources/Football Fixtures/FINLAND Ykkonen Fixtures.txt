@@ -1,0 +1,516 @@
+ FINLAND: Ykkonen
+05.05. 15:00	
+Jaro
+KPV
+05.05. 16:00	
+AC Kajaani
+KTP
+06.05. 17:30	
+Ekenas
+Haka
+06.05. 17:30	
+Klubi 04
+JJK Jyvaskyla
+09.05. 17:30	
+Oulu
+HIFK
+ 
+13.05. 17:30	
+JJK Jyvaskyla
+Ekenas
+ 
+13.05. 17:30	
+KPV
+AC Kajaani
+ 
+14.05. 17:30	
+HIFK
+Jaro
+ 
+14.05. 17:30	
+KTP
+Klubi 04
+ 
+16.05. 17:30	
+Haka
+Oulu
+ 
+21.05. 17:30	
+AC Kajaani
+Haka
+ 
+21.05. 17:30	
+HIFK
+Klubi 04
+ 
+21.05. 17:30	
+JJK Jyvaskyla
+Jaro
+ 
+21.05. 17:30	
+KPV
+Ekenas
+ 
+21.05. 17:30	
+Oulu
+KTP
+ 
+24.05. 17:30	
+Haka
+KPV
+ 
+26.05. 16:00	
+Ekenas
+HIFK
+ 
+26.05. 16:00	
+Jaro
+AC Kajaani
+ 
+27.05. 17:30	
+Klubi 04
+Oulu
+ 
+28.05. 17:30	
+KTP
+JJK Jyvaskyla
+ 
+01.06. 17:30	
+JJK Jyvaskyla
+HIFK
+ 
+02.06. 16:00	
+Jaro
+Ekenas
+ 
+02.06. 16:00	
+Klubi 04
+AC Kajaani
+ 
+02.06. 16:00	
+KPV
+Oulu
+ 
+02.06. 16:00	
+KTP
+Haka
+ 
+09.06. 16:00	
+AC Kajaani
+Ekenas
+ 
+09.06. 16:00	
+Haka
+JJK Jyvaskyla
+ 
+09.06. 16:00	
+HIFK
+KTP
+ 
+09.06. 16:00	
+KPV
+Klubi 04
+ 
+09.06. 16:00	
+Oulu
+Jaro
+ 
+13.06. 17:30	
+HIFK
+KPV
+ 
+14.06. 17:30	
+Haka
+Klubi 04
+ 
+16.06. 17:30	
+Ekenas
+Oulu
+ 
+16.06. 17:30	
+JJK Jyvaskyla
+AC Kajaani
+ 
+16.06. 17:30	
+KTP
+Jaro
+ 
+20.06. 17:30	
+AC Kajaani
+HIFK
+ 
+20.06. 17:30	
+Jaro
+Haka
+ 
+20.06. 17:30	
+Klubi 04
+Ekenas
+ 
+20.06. 17:30	
+KPV
+KTP
+ 
+20.06. 17:30	
+Oulu
+JJK Jyvaskyla
+ 
+26.06. 17:30	
+Ekenas
+KTP
+ 
+26.06. 17:30	
+HIFK
+Haka
+ 
+26.06. 17:30	
+Jaro
+Klubi 04
+ 
+26.06. 17:30	
+JJK Jyvaskyla
+KPV
+ 
+26.06. 17:30	
+Oulu
+AC Kajaani
+ 
+29.06. 17:30	
+JJK Jyvaskyla
+Klubi 04
+ 
+30.06. 14:00	
+Haka
+Ekenas
+ 
+30.06. 14:00	
+HIFK
+Oulu
+ 
+30.06. 14:00	
+KPV
+Jaro
+ 
+30.06. 14:00	
+KTP
+AC Kajaani
+ 
+04.07. 17:30	
+JJK Jyvaskyla
+Jaro
+ 
+07.07. 14:00	
+AC Kajaani
+KPV
+ 
+07.07. 14:00	
+Ekenas
+JJK Jyvaskyla
+ 
+07.07. 14:00	
+Klubi 04
+KTP
+ 
+07.07. 14:00	
+Oulu
+Haka
+ 
+09.07. 17:30	
+Jaro
+HIFK
+ 
+14.07. 14:00	
+Haka
+AC Kajaani
+ 
+14.07. 18:00	
+Ekenas
+KPV
+ 
+14.07. 18:00	
+KTP
+Oulu
+ 
+21.07. 16:00	
+HIFK
+Ekenas
+ 
+21.07. 16:00	
+KPV
+Haka
+ 
+21.07. 16:00	
+KTP
+JJK Jyvaskyla
+ 
+25.07. 17:30	
+Jaro
+AC Kajaani
+ 
+27.07. 17:30	
+HIFK
+JJK Jyvaskyla
+ 
+28.07. 13:00	
+Haka
+KTP
+ 
+28.07. 14:00	
+Jaro
+Ekenas
+ 
+28.07. 16:00	
+AC Kajaani
+Klubi 04
+ 
+28.07. 16:00	
+KPV
+Oulu
+ 
+04.08. 16:00	
+Ekenas
+AC Kajaani
+ 
+04.08. 16:00	
+JJK Jyvaskyla
+Haka
+ 
+04.08. 16:00	
+Oulu
+Jaro
+ 
+05.08. 17:30	
+Klubi 04
+KPV
+ 
+06.08. 17:30	
+KTP
+HIFK
+ 
+08.08. 17:30	
+Oulu
+Klubi 04
+ 
+11.08. 16:00	
+AC Kajaani
+JJK Jyvaskyla
+ 
+11.08. 16:00	
+Jaro
+KTP
+ 
+11.08. 16:00	
+KPV
+HIFK
+ 
+12.08. 17:30	
+Klubi 04
+Haka
+ 
+13.08. 17:30	
+Oulu
+Ekenas
+ 
+17.08. 17:30	
+Haka
+Jaro
+ 
+18.08. 16:00	
+JJK Jyvaskyla
+Oulu
+ 
+19.08. 17:30	
+Ekenas
+Klubi 04
+ 
+19.08. 17:30	
+HIFK
+AC Kajaani
+ 
+20.08. 17:30	
+KTP
+KPV
+ 
+23.08. 17:30	
+Klubi 04
+HIFK
+ 
+24.08. 17:30	
+Oulu
+AC Kajaani
+ 
+25.08. 14:00	
+KPV
+JJK Jyvaskyla
+ 
+27.08. 17:30	
+HIFK
+Haka
+ 
+27.08. 17:30	
+Jaro
+Klubi 04
+ 
+27.08. 17:30	
+KTP
+Ekenas
+ 
+01.09. 15:00	
+Jaro
+KPV
+ 
+01.09. 16:00	
+AC Kajaani
+KTP
+ 
+01.09. 16:00	
+Klubi 04
+JJK Jyvaskyla
+ 
+01.09. 16:00	
+Oulu
+HIFK
+ 
+02.09. 17:30	
+Ekenas
+Haka
+ 
+06.09. 17:30	
+Haka
+Oulu
+ 
+09.09. 15:00	
+KPV
+AC Kajaani
+ 
+09.09. 16:00	
+JJK Jyvaskyla
+Ekenas
+ 
+10.09. 17:30	
+HIFK
+Jaro
+ 
+10.09. 17:30	
+KTP
+Klubi 04
+ 
+14.09. 17:30	
+Oulu
+KTP
+ 
+15.09. 15:00	
+KPV
+Ekenas
+ 
+15.09. 16:00	
+AC Kajaani
+Haka
+ 
+15.09. 16:00	
+Jaro
+JJK Jyvaskyla
+ 
+17.09. 17:30	
+HIFK
+Klubi 04
+ 
+20.09. 17:30	
+Haka
+KPV
+ 
+20.09. 17:30	
+JJK Jyvaskyla
+KTP
+ 
+22.09. 16:00	
+AC Kajaani
+Jaro
+ 
+22.09. 16:00	
+Klubi 04
+Oulu
+ 
+23.09. 17:30	
+Ekenas
+HIFK
+ 
+29.09. 16:00	
+JJK Jyvaskyla
+HIFK
+ 
+29.09. 16:00	
+Oulu
+KPV
+ 
+30.09. 16:00	
+Ekenas
+Jaro
+ 
+30.09. 16:00	
+Klubi 04
+AC Kajaani
+ 
+01.10. 17:30	
+KTP
+Haka
+ 
+06.10. 13:00	
+KPV
+Klubi 04
+ 
+06.10. 16:00	
+AC Kajaani
+Ekenas
+ 
+06.10. 16:00	
+Haka
+JJK Jyvaskyla
+ 
+06.10. 16:00	
+HIFK
+KTP
+ 
+06.10. 16:00	
+Jaro
+Oulu
+ 
+20.10. 13:00	
+Ekenas
+Oulu
+ 
+20.10. 13:00	
+Haka
+Klubi 04
+ 
+20.10. 13:00	
+HIFK
+KPV
+ 
+20.10. 13:00	
+JJK Jyvaskyla
+AC Kajaani
+ 
+20.10. 13:00	
+KTP
+Jaro
+ 
+27.10. 12:00	
+AC Kajaani
+HIFK
+ 
+27.10. 12:00	
+Jaro
+Haka
+ 
+27.10. 12:00	
+Klubi 04
+Ekenas
+ 
+27.10. 12:00	
+KPV
+KTP
+ 
+27.10. 12:00	
+Oulu
+JJK Jyvaskyla

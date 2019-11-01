@@ -1,0 +1,298 @@
+ BRAZIL: Serie B
+Round 8
+30.05. 02:30	
+Londrina
+Coritiba
+3 : 2	
+30.05. 00:15	
+Sao Bento
+Figueirense
+1 : 1	
+Round 7
+29.05. 01:00	
+Sampaio Correa 
+Ponte Preta
+1 : 0	
+27.05. 02:00	
+Guarani
+CRB 
+2 : 0	
+26.05. 21:30	
+Brasil de Pelotas
+Londrina 
+3 : 0	
+26.05. 21:30	
+Goias
+Boa
+1 : 2	
+26.05. 21:30	
+Sao Bento
+Juventude
+2 : 2	
+26.05. 02:30	
+Coritiba
+Vila Nova 
+2 : 0	
+26.05. 00:15	
+Atletico GO
+Oeste
+2 : 2	
+26.05. 00:15	
+Avai
+Paysandu
+3 : 1	
+23.05. 02:30	
+Fortaleza
+Criciuma
+2 : 0	
+23.05. 00:15	
+CSA
+Figueirense
+1 : 4	
+Round 6
+20.05. 02:00	
+Brasil de Pelotas
+Sampaio Correa
+1 : 2	
+20.05. 00:00	
+Boa
+Coritiba
+1 : 1	
+19.05. 21:30	
+Londrina
+CSA
+1 : 2	
+19.05. 21:30	
+Oeste
+Vila Nova
+2 : 0	
+19.05. 21:30	
+Paysandu 
+Sao Bento
+1 : 1	
+19.05. 21:30	
+Ponte Preta
+Atletico GO
+1 : 3	
+19.05. 02:30	
+Figueirense
+Fortaleza
+1 : 3	
+19.05. 00:15	
+Goias
+Guarani
+1 : 1	
+16.05. 02:30	
+Criciuma 
+Juventude 
+0 : 0	
+16.05. 00:15	
+CRB
+Avai
+0 : 4	
+Round 5
+13.05. 21:00	
+Vila Nova
+Ponte Preta
+0 : 0	
+13.05. 00:00	
+Fortaleza
+Goias
+3 : 0	
+12.05. 21:30	
+CSA
+Boa 
+1 : 0	
+12.05. 21:30	
+Figueirense
+Avai
+0 : 1	
+12.05. 21:30	
+Sao Bento 
+Oeste 
+1 : 0	
+12.05. 02:30	
+Atletico GO
+Londrina
+0 : 0	
+12.05. 00:15	
+Juventude
+Paysandu 
+1 : 1	
+09.05. 02:30	
+Coritiba
+Brasil de Pelotas
+1 : 0	
+09.05. 00:15	
+Guarani
+Criciuma
+1 : 0	
+08.05. 01:30	
+Sampaio Correa 
+CRB
+2 : 3	
+Round 4
+06.05. 00:00	
+Guarani
+Ponte Preta
+2 : 3	
+05.05. 21:30	
+Avai
+Sao Bento
+1 : 1	
+05.05. 21:30	
+Goias
+Vila Nova
+1 : 3	
+05.05. 02:30	
+Oeste
+Coritiba
+1 : 1	
+05.05. 01:30	
+CRB
+Atletico GO
+3 : 1	
+05.05. 00:15	
+Sampaio Correa
+Paysandu
+1 : 1
+Round 4
+01.05. 21:30	
+Brasil de Pelotas 
+Figueirense
+1 : 0	
+01.05. 21:30	
+Londrina
+Fortaleza
+1 : 1	
+01.05. 21:00	
+Boa
+Juventude
+1 : 2	
+01.05. 21:00	
+Criciuma 
+CSA
+1 : 3	
+Round 3
+29.04. 02:00	
+Sao Bento
+Goias
+1 : 1	
+29.04. 00:00	
+Ponte Preta
+Londrina
+0 : 1	
+28.04. 21:30	
+Juventude 
+Avai
+1 : 3	
+28.04. 21:30	
+Paysandu
+Brasil de Pelotas 
+2 : 1	
+28.04. 21:30	
+Vila Nova
+Sampaio Correa
+3 : 1	
+28.04. 02:30	
+Coritiba
+Criciuma
+2 : 1	
+28.04. 01:30	
+CSA
+Oeste
+5 : 1	
+28.04. 00:15	
+Figueirense
+Boa 
+2 : 0	
+25.04. 02:30	
+Fortaleza
+CRB 
+3 : 1	
+25.04. 00:15	
+Atletico GO
+Guarani
+3 : 2	
+Round 2
+22.04. 00:00	
+Criciuma
+Ponte Preta 
+0 : 1	
+21.04. 21:30	
+Avai
+Brasil de Pelotas
+2 : 2	
+21.04. 21:30	
+CRB
+Vila Nova
+0 : 1	
+21.04. 21:30	
+Goias
+Figueirense
+0 : 2	
+21.04. 21:30	
+Guarani
+Sampaio Correa 
+2 : 0	
+21.04. 02:30	
+Paysandu
+Londrina
+1 : 0	
+21.04. 01:30	
+Sao Bento
+CSA
+2 : 1	
+21.04. 00:15	
+Juventude
+Oeste 
+1 : 1	
+18.04. 02:30	
+Coritiba
+Atletico GO 
+1 : 0	
+18.04. 00:15	
+Boa
+Fortaleza
+0 : 2	
+Round 1
+15.04. 02:00	
+Ponte Preta
+Paysandu
+0 : 1	
+15.04. 00:00	
+Sampaio Correa
+Coritiba
+2 : 0	
+14.04. 21:30	
+Brasil de Pelotas
+Sao Bento
+1 : 1	
+14.04. 21:30	
+CSA
+Goias
+2 : 1	
+14.04. 21:30	
+Londrina
+Boa
+1 : 0	
+14.04. 21:30	
+Vila Nova
+Avai
+1 : 0	
+14.04. 02:30	
+Figueirense
+Juventude
+2 : 1	
+14.04. 01:30	
+Atletico GO
+Criciuma
+3 : 2	
+14.04. 01:30	
+Oeste
+CRB
+2 : 0	
+14.04. 00:15	
+Fortaleza
+Guarani
+2 : 1

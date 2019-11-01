@@ -1,0 +1,12 @@
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\TestingGround.exe.config
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\TestingGround.exe
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\TestingGround.pdb
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\obj\Debug\TestingGround.exe
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\obj\Debug\TestingGround.pdb
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\EntityFramework.dll
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\EntityFramework.xml
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\Dapper.dll
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\bin\Debug\Dapper.xml
+C:\Users\Lifa\Documents\Visual Studio 2013\Projects\SoccerApplicationForMen\TestingGround\obj\Debug\TestingGround.csprojResolveAssemblyReference.cache

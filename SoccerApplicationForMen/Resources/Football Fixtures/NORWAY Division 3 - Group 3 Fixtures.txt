@@ -1,0 +1,599 @@
+ NORWAY: Division 3 - Group 3
+Round 6
+21.05. 16:00	
+Vindbjart
+Sola
+21.05. 18:00	
+Assiden
+Halsen
+21.05. 19:00	
+Tonsberg
+Orn
+ 
+22.05. 19:00	
+Donn
+Sandefjord 2
+ 
+22.05. 19:00	
+Staal Jorpeland
+Egersunds 2
+ 
+Round 7
+26.05. 13:00	
+Madla IL
+Assiden
+ 
+26.05. 13:00	
+Sola
+Pors Grenland
+ 
+26.05. 14:00	
+Uradd
+Tonsberg
+ 
+26.05. 16:00	
+Halsen
+Vindbjart
+ 
+26.05. 16:00	
+Orn
+Donn
+ 
+28.05. 18:00	
+Staal Jorpeland
+Start 2
+ 
+28.05. 19:00	
+Egersunds 2
+Sandefjord 2
+ 
+Round 8
+02.06. 13:00	
+Assiden
+Staal Jorpeland
+ 
+02.06. 15:00	
+Vindbjart
+Madla IL
+ 
+02.06. 16:00	
+Pors Grenland
+Halsen
+ 
+02.06. 16:00	
+Sandefjord 2
+Orn
+ 
+03.06. 16:00	
+Tonsberg
+Sola
+ 
+04.06. 18:00	
+Start 2
+Egersunds 2
+ 
+04.06. 19:00	
+Donn
+Uradd
+ 
+Round 9
+09.06. 13:00	
+Madla IL
+Pors Grenland
+ 
+09.06. 15:00	
+Staal Jorpeland
+Vindbjart
+ 
+09.06. 16:00	
+Halsen
+Tonsberg
+ 
+09.06. 16:00	
+Sola
+Donn
+ 
+09.06. 16:00	
+Start 2
+Assiden
+ 
+09.06. 17:00	
+Egersunds 2
+Orn
+ 
+11.06. 19:00	
+Uradd
+Sandefjord 2
+ 
+Round 10
+16.06. 13:00	
+Pors Grenland
+Staal Jorpeland
+ 
+16.06. 16:00	
+Assiden
+Egersunds 2
+ 
+16.06. 16:00	
+Donn
+Halsen
+ 
+16.06. 16:00	
+Orn
+Uradd
+ 
+16.06. 16:00	
+Vindbjart
+Start 2
+ 
+17.06. 14:00	
+Tonsberg
+Madla IL
+ 
+17.06. 16:00	
+Sandefjord 2
+Sola
+ 
+Round 11
+22.06. 18:30	
+Assiden
+Vindbjart
+ 
+23.06. 13:00	
+Staal Jorpeland
+Tonsberg
+ 
+23.06. 14:00	
+Sola
+Orn
+ 
+23.06. 16:00	
+Madla IL
+Donn
+ 
+23.06. 16:00	
+Start 2
+Pors Grenland
+ 
+24.06. 16:00	
+Egersunds 2
+Uradd
+ 
+25.06. 19:00	
+Halsen
+Sandefjord 2
+ 
+Round 12
+30.06. 15:00	
+Donn
+Staal Jorpeland
+ 
+30.06. 15:00	
+Egersunds 2
+Vindbjart
+ 
+30.06. 16:00	
+Orn
+Halsen
+ 
+30.06. 16:00	
+Pors Grenland
+Assiden
+ 
+30.06. 16:00	
+Sandefjord 2
+Madla IL
+ 
+01.07. 16:00	
+Uradd
+Sola
+ 
+02.07. 18:30	
+Tonsberg
+Start 2
+ 
+Round 13
+05.07. 19:00	
+Sola
+Egersunds 2
+ 
+07.07. 16:00	
+Assiden
+Tonsberg
+ 
+07.07. 16:00	
+Halsen
+Uradd
+ 
+07.07. 16:00	
+Madla IL
+Orn
+ 
+07.07. 16:00	
+Staal Jorpeland
+Sandefjord 2
+ 
+07.07. 16:00	
+Vindbjart
+Pors Grenland
+ 
+10.07. 19:00	
+Start 2
+Donn
+ 
+Round 14
+12.07. 19:00	
+Pors Grenland
+Egersunds 2
+ 
+14.07. 15:00	
+Start 2
+Sandefjord 2
+ 
+14.07. 16:00	
+Assiden
+Donn
+ 
+14.07. 16:00	
+Halsen
+Sola
+ 
+14.07. 16:00	
+Madla IL
+Uradd
+ 
+14.07. 16:00	
+Staal Jorpeland
+Orn
+ 
+14.07. 16:00	
+Vindbjart
+Tonsberg
+ 
+Round 15
+11.08. 13:00	
+Egersunds 2
+Halsen
+ 
+11.08. 16:00	
+Tonsberg
+Pors Grenland
+ 
+12.08. 12:00	
+Uradd
+Staal Jorpeland
+ 
+13.08. 18:00	
+Donn
+Vindbjart
+ 
+13.08. 18:00	
+Orn
+Start 2
+ 
+13.08. 19:30	
+Sandefjord 2
+Assiden
+ 
+15.08. 19:00	
+Sola
+Madla IL
+ 
+Round 16
+18.08. 13:00	
+Madla IL
+Halsen
+ 
+18.08. 14:00	
+Staal Jorpeland
+Sola
+ 
+18.08. 16:00	
+Assiden
+Orn
+ 
+19.08. 14:00	
+Tonsberg
+Egersunds 2
+ 
+20.08. 18:00	
+Pors Grenland
+Donn
+ 
+20.08. 18:00	
+Vindbjart
+Sandefjord 2
+ 
+20.08. 19:00	
+Start 2
+Uradd
+ 
+Round 17
+25.08. 13:00	
+Halsen
+Staal Jorpeland
+ 
+25.08. 14:00	
+Donn
+Tonsberg
+ 
+25.08. 16:00	
+Orn
+Vindbjart
+ 
+26.08. 16:00	
+Uradd
+Assiden
+ 
+27.08. 19:00	
+Egersunds 2
+Madla IL
+ 
+27.08. 19:00	
+Sandefjord 2
+Pors Grenland
+ 
+27.08. 19:00	
+Sola
+Start 2
+ 
+Round 18
+30.08. 18:00	
+Staal Jorpeland
+Madla IL
+ 
+01.09. 16:00	
+Pors Grenland
+Orn
+ 
+01.09. 16:00	
+Start 2
+Halsen
+ 
+01.09. 16:00	
+Vindbjart
+Uradd
+ 
+02.09. 14:00	
+Assiden
+Sola
+ 
+03.09. 19:00	
+Donn
+Egersunds 2
+ 
+03.09. 19:00	
+Tonsberg
+Sandefjord 2
+ 
+Round 19
+08.09. 14:00	
+Madla IL
+Start 2
+ 
+08.09. 14:00	
+Orn
+Tonsberg
+ 
+08.09. 15:00	
+Sola
+Vindbjart
+ 
+08.09. 16:00	
+Halsen
+Assiden
+ 
+10.09. 18:00	
+Uradd
+Pors Grenland
+ 
+10.09. 19:00	
+Egersunds 2
+Staal Jorpeland
+ 
+10.09. 19:00	
+Sandefjord 2
+Donn
+ 
+Round 20
+15.09. 15:00	
+Start 2
+Staal Jorpeland
+ 
+15.09. 16:00	
+Donn
+Orn
+ 
+15.09. 16:00	
+Sandefjord 2
+Egersunds 2
+ 
+15.09. 16:00	
+Tonsberg
+Uradd
+ 
+15.09. 16:00	
+Vindbjart
+Halsen
+ 
+16.09. 14:00	
+Assiden
+Madla IL
+ 
+16.09. 16:00	
+Pors Grenland
+Sola
+ 
+Round 21
+22.09. 13:00	
+Staal Jorpeland
+Assiden
+ 
+22.09. 14:00	
+Sola
+Tonsberg
+ 
+22.09. 15:00	
+Madla IL
+Vindbjart
+ 
+22.09. 16:00	
+Halsen
+Pors Grenland
+ 
+24.09. 19:00	
+Egersunds 2
+Start 2
+ 
+24.09. 19:00	
+Orn
+Sandefjord 2
+ 
+24.09. 19:00	
+Uradd
+Donn
+ 
+Round 22
+29.09. 13:00	
+Pors Grenland
+Madla IL
+ 
+29.09. 14:00	
+Tonsberg
+Halsen
+ 
+29.09. 15:00	
+Assiden
+Start 2
+ 
+29.09. 15:00	
+Vindbjart
+Staal Jorpeland
+ 
+29.09. 16:00	
+Donn
+Sola
+ 
+30.09. 15:00	
+Orn
+Egersunds 2
+ 
+01.10. 19:00	
+Sandefjord 2
+Uradd
+ 
+Round 23
+06.10. 13:00	
+Egersunds 2
+Assiden
+ 
+06.10. 13:00	
+Staal Jorpeland
+Pors Grenland
+ 
+06.10. 14:00	
+Madla IL
+Tonsberg
+ 
+06.10. 16:00	
+Halsen
+Donn
+ 
+06.10. 16:00	
+Uradd
+Orn
+ 
+08.10. 19:00	
+Sola
+Sandefjord 2
+ 
+08.10. 19:00	
+Start 2
+Vindbjart
+ 
+Round 24
+13.10. 13:00	
+Tonsberg
+Staal Jorpeland
+ 
+13.10. 14:00	
+Orn
+Sola
+ 
+13.10. 15:00	
+Donn
+Madla IL
+ 
+13.10. 15:00	
+Pors Grenland
+Start 2
+ 
+13.10. 16:00	
+Uradd
+Egersunds 2
+ 
+13.10. 16:00	
+Vindbjart
+Assiden
+ 
+15.10. 19:00	
+Sandefjord 2
+Halsen
+ 
+Round 25
+20.10. 13:00	
+Assiden
+Pors Grenland
+ 
+20.10. 13:00	
+Halsen
+Orn
+ 
+20.10. 13:00	
+Madla IL
+Sandefjord 2
+ 
+20.10. 13:00	
+Sola
+Uradd
+ 
+20.10. 13:00	
+Staal Jorpeland
+Donn
+ 
+20.10. 13:00	
+Start 2
+Tonsberg
+ 
+20.10. 13:00	
+Vindbjart
+Egersunds 2
+ 
+Round 26
+27.10. 12:00	
+Donn
+Start 2
+ 
+27.10. 12:00	
+Egersunds 2
+Sola
+ 
+27.10. 12:00	
+Orn
+Madla IL
+ 
+27.10. 12:00	
+Pors Grenland
+Vindbjart
+ 
+27.10. 12:00	
+Sandefjord 2
+Staal Jorpeland
+ 
+27.10. 12:00	
+Tonsberg
+Assiden
+ 
+27.10. 12:00	
+Uradd
+Halsen

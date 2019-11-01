@@ -1,0 +1,218 @@
+ BRAZIL: Serie D
+Round 5
+20.05. 20:00	
+Jacuipense
+ASA
+20.05. 20:30	
+Cordino EC
+Interporto
+20.05. 20:30	
+Ipora
+Brasiliense
+20.05. 21:00	
+Campinense
+Murici AL
+20.05. 21:00	
+Flamengo Arcoverde
+Fluminense de Feira
+20.05. 21:00	
+Itumbiara
+URT
+20.05. 21:00	
+Julho Esporte
+Ferroviario
+20.05. 21:00	
+Maringa FC
+Linense
+20.05. 21:00	
+Mirassol
+SER Caxias
+20.05. 21:00	
+Prudentopolis
+Brusque
+20.05. 21:00	
+Santa Rita
+Treze
+ 
+20.05. 21:00	
+SD Sparta
+Moto Club
+ 
+20.05. 21:00	
+Uberlandia
+Novorizontino
+20.05. 22:00	
+Assu RN
+AE Altos
+ 
+20.05. 22:00	
+Dom Bosco
+Corumbaense
+20.05. 22:00	
+Novoperario
+Sinop
+20.05. 22:00	
+SAO Raimundo PA
+Sao Raimundo RR
+ 
+20.05. 22:30	
+Placido de Castro
+Independente
+20.05. 23:00	
+Barcelona RO
+Santos AP
+ 
+21.05. 00:00	
+Inter de Lages
+Nova Iguacu
+21.05. 00:30	
+Tubarao
+Novo Hamburgo
+22.05. 01:00	
+Macapa
+Manaus
+ 
+22.05. 01:00	
+Vitoria da Conquista
+Itabaiana
+ 
+22.05. 02:15	
+Guarani de Juazeiro
+America-RN
+ 
+Round 6
+27.05. 23:00	
+AE Altos
+SD Sparta
+ 
+27.05. 23:00	
+America-RN
+Imperatriz
+ 
+27.05. 23:00	
+Aparecidense
+Novoperario
+ 
+27.05. 23:00	
+ASA
+Sergipe
+ 
+27.05. 23:00	
+Belo Jardim
+Guarani de Juazeiro
+ 
+27.05. 23:00	
+Brasiliense
+Dom Bosco
+ 
+27.05. 23:00	
+Brusque
+EC Sao Jose
+ 
+27.05. 23:00	
+CA Itapemirim
+Uberlandia
+ 
+27.05. 23:00	
+Caldense
+Maringa FC
+ 
+27.05. 23:00	
+Central SC
+Jacuipense
+ 
+27.05. 23:00	
+Cianorte
+Tubarao
+ 
+27.05. 23:00	
+Corumbaense
+Ipora
+ 
+27.05. 23:00	
+Ferroviario
+Cordino EC
+ 
+27.05. 23:00	
+Fluminense de Feira
+Campinense
+ 
+27.05. 23:00	
+Independente
+Barcelona RO
+ 
+27.05. 23:00	
+Interporto
+Julho Esporte
+ 
+27.05. 23:00	
+Itabaiana
+Santa Rita
+ 
+27.05. 23:00	
+Linense
+Madureira
+ 
+27.05. 23:00	
+Macae
+Itumbiara
+ 
+27.05. 23:00	
+Manaus
+Bare
+ 
+27.05. 23:00	
+Mogi Mirim
+Prudentopolis
+ 
+27.05. 23:00	
+Moto Club
+Assu RN
+ 
+27.05. 23:00	
+Murici AL
+Flamengo Arcoverde
+ 
+27.05. 23:00	
+Nova Iguacu
+Mirassol
+ 
+27.05. 23:00	
+Novo Hamburgo
+Ferroviaria
+ 
+27.05. 23:00	
+Novorizontino
+Americano FC
+ 
+27.05. 23:00	
+RD Ariquemes
+SAO Raimundo PA
+ 
+27.05. 23:00	
+Rio Branco
+Macapa
+ 
+27.05. 23:00	
+Santos AP
+Placido de Castro
+ 
+27.05. 23:00	
+Sao Raimundo RR
+Nacional-AM
+ 
+27.05. 23:00	
+SER Caxias
+Inter de Lages
+ 
+27.05. 23:00	
+Sinop
+Ceilandia
+ 
+27.05. 23:00	
+Treze
+Vitoria da Conquista
+ 
+27.05. 23:00	
+URT
+Espirito Santo

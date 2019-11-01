@@ -1,0 +1,815 @@
+ JAPAN: J-League
+Round 13
+05.05. 07:00	
+Kashiwa
+Iwata
+ 
+05.05. 07:00	
+Kawasaki
+Tokyo
+ 
+05.05. 07:00	
+Sapporo
+G-Osaka
+ 
+05.05. 08:00	
+C-Osaka
+V-Varen Nagasaki
+ 
+05.05. 10:00	
+Kashima
+Urawa
+ 
+05.05. 12:00	
+Nagoya
+Yokohama M.
+ 
+06.05. 08:00	
+Sagan Tosu
+Shimizu
+ 
+06.05. 09:00	
+Shonan
+Vegalta Sendai
+ 
+06.05. 10:00	
+Hiroshima
+Kobe
+ 
+Round 14
+12.05. 07:00	
+Iwata
+Kobe
+ 
+12.05. 07:00	
+Shimizu
+Shonan
+ 
+12.05. 07:00	
+V-Varen Nagasaki
+Nagoya
+ 
+12.05. 08:00	
+Kashiwa
+Kawasaki
+ 
+12.05. 09:00	
+Vegalta Sendai
+Hiroshima
+ 
+12.05. 12:00	
+Yokohama M.
+G-Osaka
+ 
+13.05. 07:00	
+Urawa
+Sagan Tosu
+ 
+13.05. 09:00	
+Tokyo
+Sapporo
+ 
+Round 15
+19.05. 07:00	
+G-Osaka
+Urawa
+ 
+19.05. 07:00	
+Yokohama M.
+V-Varen Nagasaki
+ 
+19.05. 12:00	
+Shonan
+Iwata
+ 
+20.05. 07:00	
+Kashima
+Vegalta Sendai
+ 
+20.05. 07:00	
+Nagoya
+Kashiwa
+ 
+20.05. 08:00	
+Kawasaki
+Shimizu
+ 
+20.05. 08:00	
+Sagan Tosu
+Tokyo
+ 
+20.05. 09:00	
+Hiroshima
+C-Osaka
+ 
+20.05. 10:00	
+Kobe
+Sapporo
+ 
+Round 16
+18.07. 12:00	
+Hiroshima
+G-Osaka
+ 
+18.07. 12:00	
+Iwata
+Kashima
+ 
+18.07. 12:00	
+Kashiwa
+Tokyo
+ 
+18.07. 12:00	
+Sapporo
+Kawasaki
+ 
+18.07. 12:00	
+Shimizu
+C-Osaka
+ 
+18.07. 12:00	
+Shonan
+Sagan Tosu
+ 
+18.07. 12:00	
+V-Varen Nagasaki
+Kobe
+ 
+18.07. 12:00	
+Vegalta Sendai
+Yokohama M.
+ 
+18.07. 12:30	
+Urawa
+Nagoya
+ 
+Round 17
+22.07. 11:00	
+Kobe
+Shonan
+ 
+22.07. 11:00	
+Nagoya
+Hiroshima
+ 
+22.07. 11:30	
+Kashima
+Kashiwa
+ 
+22.07. 12:00	
+C-Osaka
+Urawa
+ 
+22.07. 12:00	
+G-Osaka
+Shimizu
+ 
+22.07. 12:00	
+Kawasaki
+V-Varen Nagasaki
+ 
+22.07. 12:00	
+Sagan Tosu
+Vegalta Sendai
+ 
+22.07. 12:00	
+Sapporo
+Iwata
+ 
+22.07. 12:00	
+Tokyo
+Yokohama M.
+ 
+Round 14
+25.07. 12:00	
+C-Osaka
+Kashima
+ 
+Round 18
+27.07. 12:00	
+Tokyo
+V-Varen Nagasaki
+ 
+28.07. 11:00	
+Nagoya
+Sapporo
+ 
+28.07. 11:00	
+Yokohama M.
+Shimizu
+ 
+28.07. 12:00	
+G-Osaka
+Kashima
+ 
+28.07. 12:00	
+Hiroshima
+Urawa
+ 
+28.07. 12:00	
+Kobe
+Kashiwa
+ 
+28.07. 12:00	
+Sagan Tosu
+Iwata
+ 
+28.07. 12:00	
+Shonan
+Kawasaki
+ 
+28.07. 12:00	
+Vegalta Sendai
+C-Osaka
+ 
+Round 19
+01.08. 12:00	
+C-Osaka
+Kobe
+ 
+01.08. 12:00	
+Iwata
+G-Osaka
+ 
+01.08. 12:00	
+Kashima
+Tokyo
+ 
+01.08. 12:00	
+Shimizu
+Sagan Tosu
+ 
+01.08. 12:00	
+Urawa
+Kawasaki
+ 
+01.08. 12:00	
+V-Varen Nagasaki
+Sapporo
+ 
+01.08. 12:00	
+Vegalta Sendai
+Nagoya
+ 
+01.08. 12:30	
+Kashiwa
+Shonan
+ 
+01.08. 12:30	
+Yokohama M.
+Hiroshima
+ 
+Round 20
+05.08. 07:00	
+Sapporo
+Kashiwa
+ 
+05.08. 11:00	
+Nagoya
+G-Osaka
+ 
+05.08. 11:30	
+Kashima
+Shimizu
+ 
+05.08. 12:00	
+Hiroshima
+Shonan
+ 
+05.08. 12:00	
+Iwata
+Vegalta Sendai
+ 
+05.08. 12:00	
+Kawasaki
+Yokohama M.
+ 
+05.08. 12:00	
+Sagan Tosu
+C-Osaka
+ 
+05.08. 12:00	
+Tokyo
+Kobe
+ 
+05.08. 12:00	
+Urawa
+V-Varen Nagasaki
+ 
+Round 21
+10.08. 12:00	
+G-Osaka
+Tokyo
+ 
+11.08. 06:00	
+Sapporo
+C-Osaka
+ 
+11.08. 11:00	
+Nagoya
+Kashima
+ 
+11.08. 11:00	
+Shimizu
+Kawasaki
+ 
+11.08. 12:00	
+Hiroshima
+V-Varen Nagasaki
+ 
+11.08. 12:00	
+Kashiwa
+Vegalta Sendai
+ 
+11.08. 12:00	
+Kobe
+Iwata
+ 
+11.08. 12:00	
+Sagan Tosu
+Urawa
+ 
+11.08. 12:00	
+Shonan
+Yokohama M.
+ 
+Round 22
+15.08. 12:00	
+C-Osaka
+Shimizu
+ 
+15.08. 12:00	
+G-Osaka
+Sapporo
+ 
+15.08. 12:00	
+Kawasaki
+Sagan Tosu
+ 
+15.08. 12:00	
+Kobe
+Hiroshima
+ 
+15.08. 12:00	
+Tokyo
+Kashiwa
+ 
+15.08. 12:00	
+Urawa
+Iwata
+ 
+15.08. 12:00	
+V-Varen Nagasaki
+Kashima
+ 
+15.08. 12:00	
+Vegalta Sendai
+Shonan
+ 
+15.08. 12:30	
+Yokohama M.
+Nagoya
+ 
+Round 23
+19.08. 06:00	
+Sapporo
+Tokyo
+ 
+19.08. 11:00	
+Nagoya
+Sagan Tosu
+ 
+19.08. 11:00	
+Shimizu
+Urawa
+ 
+19.08. 11:00	
+V-Varen Nagasaki
+C-Osaka
+ 
+19.08. 11:30	
+Kashima
+Yokohama M.
+ 
+19.08. 12:00	
+Hiroshima
+Kawasaki
+ 
+19.08. 12:00	
+Iwata
+Kashiwa
+ 
+19.08. 12:00	
+Shonan
+Kobe
+ 
+19.08. 12:00	
+Vegalta Sendai
+G-Osaka
+ 
+Round 24
+25.08. 11:30	
+Kashima
+Iwata
+ 
+25.08. 12:00	
+C-Osaka
+Hiroshima
+ 
+25.08. 12:00	
+Kashiwa
+V-Varen Nagasaki
+ 
+25.08. 12:00	
+Kawasaki
+Vegalta Sendai
+ 
+25.08. 12:00	
+Shimizu
+Sapporo
+ 
+26.08. 11:00	
+Kobe
+Yokohama M.
+ 
+26.08. 11:00	
+Nagoya
+Urawa
+ 
+26.08. 12:00	
+Sagan Tosu
+G-Osaka
+ 
+26.08. 12:00	
+Shonan
+Tokyo
+ 
+Round 25
+31.08. 08:00	
+V-Varen Nagasaki
+Shonan
+ 
+01.09. 07:00	
+G-Osaka
+Kawasaki
+ 
+01.09. 07:00	
+Hiroshima
+Kashima
+ 
+01.09. 07:00	
+Iwata
+Nagoya
+ 
+01.09. 07:00	
+Sapporo
+Kobe
+ 
+01.09. 07:00	
+Tokyo
+Sagan Tosu
+ 
+01.09. 07:00	
+Urawa
+C-Osaka
+ 
+01.09. 07:00	
+Vegalta Sendai
+Shimizu
+ 
+01.09. 07:00	
+Yokohama M.
+Kashiwa
+ 
+Round 26
+14.09. 08:00	
+C-Osaka
+Iwata
+ 
+15.09. 07:00	
+Kashima
+Shonan
+ 
+15.09. 07:00	
+Kashiwa
+Shimizu
+ 
+15.09. 07:00	
+Kawasaki
+Sapporo
+ 
+15.09. 07:00	
+Kobe
+G-Osaka
+ 
+15.09. 07:00	
+Nagoya
+V-Varen Nagasaki
+ 
+15.09. 07:00	
+Sagan Tosu
+Hiroshima
+ 
+15.09. 07:00	
+Vegalta Sendai
+Tokyo
+ 
+15.09. 07:00	
+Yokohama M.
+Urawa
+ 
+Round 27
+21.09. 08:00	
+Shimizu
+G-Osaka
+ 
+22.09. 07:00	
+Hiroshima
+Tokyo
+ 
+22.09. 07:00	
+Iwata
+Yokohama M.
+ 
+22.09. 07:00	
+Kashiwa
+Sagan Tosu
+ 
+22.09. 07:00	
+Kawasaki
+Nagoya
+ 
+22.09. 07:00	
+Sapporo
+Kashima
+ 
+22.09. 07:00	
+Shonan
+C-Osaka
+ 
+22.09. 07:00	
+Urawa
+Kobe
+ 
+22.09. 07:00	
+V-Varen Nagasaki
+Vegalta Sendai
+ 
+Round 28
+29.09. 07:00	
+C-Osaka
+Nagoya
+ 
+29.09. 07:00	
+G-Osaka
+Hiroshima
+ 
+29.09. 07:00	
+Iwata
+Shonan
+ 
+29.09. 07:00	
+Kobe
+Kashima
+ 
+29.09. 07:00	
+Sapporo
+Sagan Tosu
+ 
+29.09. 07:00	
+Tokyo
+Shimizu
+ 
+29.09. 07:00	
+Urawa
+Kashiwa
+ 
+29.09. 07:00	
+V-Varen Nagasaki
+Kawasaki
+ 
+29.09. 07:00	
+Yokohama M.
+Vegalta Sendai
+ 
+Round 29
+05.10. 08:00	
+Yokohama M.
+Sapporo
+ 
+06.10. 07:00	
+C-Osaka
+G-Osaka
+ 
+06.10. 07:00	
+Hiroshima
+Kashiwa
+ 
+06.10. 07:00	
+Kashima
+Kawasaki
+ 
+06.10. 07:00	
+Kobe
+V-Varen Nagasaki
+ 
+06.10. 07:00	
+Nagoya
+Tokyo
+ 
+06.10. 07:00	
+Sagan Tosu
+Shonan
+ 
+06.10. 07:00	
+Shimizu
+Iwata
+ 
+06.10. 07:00	
+Vegalta Sendai
+Urawa
+ 
+Round 30
+19.10. 08:00	
+Kashiwa
+Nagoya
+ 
+20.10. 07:00	
+G-Osaka
+Yokohama M.
+ 
+20.10. 07:00	
+Kawasaki
+Kobe
+ 
+20.10. 07:00	
+Shimizu
+Hiroshima
+ 
+20.10. 07:00	
+Shonan
+Sapporo
+ 
+20.10. 07:00	
+Tokyo
+C-Osaka
+ 
+20.10. 07:00	
+Urawa
+Kashima
+ 
+20.10. 07:00	
+V-Varen Nagasaki
+Iwata
+ 
+20.10. 07:00	
+Vegalta Sendai
+Sagan Tosu
+ 
+Round 31
+02.11. 09:00	
+Shonan
+Shimizu
+ 
+03.11. 08:00	
+Iwata
+Hiroshima
+ 
+03.11. 08:00	
+Kashima
+C-Osaka
+ 
+03.11. 08:00	
+Kawasaki
+Kashiwa
+ 
+03.11. 08:00	
+Nagoya
+Kobe
+ 
+03.11. 08:00	
+Sagan Tosu
+V-Varen Nagasaki
+ 
+03.11. 08:00	
+Sapporo
+Vegalta Sendai
+ 
+03.11. 08:00	
+Urawa
+G-Osaka
+ 
+03.11. 08:00	
+Yokohama M.
+Tokyo
+ 
+Round 32
+10.11. 09:00	
+C-Osaka
+Kawasaki
+ 
+10.11. 09:00	
+G-Osaka
+Shonan
+ 
+10.11. 09:00	
+Hiroshima
+Vegalta Sendai
+ 
+10.11. 09:00	
+Kashiwa
+Kashima
+ 
+10.11. 09:00	
+Kobe
+Sagan Tosu
+ 
+10.11. 09:00	
+Sapporo
+Urawa
+ 
+10.11. 09:00	
+Shimizu
+Nagoya
+ 
+10.11. 09:00	
+Tokyo
+Iwata
+ 
+10.11. 09:00	
+V-Varen Nagasaki
+Yokohama M.
+ 
+Round 33
+24.11. 09:00	
+C-Osaka
+Kashiwa
+ 
+24.11. 09:00	
+G-Osaka
+V-Varen Nagasaki
+ 
+24.11. 09:00	
+Hiroshima
+Nagoya
+ 
+24.11. 09:00	
+Iwata
+Sapporo
+ 
+24.11. 09:00	
+Sagan Tosu
+Yokohama M.
+ 
+24.11. 09:00	
+Shimizu
+Kobe
+ 
+24.11. 09:00	
+Shonan
+Urawa
+ 
+24.11. 09:00	
+Tokyo
+Kawasaki
+ 
+24.11. 09:00	
+Vegalta Sendai
+Kashima
+ 
+Round 34
+01.12. 09:00	
+Kashima
+Sagan Tosu
+ 
+01.12. 09:00	
+Kashiwa
+G-Osaka
+ 
+01.12. 09:00	
+Kawasaki
+Iwata
+ 
+01.12. 09:00	
+Kobe
+Vegalta Sendai
+ 
+01.12. 09:00	
+Nagoya
+Shonan
+ 
+01.12. 09:00	
+Sapporo
+Hiroshima
+ 
+01.12. 09:00	
+Urawa
+Tokyo
+ 
+01.12. 09:00	
+V-Varen Nagasaki
+Shimizu
+ 
+01.12. 09:00	
+Yokohama M.
+C-Osaka

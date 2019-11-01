@@ -1,0 +1,202 @@
+ ROMANIA: Liga 2
+Round 33
+05.05. 10:00	
+Balotesti
+Braila
+ 
+05.05. 10:00	
+Pandurii
+Miroslava
+ 
+05.05. 10:00	
+UTA Arad
+Foresta Suceava
+ 
+05.05. 11:00	
+Calarasi
+Ripensia Timisoara
+ 
+05.05. 12:00	
+AFC Hermannstadt
+Arges Pitesti
+ 
+05.05. 16:00	
+Politehnica Timisoara
+Sportul Snagov
+ 
+06.05. 10:00	
+Academica Clinceni
+Metaloglobus
+ 
+08.05. 18:30	
+Mioveni
+Chindia Targoviste
+ 
+Round 34
+12.05. 10:00	
+Arges Pitesti
+Balotesti
+ 
+12.05. 10:00	
+Braila
+Afumati
+ 
+12.05. 10:00	
+Chindia Targoviste
+AFC Hermannstadt
+ 
+12.05. 10:00	
+Foresta Suceava
+Pandurii
+ 
+12.05. 10:00	
+Luceafarul Oradea
+UTA Arad
+ 
+12.05. 10:00	
+Metaloglobus
+Mioveni
+ 
+12.05. 10:00	
+Miroslava
+Politehnica Timisoara
+ 
+12.05. 10:00	
+Sportul Snagov
+Academica Clinceni
+ 
+Round 35
+16.05. 10:00	
+Miroslava
+Sportul Snagov
+ 
+16.05. 17:00	
+AFC Hermannstadt
+Metaloglobus
+ 
+16.05. 17:00	
+Afumati
+Arges Pitesti
+ 
+16.05. 17:00	
+Balotesti
+Chindia Targoviste
+ 
+16.05. 17:00	
+Calarasi
+Braila
+ 
+16.05. 17:00	
+Mioveni
+Academica Clinceni
+ 
+16.05. 17:00	
+Pandurii
+Luceafarul Oradea
+ 
+16.05. 17:00	
+Politehnica Timisoara
+Foresta Suceava
+ 
+16.05. 17:00	
+UTA Arad
+Ripensia Timisoara
+ 
+Round 36
+19.05. 10:00	
+Academica Clinceni
+AFC Hermannstadt
+ 
+19.05. 10:00	
+Arges Pitesti
+Calarasi
+ 
+19.05. 10:00	
+Chindia Targoviste
+Afumati
+ 
+19.05. 10:00	
+Foresta Suceava
+Miroslava
+ 
+19.05. 10:00	
+Luceafarul Oradea
+Politehnica Timisoara
+ 
+19.05. 10:00	
+Metaloglobus
+Balotesti
+ 
+19.05. 10:00	
+Ripensia Timisoara
+Pandurii
+ 
+19.05. 10:00	
+Sportul Snagov
+Mioveni
+ 
+Round 37
+26.05. 10:00	
+AFC Hermannstadt
+Mioveni
+ 
+26.05. 10:00	
+Afumati
+Metaloglobus
+ 
+26.05. 10:00	
+Balotesti
+Academica Clinceni
+ 
+26.05. 10:00	
+Calarasi
+Chindia Targoviste
+ 
+26.05. 10:00	
+Foresta Suceava
+Sportul Snagov
+ 
+26.05. 10:00	
+Miroslava
+Luceafarul Oradea
+ 
+26.05. 10:00	
+Politehnica Timisoara
+Ripensia Timisoara
+ 
+26.05. 10:00	
+UTA Arad
+Braila
+ 
+Round 38
+02.06. 17:00	
+Academica Clinceni
+Afumati
+ 
+02.06. 17:00	
+Arges Pitesti
+UTA Arad
+ 
+02.06. 17:00	
+Braila
+Pandurii
+ 
+02.06. 17:00	
+Luceafarul Oradea
+Foresta Suceava
+ 
+02.06. 17:00	
+Metaloglobus
+Calarasi
+ 
+02.06. 17:00	
+Mioveni
+Balotesti
+ 
+02.06. 17:00	
+Ripensia Timisoara
+Miroslava
+ 
+02.06. 17:00	
+Sportul Snagov
+AFC Hermannstadt

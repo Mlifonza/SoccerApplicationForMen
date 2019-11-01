@@ -1,0 +1,667 @@
+ NORWAY: Division 2 - Group 1
+Round 4
+05.05. 16:00	
+Grorud
+Raufoss
+ 
+05.05. 16:00	
+Nybergsund
+Baerum Sportsklubb
+ 
+06.05. 14:00	
+Alta
+Fram
+ 
+06.05. 14:00	
+Fredrikstad
+Mjolner
+ 
+06.05. 18:00	
+Moss
+Honefoss
+ 
+07.05. 18:00	
+Asker
+Odds 2
+ 
+07.05. 18:30	
+Stabaek 2
+Elverum
+ 
+Round 5
+12.05. 16:00	
+Elverum
+Grorud
+ 
+12.05. 16:00	
+Fram
+Asker
+ 
+13.05. 14:00	
+Raufoss
+Alta
+ 
+13.05. 16:00	
+Baerum Sportsklubb
+Mjolner
+ 
+14.05. 18:00	
+Nybergsund
+Stabaek 2
+ 
+14.05. 19:00	
+Odds 2
+Moss
+ 
+16.05. 18:00	
+Honefoss
+Fredrikstad
+ 
+Round 6
+19.05. 16:00	
+Asker
+Raufoss
+ 
+19.05. 16:00	
+Grorud
+Nybergsund
+ 
+19.05. 16:00	
+Moss
+Fram
+ 
+20.05. 16:00	
+Mjolner
+Honefoss
+ 
+21.05. 14:00	
+Alta
+Elverum
+ 
+22.05. 19:00	
+Fredrikstad
+Odds 2
+ 
+22.05. 19:00	
+Stabaek 2
+Baerum Sportsklubb
+ 
+Round 7
+26.05. 16:00	
+Baerum Sportsklubb
+Honefoss
+ 
+26.05. 16:00	
+Elverum
+Asker
+ 
+26.05. 16:00	
+Fram
+Fredrikstad
+ 
+26.05. 16:00	
+Raufoss
+Moss
+ 
+27.05. 14:00	
+Nybergsund
+Alta
+ 
+28.05. 13:00	
+Odds 2
+Mjolner
+ 
+29.05. 19:00	
+Stabaek 2
+Grorud
+ 
+Round 8
+02.06. 16:00	
+Asker
+Nybergsund
+ 
+02.06. 16:00	
+Moss
+Elverum
+ 
+03.06. 14:00	
+Alta
+Stabaek 2
+ 
+03.06. 14:00	
+Mjolner
+Fram
+ 
+03.06. 18:00	
+Fredrikstad
+Raufoss
+ 
+03.06. 18:00	
+Grorud
+Baerum Sportsklubb
+ 
+03.06. 18:00	
+Honefoss
+Odds 2
+ 
+Round 9
+09.06. 16:00	
+Elverum
+Fredrikstad
+ 
+09.06. 16:00	
+Fram
+Honefoss
+ 
+09.06. 16:00	
+Nybergsund
+Moss
+ 
+09.06. 18:00	
+Grorud
+Alta
+ 
+10.06. 16:00	
+Raufoss
+Mjolner
+ 
+11.06. 19:00	
+Baerum Sportsklubb
+Odds 2
+ 
+11.06. 19:00	
+Stabaek 2
+Asker
+ 
+Round 10
+16.06. 16:00	
+Asker
+Grorud
+ 
+17.06. 15:00	
+Alta
+Baerum Sportsklubb
+ 
+17.06. 15:00	
+Mjolner
+Elverum
+ 
+17.06. 16:00	
+Moss
+Stabaek 2
+ 
+17.06. 18:00	
+Fredrikstad
+Nybergsund
+ 
+17.06. 18:00	
+Honefoss
+Raufoss
+ 
+18.06. 19:00	
+Odds 2
+Fram
+ 
+Round 11
+23.06. 16:00	
+Baerum Sportsklubb
+Fram
+ 
+23.06. 16:00	
+Elverum
+Honefoss
+ 
+23.06. 16:00	
+Grorud
+Moss
+ 
+23.06. 16:00	
+Raufoss
+Odds 2
+ 
+24.06. 14:00	
+Alta
+Asker
+ 
+24.06. 14:00	
+Nybergsund
+Mjolner
+ 
+24.06. 18:00	
+Stabaek 2
+Fredrikstad
+ 
+Round 12
+30.06. 16:00	
+Baerum Sportsklubb
+Asker
+ 
+30.06. 16:00	
+Fram
+Raufoss
+ 
+30.06. 18:00	
+Moss
+Alta
+ 
+01.07. 18:00	
+Fredrikstad
+Grorud
+ 
+01.07. 18:00	
+Honefoss
+Nybergsund
+ 
+02.07. 16:00	
+Mjolner
+Stabaek 2
+ 
+02.07. 19:00	
+Odds 2
+Elverum
+ 
+Round 13
+07.07. 16:00	
+Asker
+Moss
+ 
+07.07. 16:00	
+Elverum
+Fram
+ 
+07.07. 16:00	
+Grorud
+Mjolner
+ 
+08.07. 14:00	
+Alta
+Fredrikstad
+ 
+08.07. 18:00	
+Raufoss
+Baerum Sportsklubb
+ 
+09.07. 18:00	
+Stabaek 2
+Honefoss
+ 
+09.07. 19:00	
+Nybergsund
+Odds 2
+ 
+Round 14
+14.07. 16:00	
+Alta
+Mjolner
+ 
+14.07. 16:00	
+Nybergsund
+Fram
+ 
+15.07. 14:00	
+Asker
+Fredrikstad
+ 
+15.07. 14:00	
+Elverum
+Raufoss
+ 
+15.07. 14:00	
+Grorud
+Honefoss
+ 
+15.07. 14:00	
+Moss
+Baerum Sportsklubb
+ 
+06.08. 19:00	
+Stabaek 2
+Odds 2
+ 
+Round 15
+11.08. 16:00	
+Baerum Sportsklubb
+Elverum
+ 
+11.08. 16:00	
+Honefoss
+Alta
+ 
+12.08. 16:00	
+Mjolner
+Asker
+ 
+12.08. 16:00	
+Raufoss
+Nybergsund
+ 
+12.08. 18:00	
+Fredrikstad
+Moss
+ 
+13.08. 18:00	
+Fram
+Stabaek 2
+ 
+13.08. 19:00	
+Odds 2
+Grorud
+ 
+Round 16
+18.08. 16:00	
+Asker
+Honefoss
+ 
+18.08. 16:00	
+Grorud
+Fram
+ 
+18.08. 16:00	
+Nybergsund
+Elverum
+ 
+18.08. 18:00	
+Fredrikstad
+Baerum Sportsklubb
+ 
+19.08. 16:00	
+Moss
+Mjolner
+ 
+20.08. 18:00	
+Stabaek 2
+Raufoss
+ 
+20.08. 20:00	
+Alta
+Odds 2
+ 
+Round 17
+25.08. 16:00	
+Baerum Sportsklubb
+Nybergsund
+ 
+25.08. 16:00	
+Honefoss
+Moss
+ 
+26.08. 13:00	
+Fram
+Alta
+ 
+26.08. 14:00	
+Mjolner
+Fredrikstad
+ 
+26.08. 16:00	
+Raufoss
+Grorud
+ 
+27.08. 18:00	
+Elverum
+Stabaek 2
+ 
+27.08. 19:00	
+Odds 2
+Asker
+ 
+Round 18
+01.09. 16:00	
+Alta
+Raufoss
+ 
+01.09. 16:00	
+Asker
+Fram
+ 
+01.09. 16:00	
+Grorud
+Elverum
+ 
+02.09. 14:00	
+Mjolner
+Baerum Sportsklubb
+ 
+02.09. 18:00	
+Fredrikstad
+Honefoss
+ 
+03.09. 17:30	
+Stabaek 2
+Nybergsund
+ 
+03.09. 18:00	
+Moss
+Odds 2
+ 
+Round 19
+08.09. 16:00	
+Elverum
+Alta
+ 
+08.09. 16:00	
+Fram
+Moss
+ 
+09.09. 16:00	
+Baerum Sportsklubb
+Stabaek 2
+ 
+09.09. 16:00	
+Honefoss
+Mjolner
+ 
+09.09. 16:00	
+Nybergsund
+Grorud
+ 
+09.09. 16:00	
+Odds 2
+Fredrikstad
+ 
+09.09. 16:00	
+Raufoss
+Asker
+ 
+Round 20
+15.09. 16:00	
+Asker
+Elverum
+ 
+15.09. 16:00	
+Moss
+Raufoss
+ 
+16.09. 15:00	
+Alta
+Nybergsund
+ 
+16.09. 18:00	
+Fredrikstad
+Fram
+ 
+16.09. 18:00	
+Honefoss
+Baerum Sportsklubb
+ 
+17.09. 16:00	
+Mjolner
+Odds 2
+ 
+17.09. 16:30	
+Grorud
+Stabaek 2
+ 
+Round 21
+22.09. 16:00	
+Baerum Sportsklubb
+Grorud
+ 
+22.09. 16:00	
+Elverum
+Moss
+ 
+22.09. 16:00	
+Nybergsund
+Asker
+ 
+23.09. 13:00	
+Fram
+Mjolner
+ 
+23.09. 16:00	
+Raufoss
+Fredrikstad
+ 
+24.09. 14:30	
+Stabaek 2
+Alta
+ 
+24.09. 19:00	
+Odds 2
+Honefoss
+ 
+Round 22
+29.09. 16:00	
+Moss
+Nybergsund
+ 
+30.09. 15:00	
+Mjolner
+Raufoss
+ 
+30.09. 18:00	
+Alta
+Grorud
+ 
+30.09. 18:00	
+Fredrikstad
+Elverum
+ 
+30.09. 18:00	
+Honefoss
+Fram
+ 
+01.10. 19:00	
+Asker
+Stabaek 2
+ 
+01.10. 19:00	
+Odds 2
+Baerum Sportsklubb
+ 
+Round 23
+06.10. 16:00	
+Grorud
+Asker
+ 
+06.10. 16:00	
+Nybergsund
+Fredrikstad
+ 
+07.10. 14:00	
+Baerum Sportsklubb
+Alta
+ 
+07.10. 16:00	
+Elverum
+Mjolner
+ 
+07.10. 16:00	
+Raufoss
+Honefoss
+ 
+08.10. 15:30	
+Stabaek 2
+Moss
+ 
+08.10. 19:00	
+Fram
+Odds 2
+ 
+Round 24
+13.10. 15:00	
+Fram
+Baerum Sportsklubb
+ 
+13.10. 16:00	
+Moss
+Grorud
+ 
+13.10. 16:00	
+Odds 2
+Raufoss
+ 
+14.10. 14:00	
+Asker
+Alta
+ 
+14.10. 16:00	
+Mjolner
+Nybergsund
+ 
+14.10. 18:00	
+Fredrikstad
+Stabaek 2
+ 
+14.10. 18:00	
+Honefoss
+Elverum
+ 
+Round 25
+20.10. 15:00	
+Alta
+Moss
+ 
+20.10. 15:00	
+Asker
+Baerum Sportsklubb
+ 
+20.10. 15:00	
+Elverum
+Odds 2
+ 
+20.10. 15:00	
+Grorud
+Fredrikstad
+ 
+20.10. 15:00	
+Nybergsund
+Honefoss
+ 
+20.10. 15:00	
+Raufoss
+Fram
+ 
+20.10. 15:00	
+Stabaek 2
+Mjolner
+ 
+Round 26
+27.10. 13:00	
+Baerum Sportsklubb
+Raufoss
+ 
+27.10. 13:00	
+Fram
+Elverum
+ 
+27.10. 13:00	
+Fredrikstad
+Alta
+ 
+27.10. 13:00	
+Honefoss
+Stabaek 2
+ 
+27.10. 13:00	
+Mjolner
+Grorud
+ 
+27.10. 13:00	
+Moss
+Asker
+ 
+27.10. 13:00	
+Odds 2
+Nybergsund

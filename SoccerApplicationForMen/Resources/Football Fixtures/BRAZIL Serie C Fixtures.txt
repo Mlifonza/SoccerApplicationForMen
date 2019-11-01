@@ -1,0 +1,615 @@
+ BRAZIL: Serie C
+Round 4
+05.05. 20:30	
+Tombense
+Bragantino
+ 
+05.05. 21:00	
+Remo
+Santa Cruz
+ 
+05.05. 22:00	
+Cuiaba Esporte
+Tupi
+ 
+05.05. 23:30	
+Juazeirense
+Globo
+ 
+06.05. 01:00	
+Nautico
+Confianca
+ 
+06.05. 20:30	
+Operario
+Joinville
+ 
+06.05. 20:30	
+Ypiranga FC
+Luverdense
+ 
+06.05. 21:00	
+ABC
+Botafogo PB
+ 
+06.05. 21:00	
+Salgueiro
+Acreano
+ 
+08.05. 02:15	
+Botafogo SP
+Volta Redonda
+ 
+Round 5
+12.05. 21:00	
+Bragantino
+Ypiranga FC
+ 
+12.05. 21:00	
+Tupi
+Botafogo SP
+ 
+13.05. 00:00	
+Nautico
+Salgueiro
+ 
+13.05. 20:30	
+Operario
+Tombense
+ 
+13.05. 21:00	
+Confianca
+ABC
+ 
+13.05. 21:00	
+Joinville
+Cuiaba Esporte
+ 
+13.05. 22:00	
+Luverdense
+Volta Redonda
+ 
+14.05. 00:00	
+Acreano
+Juazeirense
+ 
+14.05. 00:00	
+Botafogo PB
+Remo
+ 
+15.05. 02:15	
+Globo
+Santa Cruz
+ 
+Round 6
+19.05. 21:00	
+Salgueiro
+ABC
+ 
+19.05. 21:00	
+Volta Redonda
+Bragantino
+ 
+19.05. 22:00	
+Cuiaba Esporte
+Operario
+ 
+20.05. 00:00	
+Santa Cruz
+Botafogo PB
+ 
+20.05. 20:30	
+Ypiranga FC
+Tombense
+ 
+20.05. 21:00	
+Botafogo SP
+Joinville
+ 
+20.05. 21:00	
+Tupi
+Luverdense
+ 
+20.05. 22:00	
+Globo
+Acreano
+ 
+21.05. 00:00	
+Juazeirense
+Nautico
+ 
+22.05. 02:15	
+Remo
+Confianca
+ 
+Round 7
+26.05. 20:30	
+Tombense
+Volta Redonda
+ 
+26.05. 21:00	
+Bragantino
+Luverdense
+ 
+26.05. 22:00	
+Cuiaba Esporte
+Ypiranga FC
+ 
+27.05. 00:00	
+Acreano
+Botafogo PB
+ 
+27.05. 01:00	
+ABC
+Remo
+ 
+27.05. 20:30	
+Operario
+Botafogo SP
+ 
+27.05. 21:00	
+Joinville
+Tupi
+ 
+27.05. 21:00	
+Salgueiro
+Juazeirense
+ 
+28.05. 00:00	
+Nautico
+Globo
+ 
+29.05. 02:15	
+Confianca
+Santa Cruz
+ 
+Round 8
+02.06. 20:30	
+Tombense
+Cuiaba Esporte
+ 
+02.06. 21:00	
+Bragantino
+Operario
+ 
+02.06. 21:00	
+Volta Redonda
+Tupi
+ 
+03.06. 00:00	
+Santa Cruz
+Juazeirense
+ 
+03.06. 20:30	
+Ypiranga FC
+Botafogo SP
+ 
+03.06. 21:00	
+Botafogo PB
+Globo
+ 
+03.06. 21:00	
+Confianca
+Acreano
+ 
+03.06. 22:00	
+Luverdense
+Joinville
+ 
+04.06. 00:00	
+Remo
+Salgueiro
+ 
+05.06. 02:15	
+ABC
+Nautico
+ 
+Round 9
+09.06. 21:00	
+Tupi
+Ypiranga FC
+ 
+09.06. 22:00	
+Cuiaba Esporte
+Bragantino
+ 
+09.06. 23:30	
+Juazeirense
+Botafogo PB
+ 
+10.06. 00:00	
+Nautico
+Remo
+ 
+10.06. 20:30	
+Operario
+Luverdense
+ 
+10.06. 21:00	
+Botafogo SP
+Tombense
+ 
+10.06. 22:00	
+Globo
+Confianca
+ 
+11.06. 00:00	
+Acreano
+ABC
+ 
+11.06. 00:00	
+Salgueiro
+Santa Cruz
+ 
+12.06. 02:15	
+Joinville
+Volta Redonda
+ 
+Round 10
+16.06. 22:00	
+ABC
+Globo
+ 
+16.06. 22:00	
+Botafogo PB
+Salgueiro
+ 
+16.06. 22:00	
+Bragantino
+Botafogo SP
+ 
+16.06. 22:00	
+Confianca
+Juazeirense
+ 
+16.06. 22:00	
+Luverdense
+Cuiaba Esporte
+ 
+16.06. 22:00	
+Remo
+Acreano
+ 
+16.06. 22:00	
+Santa Cruz
+Nautico
+ 
+16.06. 22:00	
+Tombense
+Tupi
+ 
+16.06. 22:00	
+Volta Redonda
+Operario
+ 
+16.06. 22:00	
+Ypiranga FC
+Joinville
+ 
+Round 11
+23.06. 22:00	
+Acreano
+Santa Cruz
+ 
+23.06. 22:00	
+Botafogo SP
+Luverdense
+ 
+23.06. 22:00	
+Cuiaba Esporte
+Volta Redonda
+ 
+23.06. 22:00	
+Globo
+Remo
+ 
+23.06. 22:00	
+Joinville
+Tombense
+ 
+23.06. 22:00	
+Juazeirense
+ABC
+ 
+23.06. 22:00	
+Nautico
+Botafogo PB
+ 
+23.06. 22:00	
+Operario
+Ypiranga FC
+ 
+23.06. 22:00	
+Salgueiro
+Confianca
+ 
+23.06. 22:00	
+Tupi
+Bragantino
+ 
+Round 12
+30.06. 22:00	
+ABC
+Santa Cruz
+ 
+30.06. 22:00	
+Bragantino
+Joinville
+ 
+30.06. 22:00	
+Confianca
+Botafogo PB
+ 
+30.06. 22:00	
+Cuiaba Esporte
+Botafogo SP
+ 
+30.06. 22:00	
+Nautico
+Acreano
+ 
+30.06. 22:00	
+Operario
+Tupi
+ 
+30.06. 22:00	
+Remo
+Juazeirense
+ 
+30.06. 22:00	
+Salgueiro
+Globo
+ 
+30.06. 22:00	
+Tombense
+Luverdense
+ 
+30.06. 22:00	
+Ypiranga FC
+Volta Redonda
+ 
+Round 13
+07.07. 22:00	
+Acreano
+Salgueiro
+ 
+07.07. 22:00	
+Botafogo PB
+ABC
+ 
+07.07. 22:00	
+Bragantino
+Tombense
+ 
+07.07. 22:00	
+Confianca
+Nautico
+ 
+07.07. 22:00	
+Globo
+Juazeirense
+ 
+07.07. 22:00	
+Joinville
+Operario
+ 
+07.07. 22:00	
+Luverdense
+Ypiranga FC
+ 
+07.07. 22:00	
+Santa Cruz
+Remo
+ 
+07.07. 22:00	
+Tupi
+Cuiaba Esporte
+ 
+07.07. 22:00	
+Volta Redonda
+Botafogo SP
+ 
+Round 14
+14.07. 22:00	
+ABC
+Confianca
+ 
+14.07. 22:00	
+Botafogo SP
+Tupi
+ 
+14.07. 22:00	
+Cuiaba Esporte
+Joinville
+ 
+14.07. 22:00	
+Juazeirense
+Acreano
+ 
+14.07. 22:00	
+Remo
+Botafogo PB
+ 
+14.07. 22:00	
+Salgueiro
+Nautico
+ 
+14.07. 22:00	
+Santa Cruz
+Globo
+ 
+14.07. 22:00	
+Tombense
+Operario
+ 
+14.07. 22:00	
+Volta Redonda
+Luverdense
+ 
+14.07. 22:00	
+Ypiranga FC
+Bragantino
+ 
+Round 15
+21.07. 22:00	
+ABC
+Salgueiro
+ 
+21.07. 22:00	
+Acreano
+Globo
+ 
+21.07. 22:00	
+Botafogo PB
+Santa Cruz
+ 
+21.07. 22:00	
+Bragantino
+Volta Redonda
+ 
+21.07. 22:00	
+Confianca
+Remo
+ 
+21.07. 22:00	
+Joinville
+Botafogo SP
+ 
+21.07. 22:00	
+Luverdense
+Tupi
+ 
+21.07. 22:00	
+Nautico
+Juazeirense
+ 
+21.07. 22:00	
+Operario
+Cuiaba Esporte
+ 
+21.07. 22:00	
+Tombense
+Ypiranga FC
+ 
+Round 16
+28.07. 22:00	
+Botafogo PB
+Acreano
+ 
+28.07. 22:00	
+Botafogo SP
+Operario
+ 
+28.07. 22:00	
+Globo
+Nautico
+ 
+28.07. 22:00	
+Juazeirense
+Salgueiro
+ 
+28.07. 22:00	
+Luverdense
+Bragantino
+ 
+28.07. 22:00	
+Remo
+ABC
+ 
+28.07. 22:00	
+Santa Cruz
+Confianca
+ 
+28.07. 22:00	
+Tupi
+Joinville
+ 
+28.07. 22:00	
+Volta Redonda
+Tombense
+ 
+28.07. 22:00	
+Ypiranga FC
+Cuiaba Esporte
+ 
+Round 17
+04.08. 22:00	
+Acreano
+Confianca
+ 
+04.08. 22:00	
+Botafogo SP
+Ypiranga FC
+ 
+04.08. 22:00	
+Cuiaba Esporte
+Tombense
+ 
+04.08. 22:00	
+Globo
+Botafogo PB
+ 
+04.08. 22:00	
+Joinville
+Luverdense
+ 
+04.08. 22:00	
+Juazeirense
+Santa Cruz
+ 
+04.08. 22:00	
+Nautico
+ABC
+ 
+04.08. 22:00	
+Operario
+Bragantino
+ 
+04.08. 22:00	
+Salgueiro
+Remo
+ 
+04.08. 22:00	
+Tupi
+Volta Redonda
+ 
+Round 18
+12.08. 22:00	
+ABC
+Acreano
+ 
+12.08. 22:00	
+Botafogo PB
+Juazeirense
+ 
+12.08. 22:00	
+Bragantino
+Cuiaba Esporte
+ 
+12.08. 22:00	
+Confianca
+Globo
+ 
+12.08. 22:00	
+Luverdense
+Operario
+ 
+12.08. 22:00	
+Remo
+Nautico
+ 
+12.08. 22:00	
+Santa Cruz
+Salgueiro
+ 
+12.08. 22:00	
+Tombense
+Botafogo SP
+ 
+12.08. 22:00	
+Volta Redonda
+Joinville
+ 
+12.08. 22:00	
+Ypiranga FC
+Tupi

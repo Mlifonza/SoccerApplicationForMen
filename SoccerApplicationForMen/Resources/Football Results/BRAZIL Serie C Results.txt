@@ -1,0 +1,288 @@
+ BRAZIL: Serie C
+Round 7
+29.05. 00:00	
+Confianca
+Santa Cruz
+1 : 1	
+28.05. 00:00	
+Nautico
+Globo
+2 : 0	
+27.05. 21:00	
+Joinville
+Tupi
+1 : 1	
+27.05. 20:30	
+Operario
+Botafogo SP
+3 : 1	
+27.05. 01:00	
+ABC
+Remo
+2 : 1	
+27.05. 01:00	
+Salgueiro
+Juazeirense
+1 : 0	
+27.05. 00:00	
+Acreano
+Botafogo PB
+1 : 0	
+26.05. 22:00	
+Cuiaba Esporte
+Ypiranga FC
+1 : 2	
+26.05. 21:00	
+Bragantino
+Luverdense
+1 : 1	
+26.05. 20:30	
+Tombense
+Volta Redonda 
+1 : 0	
+Round 6
+21.05. 00:00	
+Remo
+Confianca
+0 : 3	
+20.05. 22:00	
+Globo
+Acreano
+2 : 1	
+20.05. 21:00	
+Botafogo SP
+Joinville 
+3 : 0	
+20.05. 21:00	
+Tupi
+Luverdense
+0 : 1	
+20.05. 20:30	
+Ypiranga FC 
+Tombense 
+0 : 0	
+20.05. 00:00	
+Salgueiro
+ABC 
+3 : 0	
+20.05. 00:00	
+Santa Cruz
+Botafogo PB
+2 : 3	
+19.05. 22:00	
+Cuiaba Esporte
+Operario
+4 : 0	
+19.05. 21:00	
+Juazeirense
+Nautico
+2 : 0	
+19.05. 21:00	
+Volta Redonda
+Bragantino
+2 : 1	
+Round 5
+15.05. 02:15	
+Globo
+Santa Cruz
+1 : 2	
+15.05. 01:30	
+Luverdense
+Volta Redonda
+4 : 1	
+14.05. 00:00	
+Acreano
+Juazeirense
+5 : 0	
+14.05. 00:00	
+Botafogo PB 
+Remo
+1 : 3	
+13.05. 21:30	
+Operario
+Tombense
+1 : 1	
+13.05. 00:30	
+Joinville
+Cuiaba Esporte
+2 : 3	
+13.05. 00:00	
+Nautico
+Salgueiro
+3 : 0	
+12.05. 21:00	
+Bragantino
+Ypiranga FC 
+2 : 1	
+12.05. 21:00	
+Confianca
+ABC
+2 : 2	
+12.05. 21:00	
+Tupi
+Botafogo SP 
+1 : 1	
+Round 4
+08.05. 02:15	
+Botafogo SP
+Volta Redonda
+2 : 0	
+06.05. 21:30	
+Operario
+Joinville
+2 : 0	
+06.05. 21:00	
+ABC
+Botafogo PB
+2 : 0	
+06.05. 21:00	
+Salgueiro 
+Acreano 
+1 : 3	
+06.05. 20:30	
+Ypiranga FC
+Luverdense
+1 : 0	
+06.05. 01:00	
+Nautico 
+Confianca 
+2 : 4	
+05.05. 23:30	
+Juazeirense
+Globo
+2 : 0	
+05.05. 22:00	
+Cuiaba Esporte
+Tupi
+1 : 0	
+05.05. 21:00	
+Remo
+Santa Cruz
+0 : 0	
+05.05. 20:30	
+Tombense
+Bragantino
+1 : 0
+Round 3
+01.05. 02:15	
+Botafogo PB
+Confianca
+2 : 0	
+30.04. 00:00	
+Acreano
+Nautico
+1 : 0	
+29.04. 22:00	
+Globo
+Salgueiro
+1 : 1	
+29.04. 22:00	
+Luverdense
+Tombense
+2 : 0	
+29.04. 21:00	
+Joinville 
+Bragantino 
+0 : 2	
+29.04. 00:00	
+Juazeirense
+Remo 
+1 : 0	
+28.04. 22:00	
+Botafogo SP 
+Cuiaba Esporte
+0 : 0	
+28.04. 21:00	
+Santa Cruz
+ABC
+0 : 0	
+28.04. 21:00	
+Tupi
+Operario
+0 : 1	
+28.04. 21:00	
+Volta Redonda
+Ypiranga FC
+3 : 2	
+Round 2
+22.04. 23:30	
+Santa Cruz
+Acreano
+3 : 1	
+22.04. 21:00	
+ABC 
+Juazeirense
+1 : 0	
+22.04. 21:00	
+Confianca
+Salgueiro
+3 : 0	
+22.04. 20:30	
+Ypiranga FC
+Operario
+2 : 1	
+22.04. 00:00	
+Botafogo PB
+Nautico 
+4 : 0	
+21.04. 22:00	
+Luverdense
+Botafogo SP
+1 : 2	
+21.04. 21:00	
+Bragantino 
+Tupi 
+1 : 0	
+21.04. 21:00	
+Remo
+Globo
+1 : 0	
+21.04. 21:00	
+Volta Redonda
+Cuiaba Esporte 
+3 : 0	
+21.04. 20:30	
+Tombense
+Joinville
+3 : 0	
+Round 1
+17.04. 02:15	
+Acreano
+Remo
+1 : 0	
+16.04. 00:00	
+Cuiaba Esporte
+Luverdense
+1 : 0	
+16.04. 00:00	
+Nautico
+Santa Cruz
+1 : 1	
+15.04. 22:00	
+Globo
+ABC
+1 : 0	
+15.04. 21:00	
+Joinville
+Ypiranga FC 
+1 : 0	
+15.04. 21:00	
+Salgueiro
+Botafogo PB
+0 : 0	
+15.04. 20:30	
+Operario
+Volta Redonda
+1 : 0	
+15.04. 00:00	
+Botafogo SP
+Bragantino
+1 : 1	
+14.04. 23:30	
+Juazeirense
+Confianca
+0 : 1	
+14.04. 21:00	
+Tupi
+Tombense
+1 : 0

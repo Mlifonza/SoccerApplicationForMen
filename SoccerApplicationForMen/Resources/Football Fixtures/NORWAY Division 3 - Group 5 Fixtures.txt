@@ -1,0 +1,589 @@
+ NORWAY: Division 3 - Group 5
+Round 6
+21.05. 16:00	
+Melhus
+Kolstad
+ 
+22.05. 19:00	
+Rosenborg 2
+Tillerbyen
+ 
+Round 7
+26.05. 15:00	
+Verdal
+Brumunddal
+ 
+26.05. 16:00	
+Ottestad
+Kolstad
+ 
+26.05. 16:00	
+Steinkjer
+Loten
+ 
+26.05. 16:00	
+Tynset
+Gjovik-Lyn
+ 
+27.05. 15:00	
+Tillerbyen
+Melhus
+ 
+28.05. 19:00	
+Levanger 2
+Byåsen
+ 
+28.05. 19:00	
+Orkla
+Rosenborg 2
+ 
+Round 8
+31.05. 19:00	
+Rosenborg 2
+Tynset
+ 
+02.06. 14:00	
+Brumunddal
+Steinkjer
+ 
+02.06. 15:00	
+Byåsen
+Ottestad
+ 
+02.06. 15:00	
+Gjovik-Lyn
+Verdal
+ 
+03.06. 16:00	
+Melhus
+Orkla
+ 
+03.06. 18:00	
+Kolstad
+Tillerbyen
+ 
+04.06. 18:00	
+Loten
+Levanger 2
+ 
+Round 9
+09.06. 14:00	
+Steinkjer
+Gjovik-Lyn
+ 
+09.06. 15:00	
+Levanger 2
+Brumunddal
+ 
+09.06. 16:00	
+Byåsen
+Loten
+ 
+09.06. 16:00	
+Orkla
+Kolstad
+ 
+09.06. 16:00	
+Ottestad
+Tillerbyen
+ 
+09.06. 16:00	
+Tynset
+Melhus
+ 
+09.06. 16:00	
+Verdal
+Rosenborg 2
+ 
+Round 10
+16.06. 16:00	
+Brumunddal
+Byåsen
+ 
+16.06. 16:00	
+Kolstad
+Tynset
+ 
+16.06. 16:00	
+Loten
+Ottestad
+ 
+16.06. 16:00	
+Melhus
+Verdal
+ 
+16.06. 16:00	
+Tillerbyen
+Orkla
+ 
+18.06. 17:00	
+Gjovik-Lyn
+Levanger 2
+ 
+18.06. 19:00	
+Rosenborg 2
+Steinkjer
+ 
+Round 11
+21.06. 19:00	
+Verdal
+Kolstad
+ 
+21.06. 19:30	
+Tynset
+Tillerbyen
+ 
+23.06. 16:00	
+Byåsen
+Gjovik-Lyn
+ 
+23.06. 16:00	
+Loten
+Brumunddal
+ 
+23.06. 16:00	
+Ottestad
+Orkla
+ 
+23.06. 16:00	
+Steinkjer
+Melhus
+ 
+25.06. 19:00	
+Levanger 2
+Rosenborg 2
+ 
+Round 12
+02.07. 19:00	
+Melhus
+Levanger 2
+ 
+21.07. 16:00	
+Gjovik-Lyn
+Loten
+ 
+21.07. 16:00	
+Orkla
+Tynset
+ 
+21.07. 16:00	
+Tillerbyen
+Verdal
+ 
+22.07. 18:00	
+Kolstad
+Steinkjer
+ 
+22.07. 18:00	
+Ottestad
+Brumunddal
+ 
+23.07. 19:00	
+Rosenborg 2
+Byåsen
+ 
+Round 13
+28.07. 16:00	
+Loten
+Rosenborg 2
+ 
+28.07. 16:00	
+Tynset
+Ottestad
+ 
+29.07. 18:00	
+Brumunddal
+Gjovik-Lyn
+ 
+29.07. 18:00	
+Byåsen
+Melhus
+ 
+29.07. 18:00	
+Steinkjer
+Tillerbyen
+ 
+29.07. 18:00	
+Verdal
+Orkla
+ 
+30.07. 19:00	
+Levanger 2
+Kolstad
+ 
+Round 14
+04.08. 16:00	
+Byåsen
+Kolstad
+ 
+04.08. 16:00	
+Gjovik-Lyn
+Ottestad
+ 
+04.08. 16:00	
+Loten
+Melhus
+ 
+04.08. 16:00	
+Steinkjer
+Orkla
+ 
+04.08. 16:00	
+Verdal
+Tynset
+ 
+06.08. 17:00	
+Brumunddal
+Rosenborg 2
+ 
+06.08. 19:00	
+Levanger 2
+Tillerbyen
+ 
+Round 15
+11.08. 13:00	
+Rosenborg 2
+Gjovik-Lyn
+ 
+11.08. 15:00	
+Ottestad
+Verdal
+ 
+11.08. 16:00	
+Kolstad
+Loten
+ 
+11.08. 16:00	
+Melhus
+Brumunddal
+ 
+11.08. 16:00	
+Tillerbyen
+Byåsen
+ 
+11.08. 16:00	
+Tynset
+Steinkjer
+ 
+13.08. 19:00	
+Orkla
+Levanger 2
+ 
+Round 16
+18.08. 14:00	
+Brumunddal
+Kolstad
+ 
+18.08. 15:00	
+Rosenborg 2
+Ottestad
+ 
+18.08. 16:00	
+Byåsen
+Orkla
+ 
+18.08. 16:00	
+Gjovik-Lyn
+Melhus
+ 
+18.08. 16:00	
+Loten
+Tillerbyen
+ 
+18.08. 16:00	
+Steinkjer
+Verdal
+ 
+20.08. 19:00	
+Levanger 2
+Tynset
+ 
+Round 17
+25.08. 14:00	
+Kolstad
+Gjovik-Lyn
+ 
+25.08. 15:00	
+Ottestad
+Steinkjer
+ 
+25.08. 16:00	
+Orkla
+Loten
+ 
+25.08. 16:00	
+Tillerbyen
+Brumunddal
+ 
+25.08. 16:00	
+Tynset
+Byåsen
+ 
+27.08. 18:00	
+Melhus
+Rosenborg 2
+ 
+27.08. 19:30	
+Verdal
+Levanger 2
+ 
+Round 18
+01.09. 15:00	
+Melhus
+Ottestad
+ 
+01.09. 16:00	
+Brumunddal
+Orkla
+ 
+01.09. 16:00	
+Byåsen
+Verdal
+ 
+01.09. 16:00	
+Gjovik-Lyn
+Tillerbyen
+ 
+01.09. 16:00	
+Loten
+Tynset
+ 
+03.09. 19:00	
+Levanger 2
+Steinkjer
+ 
+03.09. 19:00	
+Rosenborg 2
+Kolstad
+ 
+Round 19
+08.09. 16:00	
+Kolstad
+Melhus
+ 
+08.09. 16:00	
+Orkla
+Gjovik-Lyn
+ 
+08.09. 16:00	
+Steinkjer
+Byåsen
+ 
+08.09. 16:00	
+Tynset
+Brumunddal
+ 
+08.09. 16:00	
+Verdal
+Loten
+ 
+10.09. 17:00	
+Ottestad
+Levanger 2
+ 
+10.09. 17:15	
+Tillerbyen
+Rosenborg 2
+ 
+Round 20
+13.09. 17:00	
+Melhus
+Tillerbyen
+ 
+15.09. 14:00	
+Loten
+Steinkjer
+ 
+15.09. 15:00	
+Brumunddal
+Verdal
+ 
+15.09. 15:00	
+Kolstad
+Ottestad
+ 
+15.09. 16:00	
+Gjovik-Lyn
+Tynset
+ 
+17.09. 17:00	
+Byåsen
+Levanger 2
+ 
+17.09. 19:00	
+Rosenborg 2
+Orkla
+ 
+Round 21
+21.09. 16:30	
+Tillerbyen
+Kolstad
+ 
+22.09. 15:00	
+Steinkjer
+Brumunddal
+ 
+22.09. 15:00	
+Verdal
+Gjovik-Lyn
+ 
+22.09. 16:00	
+Ottestad
+Byåsen
+ 
+23.09. 16:00	
+Orkla
+Melhus
+ 
+24.09. 16:30	
+Tynset
+Rosenborg 2
+ 
+24.09. 19:00	
+Levanger 2
+Loten
+ 
+Round 22
+29.09. 14:00	
+Gjovik-Lyn
+Steinkjer
+ 
+29.09. 15:00	
+Tillerbyen
+Ottestad
+ 
+29.09. 16:00	
+Kolstad
+Orkla
+ 
+29.09. 16:00	
+Loten
+Byåsen
+ 
+29.09. 16:00	
+Melhus
+Tynset
+ 
+01.10. 16:00	
+Brumunddal
+Levanger 2
+ 
+01.10. 19:15	
+Rosenborg 2
+Verdal
+ 
+Round 23
+06.10. 13:00	
+Levanger 2
+Gjovik-Lyn
+ 
+06.10. 15:45	
+Byåsen
+Brumunddal
+ 
+06.10. 15:45	
+Ottestad
+Loten
+ 
+06.10. 15:45	
+Tynset
+Kolstad
+ 
+06.10. 16:00	
+Verdal
+Melhus
+ 
+07.10. 15:45	
+Orkla
+Tillerbyen
+ 
+08.10. 15:45	
+Steinkjer
+Rosenborg 2
+ 
+Round 24
+13.10. 15:00	
+Orkla
+Ottestad
+ 
+13.10. 15:30	
+Brumunddal
+Loten
+ 
+13.10. 15:30	
+Gjovik-Lyn
+Byåsen
+ 
+13.10. 15:30	
+Kolstad
+Verdal
+ 
+13.10. 15:30	
+Melhus
+Steinkjer
+ 
+13.10. 15:30	
+Tillerbyen
+Tynset
+ 
+15.10. 19:00	
+Rosenborg 2
+Levanger 2
+ 
+Round 25
+20.10. 13:00	
+Brumunddal
+Ottestad
+ 
+20.10. 13:00	
+Byåsen
+Rosenborg 2
+ 
+20.10. 13:00	
+Levanger 2
+Melhus
+ 
+20.10. 13:00	
+Loten
+Gjovik-Lyn
+ 
+20.10. 13:00	
+Steinkjer
+Kolstad
+ 
+20.10. 13:00	
+Tynset
+Orkla
+ 
+20.10. 13:00	
+Verdal
+Tillerbyen
+ 
+Round 26
+27.10. 12:00	
+Gjovik-Lyn
+Brumunddal
+ 
+27.10. 12:00	
+Kolstad
+Levanger 2
+ 
+27.10. 12:00	
+Melhus
+Byåsen
+ 
+27.10. 12:00	
+Orkla
+Verdal
+ 
+27.10. 12:00	
+Ottestad
+Tynset
+ 
+27.10. 12:00	
+Rosenborg 2
+Loten
+ 
+27.10. 12:00	
+Tillerbyen
+Steinkjer

@@ -1,0 +1,588 @@
+ NORWAY: Division 3 - Group 2
+Round 6
+20.05. 17:00	
+Vestfossen
+Skjetten
+22.05. 19:00	
+Ostsiden
+Lillestrom 2
+ 
+Round 7
+26.05. 14:00	
+Krakeroy
+Valdres
+ 
+26.05. 15:00	
+Lørenskog
+Ostsiden
+ 
+26.05. 16:00	
+Bjornevatn
+Skjetten
+ 
+26.05. 16:00	
+Eidsvold
+Gjellerasen
+ 
+26.05. 16:00	
+Selbak
+Skedsmo
+ 
+28.05. 19:00	
+Lillestrom 2
+Vestfossen
+ 
+28.05. 19:00	
+Strømsgodset 2
+Halden
+ 
+Round 8
+31.05. 19:00	
+Vestfossen
+Lørenskog
+ 
+02.06. 15:00	
+Skedsmo
+Krakeroy
+ 
+02.06. 16:00	
+Ostsiden
+Eidsvold
+ 
+02.06. 16:00	
+Valdres
+Strømsgodset 2
+ 
+02.06. 19:00	
+Halden
+Bjornevatn
+ 
+03.06. 18:00	
+Gjellerasen
+Selbak
+ 
+04.06. 19:00	
+Skjetten
+Lillestrom 2
+ 
+Round 9
+09.06. 14:00	
+Krakeroy
+Gjellerasen
+ 
+09.06. 16:00	
+Eidsvold
+Vestfossen
+ 
+09.06. 16:00	
+Halden
+Valdres
+ 
+09.06. 16:00	
+Selbak
+Ostsiden
+ 
+09.06. 18:00	
+Lørenskog
+Skjetten
+ 
+10.06. 16:00	
+Bjornevatn
+Lillestrom 2
+ 
+11.06. 19:00	
+Strømsgodset 2
+Skedsmo
+ 
+Round 10
+15.06. 19:30	
+Vestfossen
+Selbak
+ 
+16.06. 15:00	
+Skedsmo
+Halden
+ 
+16.06. 16:00	
+Ostsiden
+Krakeroy
+ 
+16.06. 19:00	
+Valdres
+Bjornevatn
+ 
+17.06. 15:00	
+Skjetten
+Eidsvold
+ 
+18.06. 19:00	
+Gjellerasen
+Strømsgodset 2
+ 
+18.06. 19:00	
+Lillestrom 2
+Lørenskog
+ 
+Round 11
+23.06. 14:00	
+Krakeroy
+Vestfossen
+ 
+23.06. 15:00	
+Halden
+Gjellerasen
+ 
+23.06. 16:00	
+Selbak
+Skjetten
+ 
+23.06. 16:00	
+Valdres
+Skedsmo
+ 
+24.06. 16:00	
+Bjornevatn
+Lørenskog
+ 
+25.06. 19:00	
+Eidsvold
+Lillestrom 2
+ 
+25.06. 19:00	
+Strømsgodset 2
+Ostsiden
+ 
+Round 12
+30.06. 16:00	
+Gjellerasen
+Valdres
+ 
+30.06. 16:00	
+Lørenskog
+Eidsvold
+ 
+30.06. 16:00	
+Ostsiden
+Halden
+ 
+30.06. 16:00	
+Skjetten
+Krakeroy
+ 
+01.07. 16:00	
+Bjornevatn
+Skedsmo
+ 
+03.07. 19:00	
+Lillestrom 2
+Selbak
+ 
+03.07. 19:00	
+Vestfossen
+Strømsgodset 2
+ 
+Round 13
+07.07. 16:00	
+Selbak
+Lørenskog
+ 
+07.07. 16:00	
+Valdres
+Ostsiden
+ 
+07.07. 18:00	
+Eidsvold
+Bjornevatn
+ 
+08.07. 18:00	
+Halden
+Vestfossen
+ 
+08.07. 18:00	
+Skedsmo
+Gjellerasen
+ 
+09.07. 19:00	
+Krakeroy
+Lillestrom 2
+ 
+10.07. 20:00	
+Strømsgodset 2
+Skjetten
+ 
+Round 14
+14.07. 16:00	
+Valdres
+Vestfossen
+ 
+14.07. 17:00	
+Gjellerasen
+Bjornevatn
+ 
+15.07. 14:00	
+Halden
+Skjetten
+ 
+15.07. 14:00	
+Krakeroy
+Lørenskog
+ 
+15.07. 14:00	
+Selbak
+Eidsvold
+ 
+15.07. 14:00	
+Skedsmo
+Ostsiden
+ 
+06.08. 19:00	
+Strømsgodset 2
+Lillestrom 2
+ 
+Round 15
+11.08. 14:00	
+Skjetten
+Valdres
+ 
+11.08. 15:00	
+Eidsvold
+Krakeroy
+ 
+11.08. 16:00	
+Ostsiden
+Gjellerasen
+ 
+12.08. 16:00	
+Bjornevatn
+Selbak
+ 
+12.08. 18:00	
+Vestfossen
+Skedsmo
+ 
+13.08. 18:30	
+Lørenskog
+Strømsgodset 2
+ 
+13.08. 19:00	
+Lillestrom 2
+Halden
+ 
+Round 16
+18.08. 13:00	
+Krakeroy
+Selbak
+ 
+18.08. 15:00	
+Skedsmo
+Skjetten
+ 
+18.08. 16:00	
+Gjellerasen
+Vestfossen
+ 
+18.08. 16:00	
+Halden
+Lørenskog
+ 
+18.08. 18:15	
+Ostsiden
+Bjornevatn
+ 
+20.08. 18:30	
+Valdres
+Lillestrom 2
+ 
+20.08. 20:00	
+Strømsgodset 2
+Eidsvold
+ 
+Round 17
+25.08. 14:00	
+Skjetten
+Gjellerasen
+ 
+25.08. 15:00	
+Lørenskog
+Valdres
+ 
+25.08. 16:00	
+Bjornevatn
+Krakeroy
+ 
+25.08. 16:00	
+Eidsvold
+Halden
+ 
+26.08. 16:00	
+Vestfossen
+Ostsiden
+ 
+27.08. 18:30	
+Selbak
+Strømsgodset 2
+ 
+27.08. 19:00	
+Lillestrom 2
+Skedsmo
+ 
+Round 18
+01.09. 15:00	
+Skedsmo
+Lørenskog
+ 
+01.09. 16:00	
+Halden
+Selbak
+ 
+01.09. 16:00	
+Ostsiden
+Skjetten
+ 
+01.09. 16:00	
+Valdres
+Eidsvold
+ 
+01.09. 17:00	
+Vestfossen
+Bjornevatn
+ 
+03.09. 17:30	
+Gjellerasen
+Lillestrom 2
+ 
+03.09. 19:00	
+Strømsgodset 2
+Krakeroy
+ 
+Round 19
+08.09. 14:00	
+Skjetten
+Vestfossen
+ 
+08.09. 15:00	
+Lørenskog
+Gjellerasen
+ 
+08.09. 16:00	
+Eidsvold
+Skedsmo
+ 
+08.09. 16:00	
+Krakeroy
+Halden
+ 
+08.09. 16:00	
+Selbak
+Valdres
+ 
+09.09. 16:00	
+Bjornevatn
+Strømsgodset 2
+ 
+10.09. 19:30	
+Lillestrom 2
+Ostsiden
+ 
+Round 20
+15.09. 15:00	
+Skedsmo
+Selbak
+ 
+15.09. 16:00	
+Gjellerasen
+Eidsvold
+ 
+15.09. 16:00	
+Ostsiden
+Lørenskog
+ 
+15.09. 16:00	
+Valdres
+Krakeroy
+ 
+15.09. 17:00	
+Skjetten
+Bjornevatn
+ 
+17.09. 17:00	
+Vestfossen
+Lillestrom 2
+ 
+17.09. 17:15	
+Halden
+Strømsgodset 2
+ 
+Round 21
+22.09. 16:00	
+Eidsvold
+Ostsiden
+ 
+22.09. 16:00	
+Krakeroy
+Skedsmo
+ 
+22.09. 16:00	
+Selbak
+Gjellerasen
+ 
+23.09. 15:00	
+Lørenskog
+Vestfossen
+ 
+23.09. 16:00	
+Bjornevatn
+Halden
+ 
+24.09. 19:00	
+Lillestrom 2
+Skjetten
+ 
+24.09. 19:00	
+Strømsgodset 2
+Valdres
+ 
+Round 22
+29.09. 14:00	
+Gjellerasen
+Krakeroy
+ 
+29.09. 14:00	
+Skjetten
+Lørenskog
+ 
+29.09. 15:00	
+Valdres
+Halden
+ 
+29.09. 16:00	
+Ostsiden
+Selbak
+ 
+29.09. 16:00	
+Vestfossen
+Eidsvold
+ 
+29.09. 17:00	
+Lillestrom 2
+Bjornevatn
+ 
+01.10. 16:00	
+Skedsmo
+Strømsgodset 2
+ 
+Round 23
+06.10. 13:00	
+Bjornevatn
+Valdres
+ 
+06.10. 15:00	
+Halden
+Skedsmo
+ 
+06.10. 15:00	
+Selbak
+Vestfossen
+ 
+06.10. 16:00	
+Eidsvold
+Skjetten
+ 
+06.10. 16:00	
+Krakeroy
+Ostsiden
+ 
+08.10. 19:00	
+Lørenskog
+Lillestrom 2
+ 
+08.10. 19:00	
+Strømsgodset 2
+Gjellerasen
+ 
+Round 24
+13.10. 14:00	
+Skjetten
+Selbak
+ 
+13.10. 14:00	
+Vestfossen
+Krakeroy
+ 
+13.10. 15:00	
+Lørenskog
+Bjornevatn
+ 
+13.10. 15:00	
+Ostsiden
+Strømsgodset 2
+ 
+13.10. 15:00	
+Skedsmo
+Valdres
+ 
+13.10. 15:30	
+Gjellerasen
+Halden
+ 
+14.10. 15:00	
+Lillestrom 2
+Eidsvold
+ 
+Round 25
+20.10. 13:00	
+Eidsvold
+Lørenskog
+ 
+20.10. 13:00	
+Halden
+Ostsiden
+ 
+20.10. 13:00	
+Krakeroy
+Skjetten
+ 
+20.10. 13:00	
+Selbak
+Lillestrom 2
+ 
+20.10. 13:00	
+Skedsmo
+Bjornevatn
+ 
+20.10. 13:00	
+Strømsgodset 2
+Vestfossen
+ 
+20.10. 13:00	
+Valdres
+Gjellerasen
+ 
+Round 26
+27.10. 12:00	
+Bjornevatn
+Eidsvold
+ 
+27.10. 12:00	
+Gjellerasen
+Skedsmo
+ 
+27.10. 12:00	
+Lillestrom 2
+Krakeroy
+ 
+27.10. 12:00	
+Lørenskog
+Selbak
+ 
+27.10. 12:00	
+Ostsiden
+Valdres
+ 
+27.10. 12:00	
+Skjetten
+Strømsgodset 2
+ 
+27.10. 12:00	
+Vestfossen
+Halden

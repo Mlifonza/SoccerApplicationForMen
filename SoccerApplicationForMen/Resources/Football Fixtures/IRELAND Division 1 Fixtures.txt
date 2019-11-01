@@ -1,0 +1,381 @@
+ IRELAND: Division 1
+Round 11
+04.05. 20:45	
+Athlone
+Galway
+04.05. 20:45	
+Shelbourne
+UC Dublin
+04.05. 21:00	
+Finn Harps
+Drogheda
+04.05. 21:00	
+Wexford
+Cabinteely
+05.05. 20:45	
+Cobh Ramblers
+Longford
+ 
+Round 7
+07.05. 18:00	
+Finn Harps
+Galway
+ 
+Round 2
+07.05. 18:00	
+Wexford
+UC Dublin
+ 
+Round 12
+11.05. 20:45	
+Athlone
+Drogheda
+ 
+11.05. 20:45	
+Galway
+UC Dublin
+ 
+11.05. 20:45	
+Shelbourne
+Finn Harps
+ 
+11.05. 21:00	
+Wexford
+Longford
+ 
+12.05. 20:45	
+Cobh Ramblers
+Cabinteely
+ 
+Round 13
+18.05. 20:45	
+Drogheda
+Wexford
+ 
+18.05. 20:45	
+UC Dublin
+Athlone
+ 
+18.05. 21:00	
+Finn Harps
+Cobh Ramblers
+ 
+19.05. 20:30	
+Longford
+Shelbourne
+ 
+20.05. 16:00	
+Cabinteely
+Galway
+ 
+Round 14
+25.05. 20:45	
+Athlone
+Longford
+ 
+25.05. 20:45	
+Cabinteely
+UC Dublin
+ 
+25.05. 20:45	
+Cobh Ramblers
+Shelbourne
+ 
+25.05. 20:45	
+Galway
+Drogheda
+ 
+25.05. 21:00	
+Wexford
+Finn Harps
+ 
+Round 15
+01.06. 20:45	
+Drogheda
+Cabinteely
+ 
+01.06. 20:45	
+Longford
+Galway
+ 
+01.06. 20:45	
+Shelbourne
+Wexford
+ 
+01.06. 20:45	
+UC Dublin
+Cobh Ramblers
+ 
+01.06. 21:00	
+Finn Harps
+Athlone
+ 
+Round 10
+04.06. 16:00	
+Cabinteely
+Athlone
+ 
+Round 2
+04.06. 18:00	
+Finn Harps
+Longford
+ 
+04.06. 18:00	
+Shelbourne
+Drogheda
+ 
+04.06. 20:15	
+Cobh Ramblers
+Galway
+ 
+Round 16
+08.06. 20:45	
+Athlone
+Shelbourne
+ 
+08.06. 20:45	
+Cabinteely
+Longford
+ 
+08.06. 20:45	
+Galway
+Finn Harps
+ 
+08.06. 20:45	
+UC Dublin
+Drogheda
+ 
+09.06. 20:45	
+Cobh Ramblers
+Wexford
+ 
+Round 17
+15.06. 20:45	
+Cobh Ramblers
+Athlone
+ 
+15.06. 20:45	
+Longford
+Drogheda
+ 
+15.06. 20:45	
+Shelbourne
+Cabinteely
+ 
+15.06. 21:00	
+Finn Harps
+UC Dublin
+ 
+15.06. 21:00	
+Wexford
+Galway
+ 
+Round 18
+29.06. 20:45	
+Athlone
+Wexford
+ 
+29.06. 20:45	
+Cabinteely
+Finn Harps
+ 
+29.06. 20:45	
+Drogheda
+Cobh Ramblers
+ 
+29.06. 20:45	
+Galway
+Shelbourne
+ 
+29.06. 20:45	
+UC Dublin
+Longford
+ 
+Round 19
+06.07. 20:45	
+Cabinteely
+Wexford
+ 
+06.07. 20:45	
+Drogheda
+Finn Harps
+ 
+06.07. 20:45	
+Galway
+Athlone
+ 
+06.07. 20:45	
+UC Dublin
+Shelbourne
+ 
+07.07. 20:30	
+Longford
+Cobh Ramblers
+ 
+Round 20
+13.07. 20:45	
+Athlone
+Cabinteely
+ 
+13.07. 20:45	
+Shelbourne
+Drogheda
+ 
+13.07. 21:00	
+Finn Harps
+Longford
+ 
+13.07. 21:00	
+Wexford
+UC Dublin
+ 
+14.07. 20:45	
+Cobh Ramblers
+Galway
+ 
+Round 21
+20.07. 20:45	
+Cabinteely
+Cobh Ramblers
+ 
+20.07. 20:45	
+Drogheda
+Athlone
+ 
+20.07. 20:45	
+UC Dublin
+Galway
+ 
+20.07. 21:00	
+Finn Harps
+Shelbourne
+ 
+21.07. 20:30	
+Longford
+Wexford
+ 
+Round 22
+27.07. 20:45	
+Athlone
+UC Dublin
+ 
+27.07. 20:45	
+Galway
+Cabinteely
+ 
+27.07. 20:45	
+Shelbourne
+Longford
+ 
+27.07. 21:00	
+Wexford
+Drogheda
+ 
+28.07. 20:45	
+Cobh Ramblers
+Finn Harps
+ 
+Round 23
+03.08. 20:45	
+Drogheda
+Galway
+ 
+03.08. 20:45	
+Shelbourne
+Cobh Ramblers
+ 
+03.08. 20:45	
+UC Dublin
+Cabinteely
+ 
+03.08. 21:00	
+Finn Harps
+Wexford
+ 
+04.08. 20:30	
+Longford
+Athlone
+ 
+Round 24
+17.08. 20:45	
+Athlone
+Finn Harps
+ 
+17.08. 20:45	
+Cabinteely
+Drogheda
+ 
+17.08. 20:45	
+Galway
+Longford
+ 
+17.08. 21:00	
+Wexford
+Shelbourne
+ 
+18.08. 20:45	
+Cobh Ramblers
+UC Dublin
+ 
+Round 25
+31.08. 20:45	
+Drogheda
+UC Dublin
+ 
+31.08. 20:45	
+Shelbourne
+Athlone
+ 
+31.08. 21:00	
+Finn Harps
+Galway
+ 
+31.08. 21:00	
+Wexford
+Cobh Ramblers
+ 
+01.09. 20:30	
+Longford
+Cabinteely
+ 
+Round 26
+14.09. 20:45	
+Athlone
+Cobh Ramblers
+ 
+14.09. 20:45	
+Cabinteely
+Shelbourne
+ 
+14.09. 20:45	
+Drogheda
+Longford
+ 
+14.09. 20:45	
+Galway
+Wexford
+ 
+14.09. 20:45	
+UC Dublin
+Finn Harps
+ 
+Round 27
+22.09. 20:45	
+Cobh Ramblers
+Drogheda
+ 
+22.09. 20:45	
+Finn Harps
+Cabinteely
+ 
+22.09. 20:45	
+Longford
+UC Dublin
+ 
+22.09. 20:45	
+Shelbourne
+Galway
+ 
+22.09. 20:45	
+Wexford
+Athlone

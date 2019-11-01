@@ -1,0 +1,525 @@
+ ESTONIA: Meistriliiga
+Round 13
+04.05. 18:00	
+Narva
+Kuressaare
+05.05. 12:00	
+Tallinna Kalev
+Flora
+ 
+05.05. 15:00	
+Levadia
+Tulevik
+ 
+05.05. 18:00	
+Parnu JK Vaprus
+Kalju
+ 
+06.05. 14:00	
+Paide
+Tammeka
+ 
+Round 14
+11.05. 18:00	
+Levadia
+Tallinna Kalev
+ 
+11.05. 18:30	
+Tammeka
+Kalju
+ 
+12.05. 12:00	
+Parnu JK Vaprus
+Flora
+ 
+12.05. 15:00	
+Tulevik
+Narva
+ 
+13.05. 14:00	
+Kuressaare
+Paide
+ 
+Round 15
+15.05. 18:00	
+Kalju
+Levadia
+ 
+15.05. 18:00	
+Narva
+Tammeka
+ 
+16.05. 18:00	
+Flora
+Kuressaare
+ 
+18.05. 18:00	
+Tulevik
+Paide
+ 
+20.05. 14:00	
+Parnu JK Vaprus
+Tallinna Kalev
+ 
+Round 16
+22.05. 17:30	
+Paide
+Narva
+ 
+22.05. 19:30	
+Tammeka
+Tulevik
+ 
+23.05. 18:00	
+Kuressaare
+Parnu JK Vaprus
+ 
+23.05. 18:00	
+Tallinna Kalev
+Kalju
+ 
+23.05. 18:30	
+Flora
+Levadia
+ 
+Round 17
+26.05. 12:00	
+Levadia
+Parnu JK Vaprus
+ 
+26.05. 12:00	
+Tulevik
+Kuressaare
+ 
+26.05. 15:00	
+Narva
+Flora
+ 
+26.05. 18:00	
+Kalju
+Paide
+ 
+27.05. 14:00	
+Tallinna Kalev
+Tammeka
+ 
+Round 1
+05.06. 17:30	
+Paide
+Tulevik
+ 
+05.06. 19:30	
+Tallinna Kalev
+Levadia
+ 
+06.06. 18:00	
+Kalju
+Kuressaare
+ 
+06.06. 18:00	
+Narva
+Parnu JK Vaprus
+ 
+06.06. 18:30	
+Flora
+Tammeka
+ 
+Round 18
+12.06. 17:30	
+Kalju
+Tulevik
+ 
+12.06. 18:00	
+Paide
+Tallinna Kalev
+ 
+12.06. 18:00	
+Parnu JK Vaprus
+Narva
+ 
+12.06. 19:30	
+Kuressaare
+Levadia
+ 
+13.06. 18:30	
+Tammeka
+Flora
+ 
+Round 19
+20.07. 18:30	
+Flora
+Tulevik
+ 
+21.07. 15:00	
+Tallinna Kalev
+Kuressaare
+ 
+22.07. 15:00	
+Levadia
+Paide
+ 
+22.07. 18:00	
+Narva
+Kalju
+ 
+22.07. 18:00	
+Parnu JK Vaprus
+Tammeka
+ 
+Round 20
+27.07. 18:30	
+Tulevik
+Tallinna Kalev
+ 
+28.07. 15:00	
+Kalju
+Levadia
+ 
+29.07. 15:00	
+Paide
+Kuressaare
+ 
+29.07. 18:00	
+Tammeka
+Narva
+ 
+Round 21
+03.08. 18:30	
+Tulevik
+Parnu JK Vaprus
+ 
+04.08. 15:00	
+Narva
+Paide
+ 
+05.08. 15:00	
+Tallinna Kalev
+Kalju
+ 
+05.08. 18:00	
+Kuressaare
+Flora
+ 
+05.08. 18:00	
+Levadia
+Tammeka
+ 
+Round 22
+10.08. 18:00	
+Paide
+Flora
+ 
+10.08. 18:30	
+Kalju
+Kuressaare
+ 
+11.08. 15:00	
+Levadia
+Narva
+ 
+12.08. 15:00	
+Parnu JK Vaprus
+Tallinna Kalev
+ 
+12.08. 15:00	
+Tammeka
+Tulevik
+ 
+Round 23
+17.08. 18:30	
+Flora
+Tallinna Kalev
+ 
+18.08. 15:00	
+Parnu JK Vaprus
+Levadia
+ 
+19.08. 15:00	
+Narva
+Tulevik
+ 
+19.08. 18:00	
+Kuressaare
+Tammeka
+ 
+19.08. 18:00	
+Paide
+Kalju
+ 
+Round 24
+24.08. 18:30	
+Tammeka
+Flora
+ 
+25.08. 12:00	
+Kalju
+Parnu JK Vaprus
+ 
+25.08. 12:00	
+Tulevik
+Paide
+ 
+25.08. 15:00	
+Levadia
+Kuressaare
+ 
+25.08. 18:00	
+Tallinna Kalev
+Narva
+ 
+Round 25
+28.08. 17:30	
+Kuressaare
+Narva
+ 
+28.08. 17:30	
+Tulevik
+Kalju
+ 
+28.08. 18:00	
+Parnu JK Vaprus
+Paide
+ 
+28.08. 19:30	
+Tammeka
+Tallinna Kalev
+ 
+29.08. 19:30	
+Flora
+Levadia
+ 
+Round 26
+31.08. 18:30	
+Narva
+Parnu JK Vaprus
+ 
+01.09. 12:00	
+Kuressaare
+Tulevik
+ 
+01.09. 12:00	
+Paide
+Tammeka
+ 
+01.09. 15:00	
+Levadia
+Tallinna Kalev
+ 
+02.09. 18:00	
+Kalju
+Flora
+ 
+Round 27
+14.09. 18:30	
+Tammeka
+Kalju
+ 
+15.09. 12:00	
+Tallinna Kalev
+Paide
+ 
+15.09. 15:00	
+Flora
+Narva
+ 
+15.09. 18:00	
+Parnu JK Vaprus
+Kuressaare
+ 
+16.09. 14:00	
+Tulevik
+Levadia
+ 
+Round 28
+18.09. 17:00	
+Kuressaare
+Kalju
+ 
+18.09. 19:30	
+Narva
+Tammeka
+ 
+19.09. 18:00	
+Levadia
+Parnu JK Vaprus
+ 
+19.09. 18:00	
+Tallinna Kalev
+Tulevik
+ 
+19.09. 18:30	
+Flora
+Paide
+ 
+Round 29
+22.09. 12:00	
+Kuressaare
+Levadia
+ 
+22.09. 12:00	
+Tulevik
+Tammeka
+ 
+22.09. 15:00	
+Paide
+Narva
+ 
+22.09. 18:00	
+Parnu JK Vaprus
+Flora
+ 
+23.09. 14:00	
+Kalju
+Tallinna Kalev
+ 
+Round 20
+25.09. 18:00	
+Flora
+Parnu JK Vaprus
+ 
+Round 30
+28.09. 18:30	
+Narva
+Kuressaare
+ 
+29.09. 12:00	
+Paide
+Levadia
+ 
+29.09. 15:00	
+Kalju
+Tulevik
+ 
+29.09. 18:00	
+Tammeka
+Parnu JK Vaprus
+ 
+30.09. 14:00	
+Tallinna Kalev
+Flora
+ 
+Round 31
+02.10. 17:30	
+Kuressaare
+Paide
+ 
+02.10. 19:30	
+Parnu JK Vaprus
+Tulevik
+ 
+03.10. 18:00	
+Flora
+Tammeka
+ 
+03.10. 18:00	
+Narva
+Tallinna Kalev
+ 
+03.10. 18:30	
+Levadia
+Kalju
+ 
+Round 32
+06.10. 12:00	
+Parnu JK Vaprus
+Narva
+ 
+06.10. 12:00	
+Tulevik
+Kuressaare
+ 
+06.10. 15:00	
+Tallinna Kalev
+Levadia
+ 
+06.10. 18:00	
+Tammeka
+Paide
+ 
+07.10. 14:00	
+Flora
+Kalju
+ 
+Round 33
+19.10. 18:30	
+Levadia
+Tulevik
+ 
+20.10. 12:00	
+Kuressaare
+Tallinna Kalev
+ 
+20.10. 12:00	
+Paide
+Parnu JK Vaprus
+ 
+20.10. 15:00	
+Narva
+Flora
+ 
+21.10. 14:00	
+Kalju
+Tammeka
+ 
+Round 34
+26.10. 18:30	
+Kalju
+Paide
+ 
+27.10. 12:00	
+Flora
+Kuressaare
+ 
+27.10. 12:00	
+Tallinna Kalev
+Parnu JK Vaprus
+ 
+27.10. 15:00	
+Tulevik
+Narva
+ 
+28.10. 15:00	
+Tammeka
+Levadia
+ 
+Round 35
+02.11. 19:30	
+Parnu JK Vaprus
+Kalju
+ 
+03.11. 13:00	
+Tammeka
+Kuressaare
+ 
+03.11. 13:00	
+Tulevik
+Flora
+ 
+03.11. 16:00	
+Narva
+Levadia
+ 
+04.11. 15:00	
+Paide
+Tallinna Kalev
+ 
+Round 36
+10.11. 13:00	
+Kalju
+Narva
+ 
+10.11. 13:00	
+Kuressaare
+Parnu JK Vaprus
+ 
+10.11. 13:00	
+Levadia
+Flora
+ 
+10.11. 13:00	
+Paide
+Tulevik
+ 
+10.11. 13:00	
+Tammeka
+Tallinna Kalev

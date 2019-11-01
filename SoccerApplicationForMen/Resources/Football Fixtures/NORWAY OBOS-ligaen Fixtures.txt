@@ -1,0 +1,823 @@
+ NORWAY: OBOS-ligaen
+Round 6
+05.05. 15:30	
+Ham-Kam
+Strømmen
+06.05. 15:00	
+Aalesund
+Mjondalen
+06.05. 18:00	
+Floro
+Ull/Kisa
+06.05. 18:00	
+Jerv
+Åsane
+06.05. 18:00	
+Nest-Sotra
+Levanger
+06.05. 18:00	
+Sogndal
+Sandnes
+06.05. 18:00	
+Tromsdalen
+Kongsvinger
+06.05. 18:00	
+Viking
+Notodden
+Round 7
+13.05. 15:00	
+Ull/Kisa
+Sogndal
+ 
+13.05. 18:00	
+Åsane
+Aalesund
+ 
+13.05. 18:00	
+Ham-Kam
+Nest-Sotra
+ 
+13.05. 18:00	
+Kongsvinger
+Mjondalen
+ 
+13.05. 18:00	
+Levanger
+Viking
+ 
+13.05. 18:00	
+Notodden
+Tromsdalen
+ 
+13.05. 18:00	
+Sandnes
+Floro
+ 
+13.05. 18:00	
+Strømmen
+Jerv
+ 
+Round 8
+16.05. 16:30	
+Tromsdalen
+Levanger
+ 
+16.05. 18:00	
+Aalesund
+Strømmen
+ 
+16.05. 18:00	
+Floro
+Nest-Sotra
+ 
+16.05. 18:00	
+Jerv
+Notodden
+ 
+16.05. 18:00	
+Kongsvinger
+Ham-Kam
+ 
+16.05. 18:00	
+Mjondalen
+Ull/Kisa
+ 
+16.05. 18:00	
+Sogndal
+Åsane
+ 
+16.05. 18:00	
+Viking
+Sandnes
+ 
+Round 9
+21.05. 18:00	
+Åsane
+Kongsvinger
+ 
+21.05. 18:00	
+Ham-Kam
+Floro
+ 
+21.05. 18:00	
+Levanger
+Jerv
+ 
+21.05. 18:00	
+Nest-Sotra
+Sogndal
+ 
+21.05. 18:00	
+Sandnes
+Tromsdalen
+ 
+21.05. 18:00	
+Strømmen
+Mjondalen
+ 
+21.05. 18:00	
+Ull/Kisa
+Notodden
+ 
+22.05. 19:00	
+Viking
+Aalesund
+ 
+Round 10
+27.05. 18:00	
+Aalesund
+Ham-Kam
+ 
+27.05. 18:00	
+Floro
+Levanger
+ 
+27.05. 18:00	
+Jerv
+Viking
+ 
+27.05. 18:00	
+Mjondalen
+Sandnes
+ 
+27.05. 18:00	
+Notodden
+Åsane
+ 
+27.05. 18:00	
+Sogndal
+Strømmen
+ 
+27.05. 18:00	
+Tromsdalen
+Nest-Sotra
+ 
+29.05. 19:00	
+Kongsvinger
+Ull/Kisa
+ 
+Round 11
+02.06. 18:00	
+Sandnes
+Kongsvinger
+ 
+03.06. 15:00	
+Viking
+Floro
+ 
+03.06. 18:00	
+Åsane
+Mjondalen
+ 
+03.06. 18:00	
+Ham-Kam
+Jerv
+ 
+03.06. 18:00	
+Levanger
+Sogndal
+ 
+03.06. 18:00	
+Nest-Sotra
+Aalesund
+ 
+03.06. 18:00	
+Strømmen
+Notodden
+ 
+03.06. 18:00	
+Ull/Kisa
+Tromsdalen
+ 
+Round 1
+06.06. 19:00	
+Tromsdalen
+Jerv
+ 
+Round 12
+09.06. 15:30	
+Sogndal
+Viking
+ 
+10.06. 18:00	
+Aalesund
+Ull/Kisa
+ 
+10.06. 18:00	
+Floro
+Strømmen
+ 
+10.06. 18:00	
+Jerv
+Nest-Sotra
+ 
+10.06. 18:00	
+Kongsvinger
+Levanger
+ 
+10.06. 18:00	
+Mjondalen
+Ham-Kam
+ 
+10.06. 18:00	
+Notodden
+Sandnes
+ 
+10.06. 18:00	
+Tromsdalen
+Åsane
+ 
+Round 13
+16.06. 18:00	
+Åsane
+Ull/Kisa
+ 
+16.06. 18:00	
+Floro
+Jerv
+ 
+16.06. 18:00	
+Ham-Kam
+Sogndal
+ 
+16.06. 18:00	
+Levanger
+Mjondalen
+ 
+16.06. 18:00	
+Notodden
+Kongsvinger
+ 
+16.06. 18:00	
+Sandnes
+Aalesund
+ 
+16.06. 18:00	
+Strømmen
+Tromsdalen
+ 
+16.06. 19:00	
+Nest-Sotra
+Viking
+ 
+Round 14
+24.06. 15:00	
+Viking
+Ham-Kam
+ 
+24.06. 18:00	
+Aalesund
+Notodden
+ 
+24.06. 18:00	
+Åsane
+Levanger
+ 
+24.06. 18:00	
+Kongsvinger
+Strømmen
+ 
+24.06. 18:00	
+Sogndal
+Jerv
+ 
+24.06. 18:00	
+Tromsdalen
+Floro
+ 
+24.06. 18:00	
+Ull/Kisa
+Sandnes
+ 
+26.06. 19:00	
+Mjondalen
+Nest-Sotra
+ 
+Round 15
+01.07. 15:00	
+Strømmen
+Viking
+ 
+01.07. 18:00	
+Floro
+Sogndal
+ 
+01.07. 18:00	
+Ham-Kam
+Tromsdalen
+ 
+01.07. 18:00	
+Levanger
+Ull/Kisa
+ 
+01.07. 18:00	
+Nest-Sotra
+Kongsvinger
+ 
+01.07. 18:00	
+Sandnes
+Åsane
+ 
+03.07. 19:00	
+Notodden
+Mjondalen
+ 
+Round 16
+22.07. 18:00	
+Aalesund
+Sandnes
+ 
+22.07. 18:00	
+Åsane
+Notodden
+ 
+22.07. 18:00	
+Kongsvinger
+Floro
+ 
+22.07. 18:00	
+Mjondalen
+Levanger
+ 
+22.07. 18:00	
+Sogndal
+Ham-Kam
+ 
+22.07. 18:00	
+Tromsdalen
+Strømmen
+ 
+22.07. 18:00	
+Ull/Kisa
+Nest-Sotra
+ 
+22.07. 18:00	
+Viking
+Jerv
+ 
+Round 17
+29.07. 18:00	
+Floro
+Tromsdalen
+ 
+29.07. 18:00	
+Ham-Kam
+Viking
+ 
+29.07. 18:00	
+Jerv
+Sogndal
+ 
+29.07. 18:00	
+Levanger
+Åsane
+ 
+29.07. 18:00	
+Nest-Sotra
+Mjondalen
+ 
+29.07. 18:00	
+Notodden
+Aalesund
+ 
+29.07. 18:00	
+Sandnes
+Ull/Kisa
+ 
+29.07. 18:00	
+Strømmen
+Kongsvinger
+ 
+Round 18
+05.08. 18:00	
+Aalesund
+Åsane
+ 
+05.08. 18:00	
+Jerv
+Ham-Kam
+ 
+05.08. 18:00	
+Kongsvinger
+Sandnes
+ 
+05.08. 18:00	
+Mjondalen
+Strømmen
+ 
+05.08. 18:00	
+Sogndal
+Levanger
+ 
+05.08. 18:00	
+Tromsdalen
+Notodden
+ 
+05.08. 18:00	
+Ull/Kisa
+Floro
+ 
+05.08. 18:00	
+Viking
+Nest-Sotra
+ 
+Round 19
+12.08. 18:00	
+Åsane
+Viking
+ 
+12.08. 18:00	
+Floro
+Aalesund
+ 
+12.08. 18:00	
+Ham-Kam
+Kongsvinger
+ 
+12.08. 18:00	
+Levanger
+Tromsdalen
+ 
+12.08. 18:00	
+Nest-Sotra
+Jerv
+ 
+12.08. 18:00	
+Notodden
+Ull/Kisa
+ 
+12.08. 18:00	
+Sandnes
+Mjondalen
+ 
+12.08. 18:00	
+Strømmen
+Sogndal
+ 
+Round 20
+19.08. 18:00	
+Jerv
+Sandnes
+ 
+19.08. 18:00	
+Kongsvinger
+Notodden
+ 
+19.08. 18:00	
+Mjondalen
+Åsane
+ 
+19.08. 18:00	
+Nest-Sotra
+Ham-Kam
+ 
+19.08. 18:00	
+Sogndal
+Floro
+ 
+19.08. 18:00	
+Tromsdalen
+Aalesund
+ 
+19.08. 18:00	
+Ull/Kisa
+Levanger
+ 
+19.08. 18:00	
+Viking
+Strømmen
+ 
+Round 21
+25.08. 15:30	
+Sandnes
+Viking
+ 
+26.08. 18:00	
+Aalesund
+Nest-Sotra
+ 
+26.08. 18:00	
+Åsane
+Tromsdalen
+ 
+26.08. 18:00	
+Floro
+Ham-Kam
+ 
+26.08. 18:00	
+Levanger
+Kongsvinger
+ 
+26.08. 18:00	
+Notodden
+Jerv
+ 
+26.08. 18:00	
+Sogndal
+Mjondalen
+ 
+26.08. 18:00	
+Strømmen
+Ull/Kisa
+ 
+Round 15
+29.08. 19:00	
+Jerv
+Aalesund
+ 
+Round 22
+02.09. 18:00	
+Ham-Kam
+Åsane
+ 
+02.09. 18:00	
+Jerv
+Floro
+ 
+02.09. 18:00	
+Kongsvinger
+Sogndal
+ 
+02.09. 18:00	
+Mjondalen
+Notodden
+ 
+02.09. 18:00	
+Nest-Sotra
+Strømmen
+ 
+02.09. 18:00	
+Tromsdalen
+Sandnes
+ 
+02.09. 18:00	
+Ull/Kisa
+Aalesund
+ 
+02.09. 18:00	
+Viking
+Levanger
+ 
+Round 23
+16.09. 15:00	
+Strømmen
+Ham-Kam
+ 
+16.09. 16:00	
+Tromsdalen
+Mjondalen
+ 
+16.09. 18:00	
+Aalesund
+Kongsvinger
+ 
+16.09. 18:00	
+Åsane
+Jerv
+ 
+16.09. 18:00	
+Floro
+Sandnes
+ 
+16.09. 18:00	
+Levanger
+Nest-Sotra
+ 
+16.09. 18:00	
+Notodden
+Viking
+ 
+16.09. 18:00	
+Sogndal
+Ull/Kisa
+ 
+Round 24
+23.09. 18:00	
+Ham-Kam
+Levanger
+ 
+23.09. 18:00	
+Jerv
+Strømmen
+ 
+23.09. 18:00	
+Kongsvinger
+Tromsdalen
+ 
+23.09. 18:00	
+Mjondalen
+Aalesund
+ 
+23.09. 18:00	
+Nest-Sotra
+Floro
+ 
+23.09. 18:00	
+Sandnes
+Notodden
+ 
+23.09. 18:00	
+Ull/Kisa
+Åsane
+ 
+23.09. 18:00	
+Viking
+Sogndal
+ 
+Round 25
+30.09. 15:00	
+Tromsdalen
+Ull/Kisa
+ 
+30.09. 18:00	
+Aalesund
+Jerv
+ 
+30.09. 18:00	
+Åsane
+Sandnes
+ 
+30.09. 18:00	
+Floro
+Viking
+ 
+30.09. 18:00	
+Levanger
+Strømmen
+ 
+30.09. 18:00	
+Mjondalen
+Kongsvinger
+ 
+30.09. 18:00	
+Notodden
+Ham-Kam
+ 
+30.09. 18:00	
+Sogndal
+Nest-Sotra
+ 
+Round 26
+07.10. 15:00	
+Nest-Sotra
+Notodden
+ 
+07.10. 15:00	
+Strømmen
+Floro
+ 
+07.10. 18:00	
+Ham-Kam
+Aalesund
+ 
+07.10. 18:00	
+Jerv
+Levanger
+ 
+07.10. 18:00	
+Kongsvinger
+Åsane
+ 
+07.10. 18:00	
+Sandnes
+Sogndal
+ 
+07.10. 18:00	
+Ull/Kisa
+Mjondalen
+ 
+07.10. 18:00	
+Viking
+Tromsdalen
+ 
+Round 27
+21.10. 13:00	
+Tromsdalen
+Ham-Kam
+ 
+21.10. 18:00	
+Aalesund
+Viking
+ 
+21.10. 18:00	
+Åsane
+Sogndal
+ 
+21.10. 18:00	
+Levanger
+Floro
+ 
+21.10. 18:00	
+Mjondalen
+Jerv
+ 
+21.10. 18:00	
+Notodden
+Strømmen
+ 
+21.10. 18:00	
+Sandnes
+Nest-Sotra
+ 
+21.10. 18:00	
+Ull/Kisa
+Kongsvinger
+ 
+Round 28
+28.10. 14:00	
+Strømmen
+Sandnes
+ 
+28.10. 15:00	
+Floro
+Åsane
+ 
+28.10. 19:00	
+Ham-Kam
+Mjondalen
+ 
+28.10. 19:00	
+Jerv
+Kongsvinger
+ 
+28.10. 19:00	
+Levanger
+Notodden
+ 
+28.10. 19:00	
+Nest-Sotra
+Tromsdalen
+ 
+28.10. 19:00	
+Sogndal
+Aalesund
+ 
+28.10. 19:00	
+Viking
+Ull/Kisa
+ 
+Round 29
+04.11. 19:00	
+Aalesund
+Levanger
+ 
+04.11. 19:00	
+Åsane
+Strømmen
+ 
+04.11. 19:00	
+Kongsvinger
+Nest-Sotra
+ 
+04.11. 19:00	
+Mjondalen
+Viking
+ 
+04.11. 19:00	
+Notodden
+Floro
+ 
+04.11. 19:00	
+Sandnes
+Ham-Kam
+ 
+04.11. 19:00	
+Tromsdalen
+Sogndal
+ 
+04.11. 19:00	
+Ull/Kisa
+Jerv
+ 
+Round 30
+11.11. 19:00	
+Floro
+Mjondalen
+ 
+11.11. 19:00	
+Ham-Kam
+Ull/Kisa
+ 
+11.11. 19:00	
+Jerv
+Tromsdalen
+ 
+11.11. 19:00	
+Levanger
+Sandnes
+ 
+11.11. 19:00	
+Nest-Sotra
+Åsane
+ 
+11.11. 19:00	
+Sogndal
+Notodden
+ 
+11.11. 19:00	
+Strømmen
+Aalesund
+ 
+11.11. 19:00	
+Viking
+Kongsvinger

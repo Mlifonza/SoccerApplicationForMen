@@ -1,0 +1,1524 @@
+ USA: USL
+31.05. 01:00	
+Indy Eleven
+Charleston
+31.05. 01:00	
+Ottawa Fury
+Toronto FC 2
+31.05. 01:00	
+Pittsburgh
+Nashville SC
+31.05. 02:30	
+Saint Louis FC
+Phoenix Rising
+02.06. 19:00	
+New York Red Bulls 2
+Cincinnati
+ 
+03.06. 01:00	
+North Carolina
+Bethlehem
+ 
+03.06. 01:00	
+Ottawa Fury
+Charlotte Independ.
+ 
+03.06. 01:00	
+Richmond Kickers
+Pittsburgh
+ 
+03.06. 01:30	
+Tampa Bay
+Atlanta United 2
+ 
+03.06. 02:30	
+Nashville SC
+Penn
+ 
+03.06. 02:30	
+Oklahoma City Energy
+Reno
+ 
+03.06. 02:30	
+Saint Louis FC
+Swope Park
+ 
+03.06. 02:30	
+San Antonio
+Portland 2
+ 
+03.06. 04:00	
+Fresno
+Seattle 2
+ 
+03.06. 04:30	
+LA Galaxy 2
+Tulsa Roughnecks
+ 
+03.06. 05:00	
+Las Vegas Lights
+Colorado Springs
+ 
+03.06. 05:00	
+Sacramento Republic
+Orange County SC
+ 
+05.06. 03:00	
+Real Monarchs
+Rio Grande
+ 
+09.06. 23:00	
+Bethlehem
+Louisville City
+ 
+10.06. 01:00	
+Indy Eleven
+Atlanta United 2
+ 
+10.06. 01:00	
+New York Red Bulls 2
+Charlotte Independ.
+ 
+10.06. 01:00	
+North Carolina
+Cincinnati
+ 
+10.06. 01:00	
+Penn
+Toronto FC 2
+ 
+10.06. 01:00	
+Richmond Kickers
+Charleston
+ 
+10.06. 01:30	
+Tampa Bay
+Nashville SC
+ 
+10.06. 02:00	
+Colorado Springs
+Swope Park
+ 
+10.06. 02:30	
+Rio Grande
+Portland 2
+ 
+10.06. 02:30	
+Tulsa Roughnecks
+Saint Louis FC
+ 
+10.06. 04:30	
+Reno
+Fresno
+ 
+10.06. 05:00	
+Sacramento Republic
+Phoenix Rising
+ 
+10.06. 22:30	
+Seattle 2
+Oklahoma City Energy
+ 
+11.06. 02:30	
+LA Galaxy 2
+Orange County SC
+ 
+13.06. 01:00	
+Penn
+Richmond Kickers
+ 
+14.06. 01:00	
+Atlanta United 2
+Charlotte Independ.
+ 
+14.06. 01:00	
+North Carolina
+Ottawa Fury
+ 
+14.06. 01:30	
+Cincinnati
+Bethlehem
+ 
+14.06. 02:30	
+Swope Park
+Real Monarchs
+ 
+14.06. 04:00	
+Fresno
+Sacramento Republic
+ 
+14.06. 04:00	
+Portland 2
+Oklahoma City Energy
+ 
+14.06. 04:30	
+Phoenix Rising
+Las Vegas Lights
+ 
+17.06. 01:00	
+Atlanta United 2
+Ottawa Fury
+ 
+17.06. 01:00	
+Pittsburgh
+New York Red Bulls 2
+ 
+17.06. 01:00	
+Toronto FC 2
+Indy Eleven
+ 
+17.06. 01:30	
+Charlotte Independ.
+Charleston
+ 
+17.06. 01:30	
+Cincinnati
+Richmond Kickers
+ 
+17.06. 01:30	
+Louisville City
+Penn
+ 
+17.06. 02:30	
+Nashville SC
+North Carolina
+ 
+17.06. 02:30	
+Oklahoma City Energy
+Rio Grande
+ 
+17.06. 02:30	
+Saint Louis FC
+Real Monarchs
+ 
+17.06. 02:30	
+San Antonio
+Sacramento Republic
+ 
+17.06. 03:00	
+Orange County SC
+Reno
+ 
+17.06. 04:30	
+Phoenix Rising
+Tulsa Roughnecks
+ 
+17.06. 05:00	
+Las Vegas Lights
+Seattle 2
+ 
+17.06. 23:00	
+Portland 2
+Colorado Springs
+ 
+18.06. 03:00	
+Fresno
+Swope Park
+ 
+20.06. 23:00	
+Bethlehem
+New York Red Bulls 2
+ 
+23.06. 01:30	
+Tampa Bay
+Penn
+ 
+24.06. 01:00	
+Charleston
+Pittsburgh
+ 
+24.06. 01:00	
+North Carolina
+Louisville City
+ 
+24.06. 01:00	
+Richmond Kickers
+Charlotte Independ.
+ 
+24.06. 02:30	
+Oklahoma City Energy
+LA Galaxy 2
+ 
+24.06. 02:30	
+Rio Grande
+Phoenix Rising
+ 
+24.06. 02:30	
+San Antonio
+Reno
+ 
+24.06. 03:00	
+Colorado Springs
+Fresno
+ 
+24.06. 04:00	
+Orange County SC
+Tulsa Roughnecks
+ 
+24.06. 05:00	
+Sacramento Republic
+Saint Louis FC
+ 
+24.06. 23:00	
+New York Red Bulls 2
+Ottawa Fury
+ 
+24.06. 23:00	
+Swope Park
+Las Vegas Lights
+ 
+27.06. 02:30	
+Nashville SC
+Indy Eleven
+ 
+27.06. 03:00	
+Real Monarchs
+Fresno
+ 
+28.06. 01:00	
+Louisville City
+Pittsburgh
+ 
+28.06. 01:30	
+Charlotte Independ.
+Tampa Bay
+ 
+28.06. 02:00	
+Toronto FC 2
+Cincinnati
+ 
+28.06. 02:30	
+Tulsa Roughnecks
+LA Galaxy 2
+ 
+30.06. 04:30	
+Phoenix Rising
+Orange County SC
+ 
+30.06. 23:00	
+Bethlehem
+Charlotte Independ.
+ 
+01.07. 01:00	
+Indy Eleven
+Penn
+ 
+01.07. 01:00	
+Richmond Kickers
+North Carolina
+ 
+01.07. 01:30	
+Cincinnati
+Ottawa Fury
+ 
+01.07. 01:30	
+Louisville City
+New York Red Bulls 2
+ 
+01.07. 02:00	
+Colorado Springs
+San Antonio
+ 
+01.07. 02:30	
+Nashville SC
+Atlanta United 2
+ 
+01.07. 02:30	
+Saint Louis FC
+Rio Grande
+ 
+01.07. 02:30	
+Tulsa Roughnecks
+Las Vegas Lights
+ 
+01.07. 04:00	
+Fresno
+Sacramento Republic
+ 
+01.07. 04:30	
+Reno
+Portland 2
+ 
+02.07. 02:00	
+Toronto FC 2
+Charleston
+ 
+02.07. 02:30	
+LA Galaxy 2
+Seattle 2
+ 
+04.07. 03:00	
+Colorado Springs
+Orange County SC
+ 
+04.07. 04:30	
+Reno
+Real Monarchs
+ 
+05.07. 00:00	
+Tampa Bay
+Toronto FC 2
+ 
+05.07. 01:00	
+Indy Eleven
+Ottawa Fury
+ 
+05.07. 01:00	
+Pittsburgh
+North Carolina
+ 
+05.07. 02:30	
+San Antonio
+Oklahoma City Energy
+ 
+06.07. 04:00	
+Seattle 2
+Swope Park
+ 
+07.07. 01:00	
+New York Red Bulls 2
+Atlanta United 2
+ 
+07.07. 01:00	
+Penn
+Bethlehem
+ 
+08.07. 01:00	
+Indy Eleven
+Charlotte Independ.
+ 
+08.07. 01:00	
+North Carolina
+Charleston
+ 
+08.07. 01:30	
+Tampa Bay
+Louisville City
+ 
+08.07. 02:30	
+Nashville SC
+Cincinnati
+ 
+08.07. 02:30	
+Oklahoma City Energy
+Colorado Springs
+ 
+08.07. 02:30	
+Rio Grande
+Tulsa Roughnecks
+ 
+08.07. 04:00	
+Orange County SC
+LA Galaxy 2
+ 
+08.07. 05:00	
+Las Vegas Lights
+Saint Louis FC
+ 
+08.07. 05:00	
+Sacramento Republic
+Real Monarchs
+ 
+08.07. 19:00	
+Ottawa Fury
+Pittsburgh
+ 
+08.07. 22:30	
+Seattle 2
+Reno
+ 
+08.07. 23:00	
+Portland 2
+Fresno
+ 
+10.07. 01:00	
+Penn
+Richmond Kickers
+ 
+11.07. 02:30	
+Swope Park
+Sacramento Republic
+ 
+12.07. 01:00	
+Atlanta United 2
+Bethlehem
+ 
+12.07. 01:00	
+Charleston
+Indy Eleven
+ 
+12.07. 01:30	
+Charlotte Independ.
+Nashville SC
+ 
+12.07. 02:30	
+Oklahoma City Energy
+Las Vegas Lights
+ 
+12.07. 04:30	
+LA Galaxy 2
+Reno
+ 
+14.07. 01:00	
+New York Red Bulls 2
+Richmond Kickers
+ 
+14.07. 20:00	
+Ottawa Fury
+Penn
+ 
+14.07. 23:00	
+Bethlehem
+North Carolina
+ 
+15.07. 01:00	
+Charleston
+Louisville City
+ 
+15.07. 01:30	
+Cincinnati
+Tampa Bay
+ 
+15.07. 02:00	
+Colorado Springs
+Sacramento Republic
+ 
+15.07. 02:30	
+Rio Grande
+Las Vegas Lights
+ 
+15.07. 02:30	
+Saint Louis FC
+Tulsa Roughnecks
+ 
+15.07. 04:00	
+Fresno
+Phoenix Rising
+ 
+15.07. 04:00	
+Orange County SC
+San Antonio
+ 
+15.07. 04:00	
+Portland 2
+Swope Park
+ 
+15.07. 04:00	
+Real Monarchs
+Seattle 2
+ 
+19.07. 01:00	
+Louisville City
+Toronto FC 2
+ 
+19.07. 01:00	
+New York Red Bulls 2
+Bethlehem
+ 
+19.07. 01:30	
+Cincinnati
+Charlotte Independ.
+ 
+19.07. 02:30	
+Swope Park
+Orange County SC
+ 
+21.07. 05:00	
+Phoenix Rising
+Seattle 2
+ 
+22.07. 01:00	
+North Carolina
+Toronto FC 2
+ 
+22.07. 01:00	
+Ottawa Fury
+Nashville SC
+ 
+22.07. 01:00	
+Pittsburgh
+Charleston
+ 
+22.07. 01:00	
+Richmond Kickers
+Atlanta United 2
+ 
+22.07. 01:30	
+Cincinnati
+New York Red Bulls 2
+ 
+22.07. 01:30	
+Louisville City
+Charlotte Independ.
+ 
+22.07. 01:30	
+Tampa Bay
+Indy Eleven
+ 
+22.07. 02:00	
+Colorado Springs
+Tulsa Roughnecks
+ 
+22.07. 02:30	
+Saint Louis FC
+Orange County SC
+ 
+22.07. 02:30	
+San Antonio
+Real Monarchs
+ 
+22.07. 05:00	
+Sacramento Republic
+Oklahoma City Energy
+ 
+22.07. 23:00	
+Portland 2
+Las Vegas Lights
+ 
+22.07. 23:00	
+Swope Park
+Rio Grande
+ 
+26.07. 02:30	
+Nashville SC
+Atlanta United 2
+ 
+26.07. 02:30	
+Oklahoma City Energy
+Fresno
+ 
+26.07. 03:00	
+San Antonio
+Colorado Springs
+ 
+26.07. 17:30	
+Bethlehem
+Indy Eleven
+ 
+27.07. 04:00	
+Seattle 2
+Las Vegas Lights
+ 
+28.07. 20:00	
+Ottawa Fury
+Louisville City
+ 
+28.07. 22:00	
+LA Galaxy 2
+Portland 2
+ 
+29.07. 00:00	
+Toronto FC 2
+Nashville SC
+ 
+29.07. 01:00	
+Charleston
+Richmond Kickers
+ 
+29.07. 01:00	
+North Carolina
+Pittsburgh
+ 
+29.07. 01:30	
+Charlotte Independ.
+Penn
+ 
+29.07. 01:30	
+Tampa Bay
+New York Red Bulls 2
+ 
+29.07. 02:30	
+Oklahoma City Energy
+San Antonio
+ 
+29.07. 02:30	
+Rio Grande
+Colorado Springs
+ 
+29.07. 02:30	
+Tulsa Roughnecks
+Fresno
+ 
+29.07. 04:00	
+Real Monarchs
+Phoenix Rising
+ 
+29.07. 04:30	
+Reno
+Saint Louis FC
+ 
+29.07. 23:00	
+Bethlehem
+Atlanta United 2
+ 
+01.08. 21:30	
+Orange County SC
+Portland 2
+ 
+02.08. 01:00	
+Pittsburgh
+Richmond Kickers
+ 
+02.08. 04:30	
+LA Galaxy 2
+Swope Park
+ 
+04.08. 01:00	
+New York Red Bulls 2
+Penn
+ 
+04.08. 01:00	
+Ottawa Fury
+Tampa Bay
+ 
+05.08. 01:00	
+North Carolina
+Charleston
+ 
+05.08. 01:00	
+Pittsburgh
+Toronto FC 2
+ 
+05.08. 01:00	
+Richmond Kickers
+Bethlehem
+ 
+05.08. 01:30	
+Cincinnati
+Nashville SC
+ 
+05.08. 02:00	
+Colorado Springs
+Oklahoma City Energy
+ 
+05.08. 02:30	
+Saint Louis FC
+Seattle 2
+ 
+05.08. 02:30	
+San Antonio
+LA Galaxy 2
+ 
+05.08. 04:00	
+Orange County SC
+Swope Park
+ 
+05.08. 05:00	
+Las Vegas Lights
+Rio Grande
+ 
+05.08. 05:00	
+Sacramento Republic
+Fresno
+ 
+05.08. 23:00	
+Louisville City
+Indy Eleven
+ 
+05.08. 23:00	
+Portland 2
+Phoenix Rising
+ 
+09.08. 01:30	
+Charlotte Independ.
+Bethlehem
+ 
+09.08. 01:30	
+Tampa Bay
+Charleston
+ 
+09.08. 02:30	
+Tulsa Roughnecks
+Oklahoma City Energy
+ 
+09.08. 04:00	
+Real Monarchs
+Reno
+ 
+10.08. 04:30	
+LA Galaxy 2
+Fresno
+ 
+11.08. 01:00	
+New York Red Bulls 2
+Louisville City
+ 
+11.08. 02:30	
+Nashville SC
+Ottawa Fury
+ 
+12.08. 01:00	
+Charleston
+Atlanta United 2
+ 
+12.08. 01:30	
+Tampa Bay
+North Carolina
+ 
+12.08. 02:30	
+Oklahoma City Energy
+Real Monarchs
+ 
+12.08. 02:30	
+Saint Louis FC
+Las Vegas Lights
+ 
+12.08. 02:30	
+Swope Park
+Portland 2
+ 
+12.08. 02:30	
+Tulsa Roughnecks
+Colorado Springs
+ 
+12.08. 04:00	
+Seattle 2
+San Antonio
+ 
+12.08. 04:30	
+Phoenix Rising
+Orange County SC
+ 
+12.08. 05:00	
+Sacramento Republic
+Rio Grande
+ 
+12.08. 23:00	
+Bethlehem
+Pittsburgh
+ 
+13.08. 00:00	
+Cincinnati
+Penn
+ 
+13.08. 01:30	
+Toronto FC 2
+Richmond Kickers
+ 
+15.08. 21:30	
+Orange County SC
+Las Vegas Lights
+ 
+16.08. 01:00	
+Indy Eleven
+North Carolina
+ 
+16.08. 01:00	
+Ottawa Fury
+Richmond Kickers
+ 
+16.08. 02:30	
+Saint Louis FC
+Sacramento Republic
+ 
+16.08. 04:30	
+Portland 2
+San Antonio
+ 
+17.08. 01:00	
+Toronto FC 2
+Bethlehem
+ 
+18.08. 20:00	
+Ottawa Fury
+Indy Eleven
+ 
+19.08. 01:00	
+Pittsburgh
+Charlotte Independ.
+ 
+19.08. 01:00	
+Richmond Kickers
+Penn
+ 
+19.08. 01:30	
+Cincinnati
+Charleston
+ 
+19.08. 01:30	
+Louisville City
+Nashville SC
+ 
+19.08. 02:30	
+Rio Grande
+Oklahoma City Energy
+ 
+19.08. 04:00	
+Fresno
+Saint Louis FC
+ 
+19.08. 04:00	
+Real Monarchs
+Tulsa Roughnecks
+ 
+19.08. 05:00	
+Las Vegas Lights
+Phoenix Rising
+ 
+19.08. 05:00	
+Sacramento Republic
+LA Galaxy 2
+ 
+19.08. 23:00	
+Portland 2
+Seattle 2
+ 
+19.08. 23:00	
+Swope Park
+Reno
+ 
+22.08. 01:00	
+New York Red Bulls 2
+North Carolina
+ 
+22.08. 23:00	
+Bethlehem
+Ottawa Fury
+ 
+23.08. 01:00	
+Atlanta United 2
+Cincinnati
+ 
+23.08. 01:00	
+Indy Eleven
+Toronto FC 2
+ 
+23.08. 01:00	
+Pittsburgh
+Tampa Bay
+ 
+23.08. 01:30	
+Charlotte Independ.
+Louisville City
+ 
+23.08. 04:00	
+Phoenix Rising
+San Antonio
+ 
+23.08. 04:00	
+Portland 2
+Orange County SC
+ 
+23.08. 04:30	
+LA Galaxy 2
+Rio Grande
+ 
+26.08. 01:00	
+Atlanta United 2
+Indy Eleven
+ 
+26.08. 01:00	
+Charleston
+New York Red Bulls 2
+ 
+26.08. 01:00	
+North Carolina
+Charlotte Independ.
+ 
+26.08. 01:00	
+Ottawa Fury
+Penn
+ 
+26.08. 01:00	
+Richmond Kickers
+Louisville City
+ 
+26.08. 01:30	
+Tampa Bay
+Cincinnati
+ 
+26.08. 02:30	
+Nashville SC
+Bethlehem
+ 
+26.08. 02:30	
+Oklahoma City Energy
+Seattle 2
+ 
+26.08. 02:30	
+Saint Louis FC
+Tulsa Roughnecks
+ 
+26.08. 02:30	
+San Antonio
+Swope Park
+ 
+26.08. 04:00	
+Orange County SC
+Rio Grande
+ 
+26.08. 04:00	
+Real Monarchs
+LA Galaxy 2
+ 
+26.08. 04:30	
+Phoenix Rising
+Colorado Springs
+ 
+26.08. 04:30	
+Reno
+Sacramento Republic
+ 
+26.08. 05:00	
+Las Vegas Lights
+Fresno
+ 
+29.08. 02:30	
+Nashville SC
+Richmond Kickers
+ 
+29.08. 04:30	
+Reno
+Las Vegas Lights
+ 
+30.08. 01:00	
+Indy Eleven
+Pittsburgh
+ 
+30.08. 02:00	
+Rio Grande
+San Antonio
+ 
+30.08. 02:30	
+Swope Park
+Tulsa Roughnecks
+ 
+30.08. 03:00	
+Colorado Springs
+Real Monarchs
+ 
+30.08. 04:00	
+Seattle 2
+Saint Louis FC
+ 
+01.09. 01:00	
+New York Red Bulls 2
+Ottawa Fury
+ 
+01.09. 01:30	
+Louisville City
+Charleston
+ 
+01.09. 02:00	
+Toronto FC 2
+Atlanta United 2
+ 
+02.09. 01:00	
+Indy Eleven
+Richmond Kickers
+ 
+02.09. 01:00	
+North Carolina
+Tampa Bay
+ 
+02.09. 01:30	
+Charlotte Independ.
+Nashville SC
+ 
+02.09. 01:30	
+Cincinnati
+Pittsburgh
+ 
+02.09. 04:00	
+Fresno
+Reno
+ 
+02.09. 04:00	
+Portland 2
+Saint Louis FC
+ 
+02.09. 04:30	
+LA Galaxy 2
+Colorado Springs
+ 
+02.09. 21:00	
+Bethlehem
+Penn
+ 
+02.09. 22:30	
+Seattle 2
+Orange County SC
+ 
+02.09. 23:00	
+Swope Park
+Oklahoma City Energy
+ 
+04.09. 03:00	
+Real Monarchs
+San Antonio
+ 
+06.09. 01:00	
+Indy Eleven
+New York Red Bulls 2
+ 
+06.09. 04:00	
+Phoenix Rising
+Rio Grande
+ 
+06.09. 04:00	
+Seattle 2
+Tulsa Roughnecks
+ 
+07.09. 02:00	
+Toronto FC 2
+Ottawa Fury
+ 
+08.09. 23:00	
+North Carolina
+Nashville SC
+ 
+09.09. 01:00	
+Charleston
+Tampa Bay
+ 
+09.09. 01:00	
+Charlotte Independ.
+Richmond Kickers
+ 
+09.09. 01:00	
+Penn
+Atlanta United 2
+ 
+09.09. 01:00	
+Pittsburgh
+Bethlehem
+ 
+09.09. 01:30	
+Louisville City
+Cincinnati
+ 
+09.09. 02:30	
+Rio Grande
+Real Monarchs
+ 
+09.09. 02:30	
+Saint Louis FC
+Reno
+ 
+09.09. 02:30	
+San Antonio
+Phoenix Rising
+ 
+09.09. 04:00	
+Orange County SC
+Oklahoma City Energy
+ 
+09.09. 04:30	
+Sacramento Republic
+Seattle 2
+ 
+09.09. 05:00	
+Las Vegas Lights
+LA Galaxy 2
+ 
+09.09. 23:00	
+Portland 2
+Tulsa Roughnecks
+ 
+09.09. 23:00	
+Swope Park
+Fresno
+ 
+12.09. 20:00	
+Real Monarchs
+Saint Louis FC
+ 
+13.09. 00:30	
+Penn
+Indy Eleven
+ 
+13.09. 04:30	
+LA Galaxy 2
+Oklahoma City Energy
+ 
+14.09. 01:00	
+New York Red Bulls 2
+Toronto FC 2
+ 
+16.09. 01:00	
+Charleston
+Charlotte Independ.
+ 
+16.09. 01:00	
+Pittsburgh
+Louisville City
+ 
+16.09. 01:00	
+Richmond Kickers
+Ottawa Fury
+ 
+16.09. 01:30	
+Tampa Bay
+Atlanta United 2
+ 
+16.09. 02:00	
+Colorado Springs
+Rio Grande
+ 
+16.09. 02:00	
+Tulsa Roughnecks
+San Antonio
+ 
+16.09. 02:30	
+Swope Park
+Saint Louis FC
+ 
+16.09. 04:00	
+Reno
+LA Galaxy 2
+ 
+16.09. 04:00	
+Seattle 2
+Phoenix Rising
+ 
+16.09. 22:30	
+Cincinnati
+Toronto FC 2
+ 
+17.09. 00:00	
+Penn
+North Carolina
+ 
+17.09. 03:00	
+Fresno
+Orange County SC
+ 
+17.09. 05:00	
+Las Vegas Lights
+Portland 2
+ 
+19.09. 02:30	
+Nashville SC
+Tampa Bay
+ 
+20.09. 00:30	
+Penn
+Louisville City
+ 
+20.09. 02:00	
+Tulsa Roughnecks
+Sacramento Republic
+ 
+20.09. 02:30	
+Swope Park
+San Antonio
+ 
+20.09. 04:00	
+Orange County SC
+Real Monarchs
+ 
+22.09. 01:00	
+Atlanta United 2
+North Carolina
+ 
+22.09. 21:00	
+Bethlehem
+Toronto FC 2
+ 
+23.09. 01:00	
+Charlotte Independ.
+New York Red Bulls 2
+ 
+23.09. 01:00	
+Penn
+Cincinnati
+ 
+23.09. 01:00	
+Pittsburgh
+Indy Eleven
+ 
+23.09. 01:30	
+Louisville City
+Ottawa Fury
+ 
+23.09. 01:30	
+Tampa Bay
+Richmond Kickers
+ 
+23.09. 02:00	
+Colorado Springs
+Phoenix Rising
+ 
+23.09. 02:00	
+Tulsa Roughnecks
+Swope Park
+ 
+23.09. 02:30	
+Nashville SC
+Charleston
+ 
+23.09. 02:30	
+Rio Grande
+Seattle 2
+ 
+23.09. 02:30	
+Saint Louis FC
+San Antonio
+ 
+23.09. 04:00	
+Fresno
+Portland 2
+ 
+23.09. 04:00	
+Reno
+Las Vegas Lights
+ 
+23.09. 04:30	
+LA Galaxy 2
+Real Monarchs
+ 
+24.09. 01:00	
+Oklahoma City Energy
+Sacramento Republic
+ 
+27.09. 00:00	
+Toronto FC 2
+Ottawa Fury
+ 
+27.09. 00:30	
+Penn
+Pittsburgh
+ 
+27.09. 01:00	
+Atlanta United 2
+Nashville SC
+ 
+27.09. 01:00	
+Charleston
+North Carolina
+ 
+27.09. 01:00	
+Indy Eleven
+Tampa Bay
+ 
+27.09. 01:00	
+Richmond Kickers
+Cincinnati
+ 
+27.09. 04:00	
+Reno
+Rio Grande
+ 
+27.09. 05:00	
+Las Vegas Lights
+Orange County SC
+ 
+30.09. 01:00	
+Atlanta United 2
+Louisville City
+ 
+30.09. 01:00	
+Charleston
+Toronto FC 2
+ 
+30.09. 01:00	
+Charlotte Independ.
+Pittsburgh
+ 
+30.09. 01:00	
+North Carolina
+Richmond Kickers
+ 
+30.09. 01:30	
+Cincinnati
+Indy Eleven
+ 
+30.09. 02:30	
+Nashville SC
+New York Red Bulls 2
+ 
+30.09. 02:30	
+Rio Grande
+Fresno
+ 
+30.09. 02:30	
+San Antonio
+Seattle 2
+ 
+30.09. 03:00	
+Real Monarchs
+Colorado Springs
+ 
+30.09. 04:00	
+Phoenix Rising
+Saint Louis FC
+ 
+30.09. 04:00	
+Reno
+Tulsa Roughnecks
+ 
+30.09. 04:30	
+Sacramento Republic
+Portland 2
+ 
+30.09. 05:00	
+Las Vegas Lights
+Oklahoma City Energy
+ 
+30.09. 19:00	
+Ottawa Fury
+Bethlehem
+ 
+04.10. 00:30	
+Penn
+Charlotte Independ.
+ 
+04.10. 01:00	
+Atlanta United 2
+Tampa Bay
+ 
+04.10. 03:00	
+Real Monarchs
+Oklahoma City Energy
+ 
+04.10. 04:00	
+Portland 2
+Reno
+ 
+04.10. 04:00	
+Seattle 2
+LA Galaxy 2
+ 
+04.10. 04:30	
+Sacramento Republic
+Swope Park
+ 
+06.10. 02:00	
+Toronto FC 2
+Louisville City
+ 
+06.10. 04:00	
+Fresno
+Colorado Springs
+ 
+07.10. 01:00	
+Indy Eleven
+Bethlehem
+ 
+07.10. 01:00	
+North Carolina
+New York Red Bulls 2
+ 
+07.10. 01:00	
+Pittsburgh
+Cincinnati
+ 
+07.10. 01:00	
+Richmond Kickers
+Nashville SC
+ 
+07.10. 01:30	
+Tampa Bay
+Charlotte Independ.
+ 
+07.10. 02:00	
+Tulsa Roughnecks
+Rio Grande
+ 
+07.10. 02:30	
+San Antonio
+Las Vegas Lights
+ 
+07.10. 04:00	
+Orange County SC
+Seattle 2
+ 
+07.10. 04:00	
+Phoenix Rising
+Reno
+ 
+07.10. 04:30	
+LA Galaxy 2
+Sacramento Republic
+ 
+07.10. 22:00	
+Atlanta United 2
+Charleston
+ 
+10.10. 00:30	
+Penn
+New York Red Bulls 2
+ 
+10.10. 01:00	
+Louisville City
+North Carolina
+ 
+10.10. 02:30	
+Nashville SC
+Toronto FC 2
+ 
+11.10. 01:00	
+Atlanta United 2
+Pittsburgh
+ 
+11.10. 04:00	
+Seattle 2
+Colorado Springs
+ 
+11.10. 05:00	
+Las Vegas Lights
+Phoenix Rising
+ 
+13.10. 20:00	
+Nashville SC
+Cincinnati
+ 
+13.10. 20:00	
+Ottawa Fury
+Charleston
+ 
+14.10. 01:00	
+Atlanta United 2
+Richmond Kickers
+ 
+14.10. 01:00	
+Charlotte Independ.
+North Carolina
+ 
+14.10. 01:00	
+Penn
+Toronto FC 2
+ 
+14.10. 01:30	
+Louisville City
+Indy Eleven
+ 
+14.10. 02:00	
+Tulsa Roughnecks
+Seattle 2
+ 
+14.10. 02:30	
+Saint Louis FC
+Oklahoma City Energy
+ 
+14.10. 02:30	
+San Antonio
+Rio Grande
+ 
+14.10. 03:00	
+Reno
+Orange County SC
+ 
+14.10. 04:00	
+Fresno
+Real Monarchs
+ 
+14.10. 04:00	
+Phoenix Rising
+Portland 2
+ 
+14.10. 04:30	
+Sacramento Republic
+Las Vegas Lights
+ 
+14.10. 21:00	
+Bethlehem
+Tampa Bay
+ 
+14.10. 23:00	
+New York Red Bulls 2
+Pittsburgh
+ 
+14.10. 23:00	
+Swope Park
+LA Galaxy 2

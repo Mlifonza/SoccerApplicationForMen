@@ -1,0 +1,667 @@
+ NORWAY: Division 2 - Group 2
+Round 4
+05.05. 14:30	
+Skeid
+V. Haugesund
+ 
+05.05. 15:00	
+Arendal
+K. Oslo
+ 
+05.05. 15:00	
+Kjelsås
+Nardo
+ 
+05.05. 16:00	
+Vidar
+Bryne
+ 
+06.05. 14:30	
+Flekkeroy
+Stjordals Blink
+ 
+06.05. 16:00	
+Brattvag
+Egersunds
+ 
+07.05. 18:00	
+Hodd
+Vålerenga 2
+ 
+Round 5
+12.05. 14:00	
+K. Oslo
+Skeid
+ 
+12.05. 16:00	
+Stjordals Blink
+Kjelsås
+ 
+12.05. 16:00	
+V. Haugesund
+Flekkeroy
+ 
+12.05. 16:00	
+Vidar
+Brattvag
+ 
+13.05. 15:00	
+Egersunds
+Hodd
+ 
+13.05. 18:00	
+Bryne
+Nardo
+ 
+14.05. 19:00	
+Vålerenga 2
+Arendal
+ 
+Round 6
+19.05. 14:00	
+Kjelsås
+V. Haugesund
+ 
+19.05. 16:00	
+Arendal
+Egersunds
+ 
+19.05. 16:00	
+Flekkeroy
+K. Oslo
+ 
+19.05. 16:00	
+Nardo
+Stjordals Blink
+ 
+19.05. 17:00	
+Brattvag
+Bryne
+ 
+20.05. 18:00	
+Hodd
+Vidar
+ 
+22.05. 18:30	
+Skeid
+Vålerenga 2
+ 
+Round 7
+26.05. 14:00	
+Egersunds
+Skeid
+ 
+26.05. 14:00	
+K. Oslo
+Kjelsås
+ 
+26.05. 14:00	
+V. Haugesund
+Nardo
+ 
+26.05. 14:00	
+Vidar
+Arendal
+ 
+26.05. 16:00	
+Brattvag
+Hodd
+ 
+27.05. 16:00	
+Vålerenga 2
+Flekkeroy
+ 
+27.05. 18:00	
+Bryne
+Stjordals Blink
+ 
+Round 8
+02.06. 14:00	
+Skeid
+Vidar
+ 
+02.06. 16:00	
+Flekkeroy
+Egersunds
+ 
+02.06. 16:00	
+Kjelsås
+Vålerenga 2
+ 
+02.06. 16:00	
+Nardo
+K. Oslo
+ 
+02.06. 20:00	
+Arendal
+Brattvag
+ 
+03.06. 16:00	
+Stjordals Blink
+V. Haugesund
+ 
+03.06. 18:00	
+Hodd
+Bryne
+ 
+Round 9
+09.06. 14:00	
+Egersunds
+Kjelsås
+ 
+09.06. 14:30	
+K. Oslo
+Stjordals Blink
+ 
+09.06. 16:00	
+Vidar
+Flekkeroy
+ 
+10.06. 16:30	
+Brattvag
+Skeid
+ 
+10.06. 18:00	
+Bryne
+V. Haugesund
+ 
+10.06. 18:00	
+Hodd
+Arendal
+ 
+11.06. 18:00	
+Vålerenga 2
+Nardo
+ 
+Round 10
+16.06. 13:00	
+V. Haugesund
+K. Oslo
+ 
+16.06. 14:00	
+Kjelsås
+Vidar
+ 
+16.06. 16:00	
+Stjordals Blink
+Vålerenga 2
+ 
+17.06. 13:30	
+Flekkeroy
+Brattvag
+ 
+17.06. 14:00	
+Skeid
+Hodd
+ 
+17.06. 15:00	
+Arendal
+Bryne
+ 
+17.06. 16:00	
+Nardo
+Egersunds
+ 
+Round 11
+22.06. 19:00	
+Egersunds
+Stjordals Blink
+ 
+23.06. 14:00	
+Brattvag
+Kjelsås
+ 
+23.06. 14:00	
+Vidar
+Nardo
+ 
+23.06. 16:00	
+Arendal
+Skeid
+ 
+23.06. 16:00	
+Bryne
+K. Oslo
+ 
+23.06. 17:00	
+Hodd
+Flekkeroy
+ 
+25.06. 14:00	
+Vålerenga 2
+V. Haugesund
+ 
+Round 12
+21.07. 16:00	
+Kjelsås
+Hodd
+ 
+21.07. 16:00	
+Nardo
+Brattvag
+ 
+21.07. 16:00	
+Stjordals Blink
+Vidar
+ 
+21.07. 16:00	
+V. Haugesund
+Egersunds
+ 
+22.07. 18:00	
+Bryne
+Skeid
+ 
+22.07. 18:00	
+Flekkeroy
+Arendal
+ 
+23.07. 19:00	
+K. Oslo
+Vålerenga 2
+ 
+Round 13
+28.07. 15:00	
+Skeid
+Flekkeroy
+ 
+28.07. 16:00	
+Arendal
+Kjelsås
+ 
+28.07. 16:00	
+Brattvag
+Stjordals Blink
+ 
+28.07. 16:00	
+Egersunds
+K. Oslo
+ 
+28.07. 16:00	
+Vidar
+V. Haugesund
+ 
+29.07. 16:00	
+Hodd
+Nardo
+ 
+30.07. 17:00	
+Vålerenga 2
+Bryne
+ 
+Round 14
+04.08. 15:00	
+Skeid
+Kjelsås
+ 
+04.08. 16:00	
+Flekkeroy
+Bryne
+ 
+04.08. 16:00	
+Vidar
+K. Oslo
+ 
+05.08. 14:00	
+Arendal
+Nardo
+ 
+05.08. 14:00	
+Brattvag
+V. Haugesund
+ 
+05.08. 16:00	
+Hodd
+Stjordals Blink
+ 
+06.08. 19:00	
+Egersunds
+Vålerenga 2
+ 
+Round 15
+11.08. 14:00	
+Stjordals Blink
+Arendal
+ 
+11.08. 14:00	
+V. Haugesund
+Hodd
+ 
+11.08. 16:00	
+Kjelsås
+Flekkeroy
+ 
+11.08. 17:00	
+Nardo
+Skeid
+ 
+12.08. 17:00	
+K. Oslo
+Brattvag
+ 
+12.08. 18:00	
+Bryne
+Egersunds
+ 
+13.08. 17:00	
+Vålerenga 2
+Vidar
+ 
+Round 16
+18.08. 13:00	
+Kjelsås
+Bryne
+ 
+18.08. 14:00	
+Vidar
+Egersunds
+ 
+18.08. 15:00	
+Arendal
+V. Haugesund
+ 
+18.08. 17:00	
+Hodd
+K. Oslo
+ 
+19.08. 13:30	
+Flekkeroy
+Nardo
+ 
+19.08. 15:30	
+Skeid
+Stjordals Blink
+ 
+20.08. 18:00	
+Brattvag
+Vålerenga 2
+ 
+Round 17
+25.08. 13:00	
+V. Haugesund
+Skeid
+ 
+25.08. 14:00	
+Stjordals Blink
+Flekkeroy
+ 
+25.08. 16:00	
+K. Oslo
+Arendal
+ 
+25.08. 16:00	
+Nardo
+Kjelsås
+ 
+25.08. 17:00	
+Egersunds
+Brattvag
+ 
+26.08. 18:00	
+Bryne
+Vidar
+ 
+27.08. 19:00	
+Vålerenga 2
+Hodd
+ 
+Round 18
+01.09. 13:00	
+Skeid
+K. Oslo
+ 
+01.09. 15:00	
+Kjelsås
+Stjordals Blink
+ 
+01.09. 16:00	
+Flekkeroy
+V. Haugesund
+ 
+01.09. 17:00	
+Hodd
+Egersunds
+ 
+02.09. 15:00	
+Brattvag
+Vidar
+ 
+02.09. 16:30	
+Nardo
+Bryne
+ 
+03.09. 19:00	
+Arendal
+Vålerenga 2
+ 
+Round 19
+08.09. 14:00	
+Vålerenga 2
+Skeid
+ 
+08.09. 16:00	
+Egersunds
+Arendal
+ 
+08.09. 16:00	
+K. Oslo
+Flekkeroy
+ 
+08.09. 16:00	
+Stjordals Blink
+Nardo
+ 
+08.09. 17:00	
+Bryne
+Brattvag
+ 
+09.09. 15:00	
+V. Haugesund
+Kjelsås
+ 
+09.09. 15:00	
+Vidar
+Hodd
+ 
+Round 20
+15.09. 13:00	
+Skeid
+Egersunds
+ 
+15.09. 14:00	
+Arendal
+Vidar
+ 
+15.09. 16:00	
+Kjelsås
+K. Oslo
+ 
+16.09. 16:00	
+Nardo
+V. Haugesund
+ 
+16.09. 16:30	
+Stjordals Blink
+Bryne
+ 
+16.09. 18:00	
+Hodd
+Brattvag
+ 
+17.09. 17:00	
+Flekkeroy
+Vålerenga 2
+ 
+Round 21
+22.09. 14:00	
+K. Oslo
+Nardo
+ 
+22.09. 15:00	
+Vidar
+Skeid
+ 
+22.09. 16:00	
+Brattvag
+Arendal
+ 
+22.09. 16:00	
+Egersunds
+Flekkeroy
+ 
+22.09. 16:00	
+V. Haugesund
+Stjordals Blink
+ 
+23.09. 15:30	
+Bryne
+Hodd
+ 
+24.09. 19:00	
+Vålerenga 2
+Kjelsås
+ 
+Round 22
+29.09. 15:00	
+Kjelsås
+Egersunds
+ 
+29.09. 15:00	
+V. Haugesund
+Bryne
+ 
+29.09. 16:00	
+Arendal
+Hodd
+ 
+29.09. 16:00	
+Flekkeroy
+Vidar
+ 
+29.09. 16:00	
+Stjordals Blink
+K. Oslo
+ 
+30.09. 15:00	
+Skeid
+Brattvag
+ 
+01.10. 16:00	
+Nardo
+Vålerenga 2
+ 
+Round 23
+06.10. 14:00	
+Brattvag
+Flekkeroy
+ 
+06.10. 14:00	
+Vidar
+Kjelsås
+ 
+06.10. 15:00	
+K. Oslo
+V. Haugesund
+ 
+07.10. 13:00	
+Egersunds
+Nardo
+ 
+07.10. 18:00	
+Bryne
+Arendal
+ 
+07.10. 18:00	
+Hodd
+Skeid
+ 
+08.10. 17:00	
+Vålerenga 2
+Stjordals Blink
+ 
+Round 24
+13.10. 13:00	
+K. Oslo
+Bryne
+ 
+13.10. 13:00	
+Skeid
+Arendal
+ 
+14.10. 13:30	
+Flekkeroy
+Hodd
+ 
+14.10. 15:00	
+Kjelsås
+Brattvag
+ 
+14.10. 15:00	
+Nardo
+Vidar
+ 
+14.10. 15:00	
+Stjordals Blink
+Egersunds
+ 
+14.10. 17:00	
+V. Haugesund
+Vålerenga 2
+ 
+Round 25
+20.10. 15:00	
+Arendal
+Flekkeroy
+ 
+20.10. 15:00	
+Brattvag
+Nardo
+ 
+20.10. 15:00	
+Egersunds
+V. Haugesund
+ 
+20.10. 15:00	
+Hodd
+Kjelsås
+ 
+20.10. 15:00	
+Skeid
+Bryne
+ 
+20.10. 15:00	
+Vålerenga 2
+K. Oslo
+ 
+20.10. 15:00	
+Vidar
+Stjordals Blink
+ 
+Round 26
+27.10. 13:00	
+Bryne
+Vålerenga 2
+ 
+27.10. 13:00	
+Flekkeroy
+Skeid
+ 
+27.10. 13:00	
+K. Oslo
+Egersunds
+ 
+27.10. 13:00	
+Kjelsås
+Arendal
+ 
+27.10. 13:00	
+Nardo
+Hodd
+ 
+27.10. 13:00	
+Stjordals Blink
+Brattvag
+ 
+27.10. 13:00	
+V. Haugesund
+Vidar

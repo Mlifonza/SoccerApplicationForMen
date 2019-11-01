@@ -1,0 +1,648 @@
+ FINLAND: Veikkausliiga
+07.05. 17:00	
+Kemi
+HJK
+ 
+07.05. 17:30	
+Honka
+Mariehamn
+ 
+07.05. 17:30	
+Ilves
+Rovaniemi
+ 
+07.05. 17:30	
+KuPS
+Inter Turku
+ 
+07.05. 17:30	
+Lahti
+SJK
+ 
+07.05. 17:30	
+TPS Turku
+VPS
+ 
+13.05. 17:30	
+Kemi
+TPS Turku
+ 
+13.05. 17:30	
+Rovaniemi
+KuPS
+ 
+13.05. 18:00	
+Mariehamn
+Ilves
+ 
+14.05. 17:30	
+VPS
+Honka
+ 
+18.05. 17:30	
+Honka
+Kemi
+ 
+18.05. 17:30	
+Ilves
+VPS
+ 
+18.05. 17:30	
+KuPS
+Mariehamn
+ 
+18.05. 17:30	
+Lahti
+Rovaniemi
+ 
+18.05. 17:30	
+TPS Turku
+HJK
+ 
+18.05. 19:00	
+SJK
+Inter Turku
+ 
+22.05. 17:30	
+HJK
+Inter Turku
+ 
+22.05. 17:30	
+Kemi
+Ilves
+ 
+22.05. 17:30	
+TPS Turku
+Honka
+ 
+22.05. 17:30	
+VPS
+KuPS
+ 
+22.05. 18:00	
+Mariehamn
+Lahti
+ 
+26.05. 14:00	
+HJK
+Honka
+ 
+26.05. 14:00	
+Ilves
+TPS Turku
+ 
+26.05. 14:00	
+Inter Turku
+Rovaniemi
+ 
+26.05. 14:00	
+KuPS
+Kemi
+ 
+26.05. 14:00	
+Lahti
+VPS
+ 
+26.05. 14:00	
+SJK
+Mariehamn
+ 
+29.05. 17:30	
+HJK
+SJK
+ 
+01.06. 17:30	
+Rovaniemi
+HJK
+ 
+01.06. 17:30	
+TPS Turku
+KuPS
+ 
+01.06. 19:00	
+VPS
+SJK
+ 
+02.06. 16:00	
+Honka
+Ilves
+ 
+02.06. 16:00	
+Kemi
+Lahti
+ 
+02.06. 18:00	
+Mariehamn
+Inter Turku
+ 
+12.06. 17:30	
+HJK
+Mariehamn
+ 
+12.06. 17:30	
+Inter Turku
+Kemi
+ 
+12.06. 17:30	
+KuPS
+Ilves
+ 
+12.06. 17:30	
+Lahti
+Honka
+ 
+12.06. 17:30	
+Rovaniemi
+VPS
+ 
+12.06. 17:30	
+SJK
+TPS Turku
+ 
+15.06. 19:30	
+TPS Turku
+Lahti
+ 
+16.06. 17:30	
+Honka
+KuPS
+ 
+16.06. 17:30	
+Ilves
+HJK
+ 
+16.06. 17:30	
+Inter Turku
+VPS
+ 
+16.06. 17:30	
+Kemi
+SJK
+ 
+16.06. 18:15	
+Mariehamn
+Rovaniemi
+ 
+20.06. 17:30	
+Honka
+SJK
+ 
+20.06. 17:30	
+Ilves
+Lahti
+ 
+20.06. 17:30	
+KuPS
+HJK
+ 
+20.06. 17:30	
+TPS Turku
+Inter Turku
+ 
+20.06. 17:30	
+VPS
+Mariehamn
+ 
+21.06. 16:30	
+Kemi
+Rovaniemi
+ 
+25.06. 17:30	
+HJK
+VPS
+ 
+25.06. 17:30	
+Lahti
+KuPS
+ 
+25.06. 18:00	
+Mariehamn
+Kemi
+ 
+26.06. 17:30	
+Inter Turku
+Honka
+ 
+26.06. 17:30	
+Rovaniemi
+TPS Turku
+ 
+26.06. 17:30	
+SJK
+Ilves
+ 
+29.06. 17:00	
+TPS Turku
+Mariehamn
+ 
+29.06. 18:00	
+Lahti
+HJK
+ 
+30.06. 14:00	
+Honka
+Rovaniemi
+ 
+30.06. 14:00	
+Ilves
+Inter Turku
+ 
+30.06. 14:00	
+Kemi
+VPS
+ 
+30.06. 14:00	
+KuPS
+SJK
+ 
+04.07. 17:30	
+HJK
+Kemi
+ 
+04.07. 17:30	
+Inter Turku
+KuPS
+ 
+04.07. 17:30	
+Rovaniemi
+Ilves
+ 
+04.07. 17:30	
+SJK
+Lahti
+ 
+04.07. 17:30	
+VPS
+TPS Turku
+ 
+04.07. 18:00	
+Mariehamn
+Honka
+ 
+07.07. 13:00	
+TPS Turku
+Kemi
+ 
+07.07. 18:00	
+Lahti
+Inter Turku
+ 
+08.07. 17:30	
+Honka
+VPS
+ 
+09.07. 17:30	
+SJK
+Rovaniemi
+ 
+14.07. 18:00	
+HJK
+TPS Turku
+ 
+14.07. 18:00	
+Inter Turku
+SJK
+ 
+14.07. 18:00	
+Kemi
+Honka
+ 
+21.07. 16:00	
+Honka
+TPS Turku
+ 
+21.07. 16:00	
+Rovaniemi
+SJK
+ 
+22.07. 16:00	
+Ilves
+Kemi
+ 
+22.07. 16:00	
+KuPS
+VPS
+ 
+22.07. 16:00	
+Lahti
+Mariehamn
+ 
+26.07. 17:30	
+Rovaniemi
+Inter Turku
+ 
+28.07. 16:00	
+Honka
+HJK
+ 
+29.07. 17:30	
+Kemi
+KuPS
+ 
+29.07. 17:30	
+VPS
+Lahti
+ 
+29.07. 18:00	
+Mariehamn
+SJK
+ 
+30.07. 17:30	
+TPS Turku
+Ilves
+ 
+03.08. 19:00	
+SJK
+VPS
+ 
+04.08. 16:00	
+HJK
+Rovaniemi
+ 
+04.08. 16:00	
+Inter Turku
+Mariehamn
+ 
+05.08. 16:00	
+Ilves
+Honka
+ 
+05.08. 16:00	
+KuPS
+TPS Turku
+ 
+05.08. 16:00	
+Lahti
+Kemi
+ 
+11.08. 16:00	
+Honka
+TPS Turku
+ 
+11.08. 16:00	
+Ilves
+HJK
+ 
+11.08. 16:00	
+VPS
+SJK
+ 
+12.08. 17:30	
+KuPS
+Kemi
+ 
+12.08. 17:30	
+Lahti
+Inter Turku
+ 
+12.08. 17:30	
+Rovaniemi
+Mariehamn
+ 
+17.08. 17:30	
+TPS Turku
+VPS
+ 
+18.08. 16:00	
+HJK
+Kemi
+ 
+18.08. 16:00	
+Inter Turku
+KuPS
+ 
+19.08. 18:00	
+Mariehamn
+Honka
+ 
+20.08. 17:30	
+Lahti
+Rovaniemi
+ 
+20.08. 17:30	
+SJK
+Ilves
+ 
+24.08. 17:30	
+VPS
+Mariehamn
+ 
+25.08. 16:00	
+Honka
+Lahti
+ 
+25.08. 16:00	
+Ilves
+TPS Turku
+ 
+25.08. 16:00	
+Inter Turku
+Rovaniemi
+ 
+25.08. 16:00	
+Kemi
+SJK
+ 
+26.08. 17:30	
+KuPS
+HJK
+ 
+29.08. 17:30	
+Ilves
+Mariehamn
+ 
+31.08. 17:30	
+Lahti
+VPS
+ 
+31.08. 17:30	
+Rovaniemi
+Honka
+ 
+31.08. 17:30	
+TPS Turku
+Kemi
+ 
+01.09. 16:00	
+SJK
+KuPS
+ 
+02.09. 17:30	
+HJK
+Inter Turku
+ 
+02.09. 18:00	
+Mariehamn
+Ilves
+ 
+13.09. 17:30	
+HJK
+Mariehamn
+ 
+13.09. 17:30	
+Ilves
+Honka
+ 
+13.09. 17:30	
+Inter Turku
+VPS
+ 
+13.09. 17:30	
+KuPS
+Lahti
+ 
+13.09. 17:30	
+SJK
+TPS Turku
+ 
+14.09. 17:30	
+Kemi
+Rovaniemi
+ 
+17.09. 17:30	
+Honka
+Kemi
+ 
+17.09. 17:30	
+Lahti
+HJK
+ 
+17.09. 17:30	
+Rovaniemi
+KuPS
+ 
+17.09. 17:30	
+TPS Turku
+Inter Turku
+ 
+17.09. 17:30	
+VPS
+Ilves
+ 
+17.09. 18:00	
+Mariehamn
+SJK
+ 
+21.09. 17:30	
+HJK
+Rovaniemi
+ 
+21.09. 17:30	
+SJK
+Lahti
+ 
+22.09. 15:00	
+Kemi
+VPS
+ 
+22.09. 16:00	
+Ilves
+Inter Turku
+ 
+22.09. 16:00	
+KuPS
+Honka
+ 
+23.09. 18:00	
+Mariehamn
+TPS Turku
+ 
+26.09. 17:30	
+Inter Turku
+Lahti
+ 
+29.09. 14:00	
+Honka
+HJK
+ 
+29.09. 16:00	
+Ilves
+Kemi
+ 
+29.09. 16:00	
+Inter Turku
+Mariehamn
+ 
+29.09. 16:00	
+VPS
+KuPS
+ 
+30.09. 17:30	
+Lahti
+TPS Turku
+ 
+30.09. 17:30	
+Rovaniemi
+SJK
+ 
+06.10. 14:00	
+Kemi
+Inter Turku
+ 
+06.10. 15:00	
+TPS Turku
+Rovaniemi
+ 
+06.10. 17:00	
+SJK
+Honka
+ 
+07.10. 16:00	
+HJK
+VPS
+ 
+07.10. 16:00	
+KuPS
+Ilves
+ 
+07.10. 16:00	
+Mariehamn
+Lahti
+ 
+21.10. 13:30	
+HJK
+SJK
+ 
+21.10. 13:30	
+Ilves
+Lahti
+ 
+21.10. 13:30	
+Inter Turku
+Honka
+ 
+21.10. 13:30	
+Kemi
+Mariehamn
+ 
+21.10. 13:30	
+KuPS
+TPS Turku
+ 
+21.10. 13:30	
+VPS
+Rovaniemi
+ 
+27.10. 14:00	
+Honka
+VPS
+ 
+27.10. 14:00	
+Lahti
+Kemi
+ 
+27.10. 14:00	
+Mariehamn
+KuPS
+ 
+27.10. 14:00	
+Rovaniemi
+Ilves
+ 
+27.10. 14:00	
+SJK
+Inter Turku
+ 
+27.10. 14:00	
+TPS Turku
+HJK

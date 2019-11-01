@@ -1,0 +1,327 @@
+ NORWAY: OBOS-ligaen
+Round 10
+29.05. 19:00	
+Kongsvinger
+Ull/Kisa
+2 : 1	
+27.05. 18:00	
+Aalesund
+Ham-Kam
+1 : 2	
+27.05. 18:00	
+Floro
+Levanger
+0 : 2	
+27.05. 18:00	
+Jerv
+Viking
+3 : 2	
+27.05. 18:00	
+Mjondalen
+Sandnes
+1 : 0	
+27.05. 18:00	
+Notodden
+Åsane
+0 : 0	
+27.05. 18:00	
+Sogndal
+Strømmen
+5 : 1	
+27.05. 18:00	
+Tromsdalen
+Nest-Sotra
+3 : 1	
+Round 9
+22.05. 19:00	
+Viking
+Aalesund
+0 : 2	
+21.05. 18:00	
+Åsane
+Kongsvinger
+3 : 1	
+21.05. 18:00	
+Ham-Kam
+Floro
+3 : 0	
+21.05. 18:00	
+Levanger
+Jerv
+2 : 3	
+21.05. 18:00	
+Nest-Sotra
+Sogndal
+0 : 1	
+21.05. 18:00	
+Sandnes
+Tromsdalen
+2 : 1	
+21.05. 18:00	
+Strømmen
+Mjondalen
+0 : 1	
+21.05. 18:00	
+Ull/Kisa
+Notodden
+1 : 2	
+Round 8
+16.05. 18:00	
+Aalesund
+Strømmen
+2 : 2	
+16.05. 18:00	
+Floro
+Nest-Sotra
+0 : 2	
+16.05. 18:00	
+Jerv
+Notodden
+1 : 0	
+16.05. 18:00	
+Kongsvinger
+Ham-Kam
+2 : 1	
+16.05. 18:00	
+Mjondalen
+Ull/Kisa
+0 : 2	
+16.05. 18:00	
+Sogndal
+Åsane
+1 : 4	
+16.05. 18:00	
+Viking
+Sandnes
+5 : 2	
+16.05. 16:30	
+Tromsdalen
+Levanger
+1 : 2	
+Round 7
+13.05. 18:00	
+Åsane
+Aalesund
+2 : 3	
+13.05. 18:00	
+Ham-Kam
+Nest-Sotra
+1 : 1	
+13.05. 18:00	
+Kongsvinger
+Mjondalen
+0 : 1	
+13.05. 18:00	
+Levanger
+Viking
+0 : 0	
+13.05. 18:00	
+Notodden
+Tromsdalen
+2 : 3	
+13.05. 18:00	
+Sandnes
+Floro
+4 : 0	
+13.05. 18:00	
+Strømmen
+Jerv
+2 : 3	
+13.05. 15:00	
+Ull/Kisa
+Sogndal
+2 : 0	
+Round 6
+06.05. 18:00	
+Floro
+Ull/Kisa
+1 : 1	
+06.05. 18:00	
+Jerv
+Åsane
+1 : 1	
+06.05. 18:00	
+Nest-Sotra
+Levanger
+4 : 1	
+06.05. 18:00	
+Sogndal
+Sandnes
+2 : 2	
+06.05. 18:00	
+Tromsdalen
+Kongsvinger
+3 : 3	
+06.05. 18:00	
+Viking
+Notodden
+3 : 1	
+06.05. 15:00	
+Aalesund
+Mjondalen
+2 : 1	
+05.05. 15:30	
+Ham-Kam
+Strømmen
+3 : 2
+Round 5
+29.04. 18:00	
+Åsane
+Floro
+3 : 1	
+29.04. 18:00	
+Levanger 
+Ham-Kam
+4 : 3	
+29.04. 18:00	
+Mjondalen
+Tromsdalen
+0 : 0	
+29.04. 18:00	
+Notodden 
+Sogndal
+0 : 2	
+29.04. 18:00	
+Sandnes 
+Jerv
+0 : 0	
+29.04. 18:00	
+Strømmen
+Nest-Sotra
+1 : 2	
+29.04. 15:00	
+Ull/Kisa
+Viking
+4 : 5	
+28.04. 15:30	
+Kongsvinger
+Aalesund
+1 : 3	
+Round 4
+24.04. 19:00	
+Ham-Kam
+Sandnes
+0 : 0	
+22.04. 18:00	
+Aalesund
+Tromsdalen
+4 : 0	
+22.04. 18:00	
+Floro
+Notodden
+1 : 4	
+22.04. 18:00	
+Jerv
+Mjondalen
+0 : 0	
+22.04. 18:00	
+Nest-Sotra
+Ull/Kisa
+0 : 3	
+22.04. 18:00	
+Sogndal
+Kongsvinger
+4 : 1	
+22.04. 18:00	
+Viking
+Åsane
+4 : 0	
+22.04. 15:00	
+Strømmen
+Levanger
+3 : 0	
+Round 3
+15.04. 18:00	
+Åsane
+Ham-Kam
+1 : 1	
+15.04. 18:00	
+Kongsvinger
+Jerv
+2 : 0	
+15.04. 18:00	
+Notodden
+Nest-Sotra
+2 : 1	
+15.04. 18:00	
+Sandnes
+Levanger
+1 : 0	
+15.04. 18:00	
+Tromsdalen 
+Viking
+0 : 2	
+15.04. 18:00	
+Ull/Kisa
+Strømmen
+2 : 1	
+15.04. 15:00	
+Aalesund
+Floro
+4 : 0	
+14.04. 15:30	
+Mjondalen
+Sogndal
+0 : 0	
+Round 2
+10.04. 19:00	
+Viking
+Mjondalen
+0 : 2	
+08.04. 18:00	
+Floro
+Kongsvinger
+1 : 0	
+08.04. 18:00	
+Ham-Kam 
+Notodden
+1 : 3	
+08.04. 18:00	
+Jerv
+Ull/Kisa
+1 : 1	
+08.04. 18:00	
+Nest-Sotra
+Sandnes
+2 : 3	
+08.04. 18:00	
+Sogndal
+Tromsdalen
+1 : 1	
+08.04. 17:00	
+Strømmen
+Åsane 
+3 : 0	
+08.04. 15:00	
+Levanger
+Aalesund
+1 : 2	
+Round 1
+03.04. 19:00	
+Aalesund
+Sogndal
+0 : 0	
+02.04. 18:00	
+Kongsvinger
+Viking
+0 : 2	
+02.04. 18:00	
+Mjondalen
+Floro
+1 : 1	
+02.04. 18:00	
+Notodden
+Levanger
+1 : 1	
+02.04. 18:00	
+Sandnes
+Strømmen
+2 : 1	
+02.04. 18:00	
+Ull/Kisa
+Ham-Kam
+1 : 1	
+02.04. 15:00	
+Åsane
+Nest-Sotra
+3 : 1

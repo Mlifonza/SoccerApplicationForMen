@@ -1,0 +1,495 @@
+ CHILE: Primera Division Fixtures
+Round 16
+21.07. 22:00	
+Curico Unido
+San Luis
+ 
+21.07. 22:00	
+Deportes Temuco
+Antofagasta
+ 
+21.07. 22:00	
+Everton
+O'Higgins
+ 
+21.07. 22:00	
+U. Calera
+Colo Colo
+ 
+21.07. 22:00	
+U. Catolica
+Deportes Iquique
+ 
+21.07. 22:00	
+U. De Chile
+Huachipato
+ 
+21.07. 22:00	
+U. De Concepcion
+Palestino
+ 
+21.07. 22:00	
+U. Espanola
+A. Italiano
+ 
+Round 17
+28.07. 22:00	
+A. Italiano
+U. De Concepcion
+ 
+28.07. 22:00	
+Antofagasta
+U. De Chile
+ 
+28.07. 22:00	
+Colo Colo
+Curico Unido
+ 
+28.07. 22:00	
+Deportes Iquique
+Everton
+ 
+28.07. 22:00	
+Huachipato
+U. Espanola
+ 
+28.07. 22:00	
+O'Higgins
+U. Calera
+ 
+28.07. 22:00	
+Palestino
+U. Catolica
+ 
+28.07. 22:00	
+San Luis
+Deportes Temuco
+ 
+Round 18
+04.08. 22:00	
+Antofagasta
+Curico Unido
+ 
+04.08. 22:00	
+Deportes Temuco
+Colo Colo
+ 
+04.08. 22:00	
+San Luis
+O'Higgins
+ 
+04.08. 22:00	
+U. Calera
+Palestino
+ 
+04.08. 22:00	
+U. Catolica
+Everton
+ 
+04.08. 22:00	
+U. De Chile
+A. Italiano
+ 
+04.08. 22:00	
+U. De Concepcion
+Huachipato
+ 
+04.08. 22:00	
+U. Espanola
+Deportes Iquique
+ 
+Round 19
+11.08. 22:00	
+Colo Colo
+San Luis
+ 
+11.08. 22:00	
+Curico Unido
+Deportes Iquique
+ 
+11.08. 22:00	
+Everton
+U. De Concepcion
+ 
+11.08. 22:00	
+Huachipato
+A. Italiano
+ 
+11.08. 22:00	
+O'Higgins
+Antofagasta
+ 
+11.08. 22:00	
+Palestino
+Deportes Temuco
+ 
+11.08. 22:00	
+U. Calera
+U. Catolica
+ 
+11.08. 22:00	
+U. Espanola
+U. De Chile
+ 
+Round 20
+18.08. 22:00	
+A. Italiano
+Palestino
+ 
+18.08. 22:00	
+Antofagasta
+U. Calera
+ 
+18.08. 22:00	
+Deportes Iquique
+Colo Colo
+ 
+18.08. 22:00	
+Everton
+Huachipato
+ 
+18.08. 22:00	
+San Luis
+U. Espanola
+ 
+18.08. 22:00	
+U. Catolica
+Curico Unido
+ 
+18.08. 22:00	
+U. De Chile
+O'Higgins
+ 
+18.08. 22:00	
+U. De Concepcion
+Deportes Temuco
+ 
+Round 21
+25.08. 22:00	
+A. Italiano
+U. Catolica
+ 
+25.08. 22:00	
+Colo Colo
+U. De Chile
+ 
+25.08. 22:00	
+Curico Unido
+U. De Concepcion
+ 
+25.08. 22:00	
+Deportes Temuco
+Everton
+ 
+25.08. 22:00	
+Huachipato
+Antofagasta
+ 
+25.08. 22:00	
+O'Higgins
+U. Espanola
+ 
+25.08. 22:00	
+Palestino
+San Luis
+ 
+25.08. 22:00	
+U. Calera
+Deportes Iquique
+ 
+Round 22
+01.09. 22:00	
+Antofagasta
+Palestino
+ 
+01.09. 22:00	
+Deportes Iquique
+O'Higgins
+ 
+01.09. 22:00	
+Everton
+Colo Colo
+ 
+01.09. 22:00	
+Huachipato
+Curico Unido
+ 
+01.09. 22:00	
+San Luis
+A. Italiano
+ 
+01.09. 22:00	
+U. De Chile
+Deportes Temuco
+ 
+01.09. 22:00	
+U. De Concepcion
+U. Calera
+ 
+01.09. 22:00	
+U. Espanola
+U. Catolica
+ 
+Round 23
+22.09. 22:00	
+A. Italiano
+Deportes Iquique
+ 
+22.09. 22:00	
+Colo Colo
+Antofagasta
+ 
+22.09. 22:00	
+Curico Unido
+O'Higgins
+ 
+22.09. 22:00	
+Deportes Temuco
+Huachipato
+ 
+22.09. 22:00	
+Palestino
+U. Espanola
+ 
+22.09. 22:00	
+U. Calera
+Everton
+ 
+22.09. 22:00	
+U. Catolica
+San Luis
+ 
+22.09. 22:00	
+U. De Concepcion
+U. De Chile
+ 
+Round 24
+29.09. 22:00	
+Antofagasta
+U. De Concepcion
+ 
+29.09. 22:00	
+Deportes Iquique
+Deportes Temuco
+ 
+29.09. 22:00	
+Everton
+A. Italiano
+ 
+29.09. 22:00	
+O'Higgins
+Palestino
+ 
+29.09. 22:00	
+San Luis
+Huachipato
+ 
+29.09. 22:00	
+U. Catolica
+Colo Colo
+ 
+29.09. 22:00	
+U. De Chile
+U. Calera
+ 
+29.09. 22:00	
+U. Espanola
+Curico Unido
+ 
+Round 25
+06.10. 22:00	
+A. Italiano
+U. Calera
+ 
+06.10. 22:00	
+Colo Colo
+U. Espanola
+ 
+06.10. 22:00	
+Curico Unido
+Everton
+ 
+06.10. 22:00	
+Deportes Temuco
+O'Higgins
+ 
+06.10. 22:00	
+Huachipato
+U. Catolica
+ 
+06.10. 22:00	
+Palestino
+U. De Chile
+ 
+06.10. 22:00	
+San Luis
+Antofagasta
+ 
+06.10. 22:00	
+U. De Concepcion
+Deportes Iquique
+ 
+Round 26
+20.10. 22:00	
+Antofagasta
+A. Italiano
+ 
+20.10. 22:00	
+Curico Unido
+Palestino
+ 
+20.10. 22:00	
+Deportes Iquique
+San Luis
+ 
+20.10. 22:00	
+O'Higgins
+Colo Colo
+ 
+20.10. 22:00	
+U. Calera
+Huachipato
+ 
+20.10. 22:00	
+U. Catolica
+U. De Concepcion
+ 
+20.10. 22:00	
+U. De Chile
+Everton
+ 
+20.10. 22:00	
+U. Espanola
+Deportes Temuco
+ 
+Round 27
+27.10. 22:00	
+A. Italiano
+Colo Colo
+ 
+27.10. 22:00	
+Deportes Temuco
+Curico Unido
+ 
+27.10. 22:00	
+Everton
+Antofagasta
+ 
+27.10. 22:00	
+Huachipato
+O'Higgins
+ 
+27.10. 22:00	
+Palestino
+Deportes Iquique
+ 
+27.10. 22:00	
+U. Calera
+San Luis
+ 
+27.10. 22:00	
+U. De Chile
+U. Catolica
+ 
+27.10. 22:00	
+U. De Concepcion
+U. Espanola
+ 
+Round 28
+03.11. 23:00	
+Antofagasta
+U. Catolica
+ 
+03.11. 23:00	
+Colo Colo
+Palestino
+ 
+03.11. 23:00	
+Curico Unido
+U. Calera
+ 
+03.11. 23:00	
+Deportes Iquique
+Huachipato
+ 
+03.11. 23:00	
+Deportes Temuco
+A. Italiano
+ 
+03.11. 23:00	
+O'Higgins
+U. De Concepcion
+ 
+03.11. 23:00	
+San Luis
+U. De Chile
+ 
+03.11. 23:00	
+U. Espanola
+Everton
+ 
+Round 29
+24.11. 23:00	
+A. Italiano
+Curico Unido
+ 
+24.11. 23:00	
+Antofagasta
+U. Espanola
+ 
+24.11. 23:00	
+Everton
+Palestino
+ 
+24.11. 23:00	
+Huachipato
+Colo Colo
+ 
+24.11. 23:00	
+U. Calera
+Deportes Temuco
+ 
+24.11. 23:00	
+U. Catolica
+O'Higgins
+ 
+24.11. 23:00	
+U. De Chile
+Deportes Iquique
+ 
+24.11. 23:00	
+U. De Concepcion
+San Luis
+ 
+Round 30
+01.12. 23:00	
+Colo Colo
+U. De Concepcion
+ 
+01.12. 23:00	
+Curico Unido
+U. De Chile
+ 
+01.12. 23:00	
+Deportes Iquique
+Antofagasta
+ 
+01.12. 23:00	
+Deportes Temuco
+U. Catolica
+ 
+01.12. 23:00	
+O'Higgins
+A. Italiano
+ 
+01.12. 23:00	
+Palestino
+Huachipato
+ 
+01.12. 23:00	
+San Luis
+Everton
+ 
+01.12. 23:00	
+U. Espanola
+U. Calera
